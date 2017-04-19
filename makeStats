@@ -1,0 +1,127 @@
+#!/usr/bin/env Rscript
+
+# =================
+# Copyright 2015 Michael Cysouw <cysouw@mac.com>
+#
+# This file is free software: you may copy, redistribute and/or modify it
+# under the terms of the GNU General Public License as published by the
+# Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# This file is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# =================
+
+# =====
+# usage
+# =====
+
+DOC <- "
+USAGE: 
+  makeStats.R [-h -o OUTDIR] <FILE>
+
+DESCRIPTION:
+  Using R-packages qlcMatrix and qlcData,
+  to make a wordlist and a nice character list.
+  FILE should give complete path to a file;
+  end in * to process all files in a directory.
+
+OPTIONS:
+  -h, --help    Showing this help text
+  -o OUTDIR	directory to save the results [default: .]
+"
+
+# ==============
+# docopt parsing
+# ==============
+
+attach(docopt::docopt(DOC))
+
+# check OUTDIR
+OUTDIR <- o
+dir.create(OUTDIR, showWarnings = FALSE)
+OUTDIR <- normalizePath(OUTDIR)
+
+# make INDIR from FILE
+pathparts <- strsplit(FILE, split = "/")[[1]]
+FILE <- tail(pathparts, 1)
+INDIR <- paste(head(pathparts, -1), collapse = "/")
+
+if (INDIR == "") { INDIR <- normalizePath(".") }
+
+# ============
+# dependencies
+# ============
+
+library(methods, quietly = TRUE) # this dependency is a bug, and should be removed in the future
+library(qlcMatrix, quietly = TRUE)
+library(qlcData, quietly = TRUE)
+
+# ===========
+# R functions
+# ===========
+
+write.summaries <- function(file, outpath = OUTDIR, inpath = INDIR) {
+
+	t <- read.text(file.path(inpath, file))
+	b <- splitText(t)
+	
+	write.profile(
+		t
+		, info = T
+		, file = file.path(outpath, paste0(file, "_orthography.txt"))
+		, collation.locale = "en_US.UTF-8"
+		) -> profile
+
+	single <- which(nchar(b$wordforms) == 1)
+	Grapheme <- b$wordforms[single]
+	match <- profile
+	rownames(match) <- match[,1]
+	GraphFrequency <- as.numeric(match[Grapheme, 2])
+	WordFrequency <- rowSums(b$WR)[single]
+	Difference = GraphFrequency - WordFrequency
+
+	write.table(
+		cbind( Grapheme, GraphFrequency, WordFrequency, Difference ) [order(Difference),]
+		, sep = "\t"
+		, col.names = TRUE
+		, row.names = FALSE
+		, quote = FALSE
+		, file = file.path(outpath, paste0(file, "_length1.txt"))
+		)
+
+	write.table(
+		cbind(b$wordforms,rowSums(b$WR))
+		, sep = "\t"
+		, col.names = FALSE
+		, row.names = FALSE
+		, quote = FALSE
+		, file = file.path(outpath, paste0(file, "_wordforms.txt"))
+		)
+}
+
+# ======
+# R code
+# ======
+
+# Write summary statistics for parallel text files, useful for checking
+#
+# assumes object OUTDIR, INDIR and FILE from command line executable
+# for direct usage inside R, add something like this
+#
+# OUTDIR <- "stats"
+# INDIR <- "../udhr/corpus"
+# FILE <- "*"
+
+if (FILE == "*") {
+	invisible(sapply(list.files(INDIR), write.summaries))
+} else {
+	write.summaries(FILE)
+}
+
+

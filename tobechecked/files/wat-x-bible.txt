@@ -1,0 +1,520 @@
+# language_name:        Kaninuwa
+# Closest ISO 639-3:    wat
+# year_short:           2016
+# year_long:            Not available
+# title:                Buk Baibel long Kaninuwa<br>Portions of the Holy Bible in the Kaninuwa language of Papua New Guinea
+# URL:                  http://bible.cloud/bible/content/texts/LBBWBT/index.html
+# copyright_short:      © 2016 Wycliffe Bible Translators, Inc.
+# copyright_long:       © Wycliffe Bible Translators, Inc. All rights reserved.<br>This translation text is made available to you under the terms of the Creative Commons License: Attribution-Noncommercial-No Derivative Works. (http://creativecommons.org/licenses/by-nc-nd/3.0/). In addition, you have permission to port the text to different file formats, as long as you do not change any of the text or punctuation of the Bible. You may share, copy, distribute, transmit, and extract portions or quotations from this work, provided that you include the above copyright information: You must give Attribution to the work.You do not sell this work for a profit.You do not make any derivative works that change any of the actual words or punctuation of the Scriptures. Permissions beyond the scope of this license may be available if you contact us with your request.
+01001001	Kafa viuḡuwai Guyau abama keta fwayafwaya i fufunisiya .
+01001002	Eatu maiunuununa keta kawakakavina keta kumanovana kunukubana ogodibu i gikafufuya . Keta Guyau Kanununa etanei i kanukanuwedadaniya .
+01001003	Keta Guyau i bwaduwa , “ Mayesina , ku kikinomana , ” keta mayesina i kikinomana .
+01001004	Guyau mayesina i kitiya dewadewana eketa mayesina i nutakiya kumanovana nenei .
+01001005	Keta mayesina i weniya kuyadayada atu kumanovana i weniya nuwabuna . Keta navinavi i kakaviya atu nuwabuni i kikinomana , na naki kuyadayada kafa viuḡu .
+01001006	Guyau i bwaduwa , “ Baiyavana , ku kikinomana ukowa kasi kawasasai be ku nutakiya kabaḡa nuwesi nenesiyai . ”
+01001007	Eketa na naki maise i kikinomana . Guyau baiyavana i fufuniya ebe ina nutakiya ata kana ukowa keta tanowa kana ukowa .
+01001008	Baiyavananama i weniya abama . Keta navinavi i kakaviya atu nuwabuni i kikinomana , na naki kuyadayada kana vinuwa .
+01001009	Keta Guyau i bwaduwa , “ Ukowa abama kanonovanei i kavivau kabaḡa tamokaḡa nenei atu fwayafwaya kasakasanina ku kikinomana . ” Eketa na naki maise i kikinomana .
+01001010	Kasakasanina i weniya fwayafwaya atu ukowa i kaviviya i weniya gibo . Keta Guyau i kitiya naki dewadewana .
+01001011	Yota i bwaduwa , “ Kisisiku tuninatunina fwayafwaya nenei i kawananaimi . Kai vivisisimi , kai na kavami be na susukwami . ” Eketa na naki maise i kikinomana .
+01001012	Kisisiku tuninatunina fwayafwaya kasakasaninei si tafwa . Kai vivisisisi , kai na kavasi be na susukwasi si viuwa maise kiayonisi . Keta Guyau i kitiya naki dewadewana .
+01001013	Keta navinavi i kakaviya atu nuwabuni i kikinomana , kuyadayada kana vitonu .
+01001014	Keta Guyau i bwaduwa , “ Kimayeta , kawasasakaoḡowai kwa kikinomana be kwa nutakai kuyadayada nuwabuna nenei be kwana vikiyakiyaya tutuya , kuyadayada , keta manamana .
+01001015	Kwana tafa kawasasakaoḡowai be fwayafwaya mayesina kwana veniya . ” Eketa na naki maise i kikinomana .
+01001016	Guyau kimayeta nuwesi nakanakasisi i fufunisiya , tafana nakasina kuyadayada ina visimeiya atu tafana kabegona nuwabuna ina visimeiya . Keta yota kinavinavi i fufunisiya .
+01001017	Guyau kimayeta kawasasakaoḡowai i tenisiya be fwayafwaya sina tafiya ,
+01001018	be yota sina visimeisiya kuyadayada keta nuwabuna be yota sina nutakiya mayesina kumanovana nenei . Keta Guyau i kitiya naki dewadewana .
+01001019	Keta navinavi i kakaviya atu nuwabuni i kikinomana , kuyadayada kana vinufunina .
+01001020	Guyau i bwaduwa , “ Ukowa , ku maḡa gevageva tunisitunisi na yawasisi yota maise manuwa kawasasakaoḡowai . ”
+01001021	Guyau i fufunisiya gibo kana kabikeya be iba tamokatamokaḡa ukowa sinenei yawayawasisi si savisavivina tututausi kasi kikitana maise , yota manuwa tamokatamokaḡa tauna kana kikitana maise . Keta Guyau i kitiya naki dewadewana .
+01001022	I sawanuwagabubuwisiya keta i iyavisiya i bwaduwa , “ Gevageva , kwana vinatunasiwasiwaḡa keta kwana yagwana be gibo kwana vimaiya . Manuwa , kwana vinatunafuwaḡa keta kwana yagwana fwayafwaya etanei . ”
+01001023	Keta navinavi i kakaviya atu nuwabuni i kikinomana , kuyadayada kana vi5 .
+01001024	Guyau i bwaduwa , “ Fwayafwaya , yomuyomu tamokatamokaḡa ku gikikinomaneisi nimwauwai be kidagimai , be yota tooyaḡayaḡaḡa tamokatamokaḡa , tauna kana kikitana maise . ” Eketa na naki maise i kikinomana .
+01001025	Eketa Guyau i fufunisiya yomuyomu nimwauwai be kidagimai , be yota tooyaḡayaḡaḡa tamokatamokaḡa , tauna kana kikitana maise . Keta Guyau i kitiya naki dewadewana .
+01001026	Keta Guyau i bwaduwa , “ Namoḡa tana fufuniya kata kitakita maise ebe tasike kita maise . Be tasike nimasiyai tana tenisiya gibo kana iyana keta manuwa kawasasakaoḡowai , yomuyomu fwayafwaya kana matatafu nenei , yota tooyaḡayaḡaḡa fwayafwaya nenei si savisavivina . ”
+01001027	Eketa Guyau namoḡa i fufunisiya tanake kana kitakita maise , Guyau kana kitakita maise i fufunisiya namoḡa , namoḡa keta gumayogu i fufunisiya .
+01001028	Guyau i sawanuwagabubuwisiya keta i iyavisiya i bwaduwa , “ Kwana vinatunasiwasiwaḡa keta kwana yagwana , be fwayafwaya kwana vimaiya keta kwana visimeisiya . Gibo kana iyana yota manuwa kawasasakaoḡowai be yomuyomu matatafuna fwayafwayai si savisavivina , kwana visimeisiya . ”
+01001029	Guyau i bwaduwa , “ Iba matatafuna fwayafwayai maise kai vivisisisi keta kai viviuwasi , a venimiya tasike kami kabwaga .
+01001030	Keta yomuyomu-wanawanaki yota manuwa be tooyaḡayaḡaḡa fwayafwaya etanei na yawasisi , a venisiya kisaya o kabwaga fasinei . ” Eketa na naki maise i kikinomana .
+01001031	Guyau iba matatafuna i fufunisiya , i kitiya naki dewabauna . Keta navinavi i kakaviya atu nuwabuni i kikinomana , kuyadayada kana vi6 .
+01002001	Abama , fwayafwaya keta iba matatafusi kasi kikifufuna naki i kakaviya .
+01002002	Keta Guyau yana kifufuna i nusafuya , eketa kuyadayada kana vi7 nenei i vidawana eketa i viyawasiya .
+01002003	Eketa kuyadayada kana vi7 Guyau i sawanuwagabubuwiya keta i tenesiniya , uḡuna kuyadayadanama nenei o i viyawasiya yana kikifufuna kana bunanige matatafuna nenesiyai .
+01002004	Eketa namaise Guyau abama keta fwayafwaya i fufunisiya , naki maisemoka sifusifufuna .
+01002007	Keta Yave Guyau fwayafwaya kafusisimina nenei namoḡa i gikamakamiya . Keta i kawasiveiya yawasina namoḡa niunei keta namoḡa i yawasa .
+01002008	Keta Yave Guyau baguna i baguniya Ideni nenei gagasa kuweyaina keta namoḡanama i gikamakamiya nokomai i teniya .
+01002009	I fufunisiya kai dewabausi nokomai si tafwa keta si sakuna uwasi dewadewasi . Baguna sinefounei kai nuwesi si misiniya . Kai tamokaḡa i misiniya o yawasi kana kai eatu tamo o dewadewana keta goyona kasi kafa sanamana kana kai .
+01002015	Keta Yave Guyau namoḡa baguna Ideni sinenei i teniya be ina saviviniya keta yota ina kitavikaviniya .
+01002016	Yave Guyau namoḡa i iyaviya i bwaduwa , “ Ka nufota avi kai uwana kuna kaniya baguna sinenei .
+01002017	Atu namai dewadewana keta goyona kasi kafa sanamana kana kai muka nenei kuna ka . Tovanama kuna kaniya , kuna mateya . ”
+01002018	Yave Guyau tauna nenei i bwaduwa , “ Namoḡa kana kisina i fakwafakwa atu muka dewadewana . Unana ana fufuniya be ina ovivitiya . ”
+01002019	Keta fwayafwaya i viya keta yomuyomu matatafusi be manuwa matatafusi i gikamakamisiya . Keta i nemiisiya namoḡa nenei be ita kitiya namoḡa namaise kasi wava ita kavenena , keta namaise kasi wava i viweneya naki maise kasi wava .
+01002020	Namoḡa , manuwa kawasasakaoḡowai be yota yomuyomu nimwauwai eketa kidagimai matatafusi kasi wava i kavenena , eatu muka tamo nama ita nufotai Adama kana toovivita .
+01002021	Eketa Yave Guyau namoḡa i visanafuwiya keta i banumatemateya . Keta yawane i banubanuwa nenei , Guyau namoḡa ninivatavatanina i viya atu viyo nenei kawakivina i tenefotiya .
+01002022	Yave Guyau gumayogu i gikamakamiya namoḡa ninivatavatanina nenei eketa i nemiiya namoḡa nenei .
+01002023	Namoḡa i bwaduwa ,  “ Nofe tanake , seḡa o iyau seḡaku keta viyo o iyau viyoku . Nofe tanake Namoḡa sinenei i viya , na fasinei ana weniya Gumayogu . ”
+01002024	Na fasinei namoḡa amana keta ayona ina teweisiya eatu kawana nukusi sina saviya tamo nenei , eketa kasi nuwa sina vitamokaḡa .
+01002025	Namoḡa keta kawana nukusi gonegonesi atu muka sita sinemumu .
+01003001	Yomuyomu kidagimai Yave Guyau i fufunisiya sinesiyai mwata tanake tovikanononoonaona . Mwata gumayogu i nutonidadaniya i bwaduwa , “ Venemokena Guyau i iyavimiya muka uwa kwana ka kaisima baguna sinenei ? ”
+01003002	Gumayogu i bwaduviyewa i bwaduwa , “ Muka , kima kama nufota kaisima uwasi baguna sinenei kana kawa ,
+01003003	atu kai tamokaḡa baguna sinefounei i misimisiniya , Guyau i iyavikiya i bwaduwa , ‘ Muka kainama uwana kwana kaniya keta muka kwana ginuvanuvai . Taki kwana saviviniya na naki kwana mateya . ’ ”
+01003004	Mwata i iyaviya i bwaduwa , “ Muka venemokena . Muka kwana mate .
+01003005	Kuyadayadanama nenei kwana kaniya , matami sina kabwasasa keta kwami vitana Guyau maise kwana sanamaniya dewadewana keta goyona . Guyau i sanamaniya keta na fasinei i sawatanimiya muka kwana kaniya . ”
+01003006	Gumayogu i kitiya kai dewadewana kana nufota kabwaga keta kana fusa dewadewana . Nuwanuwana ina kaniya be ina sanamana , na nenei aviyesi uwana i visiya keta i kaniya , atu tunina kawana i veniya keta i kaniya .
+01003007	Tovanama nenei matasi si kabwasasa keta si sanamaniya tasike gonegonesi na nenei nugweda dadana si yuna keta si suyakafukafuwa si dawanafota .
+01003008	Tovanama navinavi kabaḡa i tunuwa , si nowaniya Yave Guyau baguna nenei i niniya . Namoḡa keta kawana si makaviuna kai nenesiyai be Yave Guyau muka ina kitaisi .
+01003009	Atu Yave Guyau namoḡa nenei i bwauwa i bwaduwa , “ Kwaḡa namai ? ”
+01003010	Namoḡa i bwaduviyewa i bwaduwa , “ A nowaniwa baguna nenei . Iyau gonegoneku na fasinei a matuta keta a makaviuna . ”
+01003011	Yave Guyau i nutoninuvanuva i bwaduwa , “ Aitevana i iyaveu kwaḡa gonegoneu ? Kainama a iyaviwa muka kuna kaniya , naki ku kaniya ? ”
+01003012	Namoḡa i bwaduviyewa i bwaduwa , “ Gumayogunama ku venikuwa , tanake i venikuwa kai uwana keta a kaniya . ”
+01003013	Yave Guyau gumayogu i nutoninuvenuviya i bwaduwa , “ Ei , ava ku fufuniya ? ” Gumayogu i bwaduviyewa i bwaduwa , “ Mwata i nonukuwa keta a kaniya . ”
+01003014	Yave Guyau mwata i iyaviya i bwaduwa ,  “ Na ava ku fufuniya fasinei , ana vimatadawaniwa yomuyomu nimwauwai be kidagimai matatafusi sinesiyai . Kwaḡa kuna oyaḡaḡa manawaweu keta kafusisima o ka kabwaga yawasiu kana matatafu nenei .
+01003015	Ana visanafuwiwa kwaḡa keta gumayogu kwana vikaniyabina , keta kwaḡa susukwau keta gumayogu susukwana sina vikaniyabina . Tanake debabouḡu ina nufuwaiya atu kwaḡa kaeketuketuna kuna kanavasiya . ”
+01003016	Gumayogu nenei i bwaduwa ,  “ Ana visanafuwiwa dauna kuna nisaiya tovanama kuna visifuḡa nenei , nofe tovanama keta ina niya kuvavana nakasina vinatuna nenei . Nuwanuwau be kawau nukusi , atu tanake kwaḡa ina vanetaniwa . ”
+01003017	Adama nenei i bwaduwa ,  “ Kawau fonana ku nowaniya fasinei keta kainama a iyaviwa muka kwana kaniya atu kwa kaniya , keta kwaḡa neneweu fwayafwaya a ituituya . Bunanige kuvakuvavanina kuna saviviniya yo ka kabwaga kuna nisaiya yawasiu kana matatafu nenei .
+01003018	Fwayafwaya ina okikinomaniya kisisiku kikikwanekwanesi keta sakasakanunusi , keta noko bwibwiyagunama kabwagina nenei kuna kawa .
+01003019	Kuna fwasimowa bunanige nenei yo ka kabwaga kuna viya kana nivaniva kuna makaviniwa fwayafwaya nenei . Kafusisima a viya fwayafwaya nenei keta a gikamakamiwa , keta kwaḡa kuna vikafusisima-savaviniwa . ”
+01003020	Namoḡa i sanamaniya kawana ina viayowa namoḡa fakwafakwasi matatafusi nenesiyai , na fasinei i weniya Ive .
+01003021	Yave Guyau yomuyomu kwafinisi i yuna keta nuya i fufunisiya Adama keta kawana fasisiyai keta i vikotonisiya .
+01003022	Yave Guyau tauna nenei i bwaduwa , “ Namoḡa i nemiya kita maise keta i sanamaniya dewadewana keta goyona . Muka nimana ina tunei kai yawasi i kakavenena , uwana ina vai ina kaniya be muka ina fakwavaḡata . ”
+01003023	Keta Yave Guyau i vikikinomanisiya baguna Ideni nenei , be namai fwayafwayanama nenei i gikamakamiya Adama ina bunanigeiya .
+01003024	I vikikinomanisiya muninei keta i iyavisiya kikifufuna kasi wava senabimu sina misiniya gagasa keweyaina baguna Ideni nenei . Yota i teniya feto nununuina keta nuganavivineinana be tasike sina viketofotiya ke'ta i niniya yawasivaḡata kana kai nenei .
+01004001	Adama kawana Ive nukusi si mataveya keta Ive si visifuḡa eketa si vinatuna . Si bwaduwa , “ Yave yana ovivita nenei natuki ka nisaiya . ” Na uḡuna si weniya Keni .
+01004002	Muniyai yota taina namoḡa si vinatuniya keta si weniya Ebeni . Tovanama si nakata , Ebeni sifi kasi tokitavikavina atu Keni i vitobaguna .
+01004003	Tova tamokaḡa Keni yana bagubaguna kabwagina i nemiisiya keta i vibwanaoseiiya Yave nenei ,
+01004004	atu Ebeni yana sifi si mikivinatuna , tanaina dewabauna i nemiiya eketa i vibwanaoseiiya Yave nenei . Yave i katuvisiya Ebeni keta yota yana bwanaose ,
+01004005	atu Keni keta yana bwanaose muka ita katuvaisi . Keni i kayokuḡa keta kana nawenawe i dawanavinavina nuwagoyo .
+01004006	Keta Yave Keni i iyaviya i bwaduwa , “ Ava uḡuna ku nuwagoyo yo tafakaiu i kanawenonoi ?
+01004007	Taki fufuna dawaniniina kuta saviviniya nao ata katuviwa . Atu fufuna goyona ku saviviniya fasinei , matau ina kakanakasiya ! Go'yona niniuweu i kenokenovikifafa be ina ketosesena yomuyomu-wanawanaki maise . Go'yona nuwanuwana nakasina be ina visimeiwa atu kwaḡa kuna vanetaniya . ”
+01004008	Keta muninei Keni taina Ebeni i iyaviya i bwaduwa , “ Ta nai wanakiyai ta nidadana . ” Tovanama nokomai , Keni i misiniya keta taina Ebeni i nuvimatiya .
+01004009	Tovanama ibanama i kikinomana muninei , Yave i nutoninuvenuviya i bwaduwa , “ Taiu Ebeni namai ? ” Keni i bwaduviyewa Yave nenei i bwaduwa , “ Muka ata sanamanei tanake namai . Namaise , o iyau unaku kana tokitavikavina ? ”
+01004010	Atu Yave i iyaviya i bwaduwa , “ Ava uḡuna yo fufuna goyomokena ku savivinei ? Taiu ufaufana kayona fwayafwayai i bwedibwedi-kikinomana nenekuwai .
+01004011	Keta nofe tova ana ituwa . Unau ku nuvimatiya keta ufaufana fwayafwaya ku viyumiya , na fasinei muka fwayafwayanama kuna savivinei .
+01004012	Nofe tova keta tova si nenemiya , tovanama fwayafwaya kuna saviviniya , muka kabwaga ina veneu . Muka tamo ya kafa fakwa keta kuna vitovenukaokaoḡowa fwayafwayai . ”
+01004013	Keni Yave i iyaviya i bwaduwa , “ Kaku vimatadawana i nakatamoka , muka kaku fata .
+01004014	Kimoki kwaḡa ku kwavikwavinikuwa fwayafwaya nofe nenei keta yota neneweu . Ana vitovenukaokaoḡowa fwayafwaya etanei keta aitevana ina nisaikuwa , ina nuvimatikuwa . ”
+01004015	Atu Yave i nufata i bwaduwa , “ Muka . Taki tamo aitevana ina nuvimatiwa , yawasi 7 ana nuyaunisiya kwabu fasinei . ” Na fasinei Yave kiyakiyaya i teniya Keni nenei be aitevana ina venusaiya , muka ina nuvimatei .
+01004025	Keta Adama kawana nukusi yota si mataveya keta namoḡa i tufuwa . Ive si bwaduwa , “ Keni i nuvimatiya Ebeni fasinei , Guyau gwadimonamona yota i venikiya be Ebeni ina noseyaniya . ” Na fasinei si weniya Seta .
+01004026	Seta yota i vinatuna keta i weniya Inosi . Inosi yana tovai , namoḡa si vibutuwa si kodukoduwa Yave nenei .
+01006005	Yave i kitiya namoḡa matatafusi yasi fufunagoyo i nakatamoka fwayafwayai , keta iba matatafuna si nuwenuwiya keta si vivinuwadadanisiya o goyona venemokena tova kana matatafu .
+01006006	Yave tauna i vinuwakuvaniya namoḡa i fufunisiya keta i tenisiya fwayafwayai , na fasinei nuwatana i dauna .
+01006007	Eketa Yave i bwaduwa , “ Namoḡa matatafusi ana nuyaunisiya fwayafwaya nofe etanei . A vinuwakuvanikuwa uḡuna naki a fufunisiya . Na fasinei namoḡa kasi matatafu keta yomuyomu nakanakasisi matatafusi be musumususi si ooyaḡayaḡaḡa fwayafwaya etanei , yota manuwa matatafusi kawasasakaoḡowai ana nuyaunisiya . ”
+01006008	Atu Yave o Nowaḡa i sebobowiya .
+01006009	Nowa keta ugunina sifusifufusi nofemaise . Nowa natunatuna nasi tonu namoḡa kasi wava Semi , Ami , keta Yafeta . Nowa o namoḡa dewadewana , tanake kana kisimokena fwayafwaya etanei eyaeyana tovasima nenesiyai . Nowa Guyau i viunaniya .
+01006010	
+01006011	Atu Guyau i kitiya fwayafwaya matatafuna i goyowa eketa vikamunumunuwa i kataneneḡa .
+01006012	Guyau i toneiya fwayafwaya keta i kitiya naki i goyomoka uḡuna namoḡa matatafusi ke'ta goyona nenei si fakwafakwa .
+01006013	Keta Guyau Nowa i iyaviya i bwaduwa , “ A vinuwadadana be namoḡa matatafusi ana nuyaunisiya uḡuna vikamunumunuwa fwayafwaya i vimaiya . Fwayafwaya kana matatafu etanei iba matatafuna ana nuyauniya .
+01006014	Na fasinei waka kitagoyona kuna yoniya tauḡu fasiweu . Kai fakinisi nenesiyai kuna yoniya . Sisiuna kuna kitutunaonota waka sinenei . Sinena keta kwauna kuna nutamaniya kibasi nenei .
+01006015	Kuna yoniya nofemaise . Kana fwafwa kana niva 140 mita , kana nafanafa kana niva 22 mita , keta yana vivivane kana niva 14 mita .
+01006016	Kudukudu kuna teweiya keta kawasasa kana niva 50 senitimita kuna teniya kudukudu keta fita kasi kawasasai ina fanakwaniuḡa . Waka niniunei kawa kuna fufuniya . Baionota tonusi kuna yonisiya — etana , sinefouna , keta sifuna .
+01006017	Ku vaneneḡa ! Ukowasobu ana teweiya keta fwayafwaya kana matatafu ina unakafufuya be iba matatafuna na yawasina fwayafwaya etanei ina nuvimatisiya .
+01006018	Atu kaku dedeni a teneteniya neneweu . Kwaḡa , kawau , keta natunatuu nakakawasi kwana kanasuna waka sinenei .
+01006019	Yomuyomu tunisitunisi nakakawasi kuna totoisiya nukusi . Tamokaḡa namoḡa keta tamokaḡa gumayogu , manuwa tunisitunisi nenesiyai kuna nemiisiya keta yomuyomu nakanakasisi be musumususi si ooyaḡayaḡaḡa , kuna kitavikavinisiya ebe yawayawasisi sina fakwafakwa .
+01006020	
+01006021	Yota kabwaga tuninatunina yagwanina kuna totoiya , uguniu nukusi fasimiyai keta yota yomuyomu fasisiyai . ”
+01006022	Eketa Nowa iba matatafuna i saviviniya Guyau i iyaviya maise .
+01007001	Yave Nowa i iyaviya i bwaduwa , “ Kwaḡa ka kisimokeu fwayafwaya nofe nenei ya fufuna dawaniniina . Na uḡuna kwaḡa keta uguniu kwa kanasuna wakai .
+01007002	Nama yomuyomusima eyaeyasi , kuna visiya namoḡa 7 keta kakawasi 7 . Atu yomuyomusima muka eyaeyasi , nao tamokaḡa namoḡa keta kawana .
+01007003	Keta yota manuwa kuna visiya 7 keta yota kakawasi 7 . Nofe kuna saviviniya be yomuyomu keta manuwa tunisitunisi be yota sina geyana fwayafwayai .
+01007004	Kuyadayada 7 muninei , bwabwau ana teweiya keta ina sigwana fwayafwayai kana nivaniva kuyadayada 40 keta nuwabuna 40 , ebe kikifufuna matatafuna a fufuniya na yawasina fwayafwayai ana nuyaunisiya . ”
+01007005	Keta Nowa iba matatafuna i saviviniya avana Yave i iyaviya maise .
+01007017	Ukowasobu i unauna kana nivaniva kuyadayada 40 eketa waka i nufutefuteiya fwayafwaya etanei .
+01007023	Keta iba matatafuna na yawasina fwayafwaya etanei Yave i nuyaunisiya ukowasobuwai . Namoḡa matatafusi be yomuyomu nakanakasisi be musumususi si ooyaḡayaḡaḡa , yota manuwa nukusi , si mateya . Atu naki aviyaonana waka sinenei Nowa nukusi , nao si fakwa na yawasisi .
+01008015	Eketa Guyau Nowa i nusifufuwiya i bwaduwa ,
+01008016	“ Kwaḡa na kawau keta yota natunatuu na kakawasi nukusi waka kwana teweiya atu kwana sobuwa menanai .
+01008017	Kikifufuna matatafusi yawayawasisi kuna ovisiya maise manuwa , yomuyomu keta yota matatafusi tooyaḡayaḡaḡa fwayafwaya nenei , be sina vinatunasiwasiwaḡa keta sina yagwana be yo sina geyana fwayafwaya kana matatafu etanei . ”
+01008018	Keta Nowa na kawana , keta natunatuna na kakawasi , waka si teweiya atu si kikinomana menanai .
+01008019	Matatafusi yomuyomu , manuwa keta tooyaḡayaḡaḡa wakai si kikinomana kasi sabusabuwai .
+01008020	Keta Nowa didiḡa i didiiya kafa vibwanaose Yave nenei eketa yomuyomu be manuwa eyaeyasiḡa nenesiyai , tunina i visiya keta i gumatatafusiya didiḡa etanei bwanaose fasinei .
+01008021	Tovanama bwanaose madina i sebobowiya , Yave tauna nuwasinenei i bwaduwa , “ Muka yota tova munina namoḡa yasi fufuna fasinei fwayafwaya ana ituya . Naki a sanamaniyanamoḡa musumususiyai keta si nakanakata , katekatesiyai goyona si nuwinuwiisiya atu mukamokena yota ana nuyauneisi iba tamokatamokaḡa na yawasina maise kimoki a fufuniya .
+01008022	Tovasima fwayafwaya ina fakwafakwa , baguna be kiyana , yaseḡana be kwadudu , gagasa be yavanata , kuyadayada be nuwabuna sina fakwafakwa , muka ina kakaveisi . ”
+01009001	Keta Guyau Nowa na natunatuna i sawanuwagabubuwisiya i iyavisiya i bwaduwa , “ Kwana vinatunasiwasiwaḡa keta kwana yagwana be kwana geyana fwayafwaya kana matatafu nenei .
+01009002	Yomuyomu matatafusi nakanakasisi be musumususi si ooyaḡayaḡaḡa fwayafwayai be manuwa keta iyana sina oomatumatutimiya eketa kwami kwana visimeisiya .
+01009003	Iba tamokatamokaḡa na yawasina o kami kabwaga . Naki maise manatuwaina a venimiya kai viviuwasi keta kisaya o kafa kaka . Nofe tova a venevenimiya iba matatafuna kami kabwaga .
+01009004	Atu muka viyo na ufaufana kwana kaniya uḡuna yawasi ufaufa sinenei .
+01009005	Namoḡa a fufunisiya tauku kaku kitakita maise eketa avi namoḡa o avi yomuyomu tamo namoḡa ina nuvimatiya , tanake namoḡanama o yomuyomunama ana vimatadawaniya . Taki tamo yomuyomu namoḡa ina nuvimatiya , yomuyomunama sina nuvimatiya . Maise yota taki aitevana namoḡa tamo ina nuvimatiya , namoḡanama sina nuvimatiya .
+01009006	
+01009007	Atu kwana vinatunasiwasiwaḡa keta kwana yagwana ebe fwayafwaya kwana vimaiya . ”
+01009008	Keta Guyau Nowa na natunatuna i iyavisiya i bwaduwa ,
+01009009	“ Kwa vaneneḡa ! Nofe tova yaku dedeni ana fufuniya kwami nenemiyai eketa yota susukwami yawane si nenemiya nenesiyai ,
+01009010	yota kikifufuna matatafusi yawayawasisi maise manuwa be yomuyomu-menana yota yomuyomu-wanawanaki wakai nukusi , matatafumi fwayafwayai nenemiyai .
+01009011	Nofe bwadusima nenesiyai kaku dedeni a oovikavikaviniya kwami nenemiyai . Mukamokena yota ana visimeyei ukowasobu be kikifufuna yawayawasisi ina nuvimateisi yota fwayafwaya ina nuyaunei . ”
+01009012	Guyau i iyavisiya i bwaduwa , “ Dedeni kana kiyakiyaya a fufufuniya Iyau , kwami keta kikifufuna yawayawasisi nukusi kata kawasasai , yota tova i nenemiya sabusima fasisiyai .
+01009013	Yaku tanikubo ana teniya busibusi sinenei be ina vikiyakiyaya yaku dedeni Iyau keta fwayafwaya kana matatafu kata kawasasai .
+01009014	Tovanama kawasasakaoḡo ana gikafufuya busibusi nenei keta tanikubo ina kikinomana ,
+01009015	ana tukunakasiya yaku dedeni , Iyau keta kwami be kikifufuna matatafusi na yawasisi kata kawasasai be mukamokena yota ukowasobu yawasi matatafuna ina nuyauneisi . ”
+01011001	Nauna o namoḡa matatafusi fwayafwaya etanei , fona tamokaḡamoka kana kituwai si nusifufuwa .
+01011002	Noko tovanama nenei , namoḡa si toḡavenudadana gagasa kuweyaina . Fafani kana wava Sina nenei , fwayafwaya katuyaveyavenina nakasina si nisaiya keta nokomai si fakwa .
+01011003	Keta tututausi nenesiyai si nusifufuwa si bwaduwa , “ Kwa nemai , taga tana viya be tana yafofwisiya keta tana nukwafusiya be sina fakina . ” Si saviviniya keta taga kikiyafofosi si kiyoniiya keta kibasi nenei si gimaimaiiya .
+01011004	Eketa si nusifufuwa si bwaduwa , “ Kwa nemai , be menana nakasina tana vikanasiya tututauta fasitiyai , numa tana yoniya manuwanoḡomatesi , be ina vaneya abama ina oviya . Nofemaise tana fufuniya be tututauta kata wava tana givinakasiya ebe muka tana kafiyauyauna fwayafwaya kana matatafu nenei . ”
+01011005	Si kikiyona atu Yave i sobunemiya be ina kitiya menana nakasina yota numa manuwanoḡomatesi namoḡa si yonayoniya .
+01011006	Keta Yave i bwaduwa , “ Nofe tova tasike naki yoko tamokaḡa , fona tamokaḡa nenei si nunusifufuwa . Nofe tova si vibutuwa keta sina savivina maise ebe tova munina aviyavana tamo si nuwenuwiya , naki kasi nufotamoka be sina saviviniya .
+01011007	Kwa nemai , tana sobuwa be fonasi tana wenuya be muka tututausi sina sanamanei unaunasi yasi bwadu . ”
+01011008	Eketa Yave i nuyauyaunisiya fwayafwaya kana matatafu nenei , eketa menana nakasina kana vikanata si vidawana . Nokomai Yave fwayafwaya kana matatafu namoḡa fonasi i wenuya . Na fasinei menana noko si weniya Babeni .
+01011009	
+01012001	Yave Ebenamu i iyaviya i bwaduwa , “ Ya menana keta ya sabu yota ya fasekwa kuna teweisiya , atu fwayafwayanama ana visawaveniwa nenei kuna niya .
+01012002	Ka sabu nakasina ana veniwa keta tasike nenesiyai kunuma nakasina ina kikinomana . Iyau ana sawanuwagabubuwiwa . Ka wava yota ana givinakasiya be namoḡa matatafusi sina sanamaniya keta sina vifotuwiwa . Kwaḡa neneweu , namoḡa kasi sawanuwagabubu sina nisaiya .
+01012003	Tovanama namoḡa sina sawanuwagabubuwiwa , Iyau yota ana sawanuwagabubuwisiya . Atu taki namoḡa sina ituwa , Iyau yota ana itusiya . Kwaḡa neneweu , namoḡa matatafusi fwayafwaya etanei ana sawanuwagabubuwisiya . ”
+01012004	Na tovanama nenei Ebenamu kana manamana 75 . Keta i saviviniya avana Yave i iyaviya maise . Anani i teweiya na kawana Sanai keta auna Nota nukusi . Tovanama Anani si fakwa nenei , Ebenamu yana nogonogo keta yana yomuyomu keta yota yana tobunanige i nisaḡa . Nofe ibasima nukusi i visiya keta Kenani kuweyaina si niya . Tovanama si kikinomana Kenani kana baionota nenei ,
+01012005	
+01012006	Ebenamu yana sabu nukusi noko fwayafwayanama si venuonosiya keta si niya menana nakasina kana wava Sekemu niniunei . Nokomai kai nakasina niniunei si vikabaḡa menana Mone nenei . Tovanama nenei Kenani fiyaosi yawane si fakwafakwa noko fwayafwayanama nenei .
+01012007	Nokomai Yave tauna i tenekikinomaniya Ebenamu nenei eketa i iyaviya i bwaduwa , “ Nofe Kenani fwayafwayana susukwau ana venisiya . ” Eketa Ebenamu , kafa vibwanaose Yave nenei kana didiḡa i didiiya . Namai Yave tauna i visawaveniya nenei , i vimisiniiya .
+01013005	Na tovanama nenei , Nota keta Ebenamu yawane tamo nenei si ninidadana . Nota yota yana yomuyomu yagwanisi keta yota namoḡa yagwanisi nukusi yana vada nenesiyai si fakwafakwa .
+01013006	Ebenamu keta Nota yasi yomuyomu si yagwanamataiya keta yasi kafa ka kana kabaḡa o muka kasi fata . Na fasinei nasi nuwa muka kasi fata be tamokaḡa fwayafwayanama nenei sina fakwa .
+01013008	Keta Ebenamu Nota i iyaviya i bwaduwa , “ Ku vaneneḡa ! Kita ugunita , na uḡuna muka tana vikawabwadubwadu keta yota yata yomuyomu kasi tokitavikavina muka tututausi nenesiyai sina vivigwaeḡa .
+01013009	Na uḡuna tana toḡasisina be tana niya kabaḡa tuninatunina nenesiyai . Fwayafwaya noko nautiyai ku kitakitiya . Ku vinuwadadanei avi kabaḡa nuwanuwau maise o ku nai be nokomai ku fakwa . Taki kuna niya kukikikataita kuweyaina , nao iyau ana niya kukikimawata . Eatu taki kuna niya kukikimawata kuweyaina , nao iyau ana niya kukikikataita . ”
+01013010	Eketa Nota matana i tewetamaniya Yonidani ukowa kuweyaina keta i niya kana nivaniva Sowa menana nenei . Ukowa yagwanina yota fwayafwaya dewadewana i kitiya vitana Yave yana baguna maise yota fwayafwaya dewadewana vitana Itifita nenei maise . ( Na tovanama nenei Sodoma keta Gomona o Yave yawane muka ita nuyauneisi.)
+01013011	Nota i vinuwadadaniya fafani Yonidani kana matatafu tauna fasinei eketa i niya gagasa kuweyaina . Nofe ketaketanama nenei Nota keta Ebenamu si toḡasisina .
+01013012	Ebenamu o Kenani fwayafwaya nenei i fakwa atu Nota o Yonidani kana kawanau nenei i fakwa Sodoma menana nakasina niniunei .
+01013013	Sodoma namoisi yasi fufuna naki goyomataina . Fufuna goyomokesi Yave matanei si savivinisiya .
+01013014	Ebenamu keta Nota yasi toḡasisina muninei , Yave Ebenamu i iyaviya i bwaduwa , “ Ku kitadadana-fanakwaniuḡa-dewadewa fafani tamokatamokaḡa nenesiyai — bomatu , gagasa , nanakoya keta yavanata kuweyaisi — namai matau ina niya kana nivaniva maise .
+01013015	Fwayafwayanama matatafuna ku kitakitiya , kwaḡa keta susukwau nukusi ana venimiya . Noko yami fwayafwayavaḡata .
+01013016	Ka sabu ana veniwa o muka tamo aitevana kana fata be ina ginaḡanaḡaisi . Naki maisemoka genasa fwayafwayai muka tamo aitevana kana nufota be ka sabu ina ginaḡanaḡaisi .
+01013017	Nofe fwayafwayanama matatafuna a veneveniwa , na fasinei ku nai ku vadadaniya be ku kitadewadewai . ”
+01013018	Keta Ebenamu i noḡokawawa keta Mamene kana kai nakanakasisi niniusiyai i vikabaḡa Ebinoni menana nakasina nenei . Nokomai didiḡa i didiiya Yave nenei .
+01014011	Sodoma keta Gomona fiyaosi kasi kaniyabina si nemiya keta yasi nogonogo be kasi kabwaga matatafuna si yuna . Ebenamu auna Nota Sodoma i fakwafakwa , tanake tauna keta yana nogonogo matatafuna yota si visiya keta si niisiya .
+01014012	
+01014013	Tamokaḡa namoḡa vikamunumunuwa nenei i dibwana keta i nemiya Ebenamu biga i veniya . Tovanama nenei Ebenamu tene Ibeniu i fakwafakwa tene Amonai kana wava Mamene yana kai nakanakasisi niniusiyai . Mamene na sisitaina , Esikoni keta Ane , si vinowaniya Ebenamu vitana nukusi sina vikaovivita vikamunumunuwa nenesiyai .
+01014014	Ebenamu yana tonuaviya kasi yagwana 318 yana kabaḡai si tufuwa . Tovanama i nowaniya nifanifaisi auna si viya , yana namonamoḡa matatafusi i wenevakukusisiya keta nifanifaisi si kwavinisiya kana nivaniva Dani menana nakasina nenei .
+01014015	Tovanama i kumanovana , Ebenamu yana tonuaviya i vitukuwisiya yoko nenesiyai keta nifanifaisi si kanasunisiya fafani tuninatunina nenesiyai keta si vatanisiya . Nifanifaisi si dibwana eketa Ebenamu yana namonamoḡa nukusi si omunitawisiya kana nivaniva Oba menana nakasina Damasiko bomatu kuweyaina .
+01014016	Ibasima matatafuna nifanifaisi si gikumisiya , matatafuna i visiya . Yota Nota na yana nogonogo nukusi keta vivine be mani namoḡa matatafusi nukusi i nemiye-savavinisiya .
+01014018	Menekisedeki i nemiya keta Ebenamu i venufotefotiya . Tanake Sanema menana nakasina kana tufomu keta yota Guyau Etanemokenei yana tovibwanaose . Maneka keta waini i nemiisiya keta Ebenamu i veniya .
+01014019	Menekisedeki Ebenamu i sawanuwagabubuwiya i iyaviya i bwaduwa ,  “ Guyau Etanemokenei abama keta fwayafwaya i fufunisiya , iba dewadewasi fasiweu ita savivinisiya .
+01014020	Guyau Etanemokenei nifanifaiu nimaweu i tenisiya , na fasinei tana daviya . ”  Eketa Ebenamu nogonogosima i visiya nifanifaina nenesiyai , dawana 10 i tenisiya keta dawananama nenei tamokaḡa Menekisedeki i veniya .
+01015001	Muniyai Yave Ebenamu kenokita nenei i iyaviya i bwaduwa ,  “ Ebenamu , muka kuna matuta . Iyau ya veve , Iyau fatau nakatamokena ana veniwa . ”
+01015002	Ebenamu i nufata i bwaduwa , “ Yaku Tuveka Yave , iyau muka tamo natuku na uḡuna ya nuwagabubunama muka ina oviviteiku . Muka tamo natuku kuta veneiku . Keta taki ana mateya , Eniyesa tanake tene Damasiko kaku toovivita , yaku kaikaiwabu matatafuna ina viya . ”
+01015003	
+01015004	Atu Yave i bwadu-savaviniya i bwaduwa , “ Muka noko namoḡanama ya kaikaiwabu ina vai . Naki kwaḡa taumokeu uyoweu , natuu ina tufuwa . Kuna mateya nenei , tanake ina vikaiuḡuniya . ”
+01015005	I oviya i kikinomaniya menanai eketa i iyaviya i bwaduwa , “ Matau i vane kawasasakaoḡowai be yamasi kinavinavi ku ginaḡanaḡa-nuvanuvaisi , taki ka fata maise . Yawane susukwau maise kinavinavi . Muka tamo aitevana kana fata be ina ginaḡanaḡaisi . ”
+01015006	Ebenamu i vitumaḡaniya Yave yana bwadunama , na fasinei Yave i sebobowiya eketa i bwaduwa tanake eyaeyana matanei .
+01015012	Tova vanavana i sonusonuwa nenei , Ebenamu i kenomatemateya kana tovai , kumanovana kitagoyona be matuta i kabwanatauniya .
+01015013	Keta Yave i iyaviya i bwaduwa , “ Nofe kuna sanamanadewadewiya . Susukwau sina viyauyauna mani fwayafwayai . Tonifwayafwaya susukwau sina vikaetoisiya keta yota sina vitoagoyogoyowisiya manamana 400 sinenei .
+01015014	Atu yawane tonifwayafwayasima yasi vitoagoyogoyo fasinei ana vimatadawanisiya eatu susukwau sina vikukuwauna keta fwayafwayanama sina teweiya .
+01015015	Amonai namoisi nofe tova Kenani fwayafwaya nenei si fakwifakwiiya , taki tovanama yasi dewa ina goyomataiya , ana vimatadawanisiya keta ana kwavinisiya nofe fwayafwayanama nenei be sina yauna . Na uḡuna susukwau muka sina venumakavinaisi nofe kabainama nenei atu minominou yasi tovai yoke . Atu kwaḡa tauḡu Ebenamu kuna vituvekamoka yo muniyai , biganei kuna mateya keta sina tauniwa . ”
+01015016	
+01016001	Ebenamu nofe tova Kenani i fakwafakwa naki manamana 10 atu kawana Sanai o kakanina , na fasinei keta muka tamo natuna ita vinatunei . Atu kana tookakikakina i viya ne Itifita kana wava Ega , na fasinei Sanai Ebenamu i iyaviya i bwaduwa , “ Yave i nuvikakanikuwa be muka ana vinatuna , na fasinei ku nai be kaku tookakikakina nukusi kwa matave . Taki ina vivinatuna , gwadimonamona ana weniya vitana maise iyau natuku . ” Fonana i vinowaniya keta Sanai yana kaetoḡa gumayogu Ega i veniya Ebenamu vitana kawana kana vinuwa .
+01016002	
+01016003	
+01016015	Muniyai , Ega Ebenamu natuna namoḡa si vinatuniya keta i weniya Isimeni .
+01017001	Tovanama Ebenamu kana manamana 99 , Yave i kenokikinomana nenei keta i iyaviya i bwaduwa , “ Iyau Guyau Tofiwanaonaona . Yaku ketaketai kuna niya be muka kuna go'yona ,
+01017002	ebe yaku dedeni ana fufuniya neneweu ebe susukwau ana giviyagwanisiya . ”
+01017003	Ebenamu kaetutuna i viketogunisiya maise yota debabouna eatu Guyau i iyaviya i bwaduwa ,
+01017004	“ Iyau nenekuwai o nofemaise ku vaneneḡei . Yaku dedeni kwaḡa nukusi maise , kwaḡa kunuma yagwanisi waḡasi . Na fasinei ka wava Ebenamu eatu a weneweneviviiya o Ebenaamu .
+01017005	
+01017006	Iyau ana saviviniya be kunuma nakasina kuna nisaiya be sabu yagwanisi sina kikinomana keta yota kwaḡa sabuuma nenesiyai tufomu sina kikinomana .
+01017007	Yaku dedeni ana givifakiniya kwaḡa keta susukwau nukusi nenemiyai be ina fakwafakwavaḡata , tova be tova . Iyau ya Guyau keta yota susukwau yasi Guyau .
+01017008	Nofe Kenani fwayafwayana nenei ku viviteneyauyauna , matatafuna fwayafwayanama kwaḡa keta yota susukwau ana venimiya . Naki yasi fwayafwayavaḡata keta Iyau yasi Guyau . ”
+01017009	Guyau Ebenaamu i iyaviya i bwaduwa , “ Kwaḡa fasiweu o yaku dedeni kuna muniiya keta yota susukwau sina muniiya . Kwaḡa sina nufifiniya kiyakiyaya neneweu maisemoka yota namoḡa tamokatamokaḡa susukwau sinenei .
+01017010	
+01017011	Yami nikana mutugabusi kwana nufifina be noko dedeni kana kiyakiyaya Iyau keta kwami kata kawasasai .
+01017012	Nofe tova keta ina niya , fwefweyana namoḡa tamokatamokaḡa kana kuyadayada 8 nenei kwana nufifina . Kwana saviviniya natunatumi keta yami tobunanige natunatusi matatafusi namoaḡa nenesiyai .
+01017013	Maisemoka yota tovanama namoḡa sina tufuwa yami sabu nenei eketa yota tovanama namoḡa vitamaneina nenei kwana viya , kwana nufifiniya nenesiyai . Ina vikiyakiyayavaḡata yaku dedeni tofwamiyai , tova be tova .
+01017014	Atu taki avi namoḡa yaku dedeni kana kiyakiyaya muka tofwanei , nai o kaku dedeni i yasiya , na naki tauna ina nutakiya yana sabu nenesiyai . ”
+01017015	Guyau Ebenaamu i iyaviya i bwaduwa , “ Kawau Sanai fasinei , muka kuna wenei Sanai eatu kuna weniya Sena .
+01017016	Ana sawanuwagabubuwiya be tanake nenei natuu namoḡa ana veniwa . Ana sawanuwagabubuwiya ebe kunuma sina visawa-ayona nenei keta susukwana sinenei tufomu sina tufuwa . ”
+01017017	Ebenaamu kaetutuna i viketogunisiya maise yota debabouna keta na viniḡana tauna nuwasinenei i bwaduwa , “ Kana fata namoḡa kana manamana 100 tamo natuna ina tufuwa ? Atu yota Sena o kana manamana 90 kana fata ina vinatuna ? ”
+01017018	Eketa Ebenaamu Guyau i iyaviya i bwaduwa , “ Taki kana nufota Isimeni kuta sawanuwagabubuwiya ! ”
+01017019	Atu Guyau i iyaviya i bwaduwa , “ Muka . Kawau Sena natuu ina vinatuniya keta kana wava kuna weniya Aisake . Yaku dedeni ana fufuniya tanake keta susukwana muninei nukusi nenesiyai tova be tova ina nivaḡata .
+01017020	Ya nuwanuwa Isimeni fasinei o naki a nowaniya . Na fasinei ana sawanuwagabubuwiya be natunatuna keta susukwana yagwanisi ana veniya . Tanake o kawakawa nasi 12 amasi keta yota susukwana nenei kana kunuma ana givinakasiya .
+01017021	Atu nofe yaku dedeni ana fufuniya Aisake nukusi . Naki nofe tovanama maise , Sena Aisake ina vinatuniya noko manamananama . ”
+01018001	Yave Ebenaamu nenei i kenokikinomana Mamene yana kai nakanakasisi nenesiyai . Nofe kana sifusifufumokena . Kuyadayada i viaudibutoyoḡa kana tovai , Ebenaamu yana vada kana ketakawanai i nuvitoḡa i fakwafakwa .
+01018002	Matana i kanakasiya nenei namoḡa kasi tonu i kitisiya kutafakaina si misimisiniya . Tovanama i kitisiya , vada i teweiya atu i dibwana i venufotifotisiya keta i koduwa fwayafwayai .
+01018003	I iyavisiya i bwaduwa , “ Aiye , taki kwa sanamaniya kaku nufota be ana ovivitimiya nao muka kwana niuniku .
+01018004	Yami ukowa ana nemiiya be kaemi kwana kigona ebe yo kai sifunei kwana viyawasiya .
+01018005	Yota kabwaga ana nemiiya be ina givifiwanimiya yo muniyai yami ketai kwana niya . Kwa visawanamonamoikuwa be kwa venufotikuwa , na fasinei ana savivina fasimiyai . ” Si iyaviya si bwaduwa , “ Dewadewana , avana nuwanuwau ku bwaduwiya maise o ku savivinei . ”
+01018006	Eketa Ebenaamu i dibwanamoka vadai i kanasuna keta Sena i iyaviya i bwaduwa , “ Kuna omatakayakayakaniya be nimau simo ina badobadowa kausibi dewabauna kuna viya ebe maneka kuna kaguwana . ”
+01018007	Muniyai Ebenaamu i dibwana i niya bunumakau waumisi nenesiyai keta mwanavauna i vinuwadadaniya kakaninama i viya , yana tobunanige i veniya keta i venugidewadewiya .
+01018008	Ebenaamu kedi keta susu i danina yota viyo muwana nukusi i visiya kabwaginama gigidewadewana i nemiiya keta nausiyai i teniya keta kai sifunei si kawa atu i toḡatanisiya .
+01018009	Si nutoninuvenuviya si bwaduwa , “ Atu namai kawau Sena ? ” I nufata i bwaduwa , “ Noko vada sinenei . ”
+01018010	Tamokaḡa sinesiyai i bwaduwa , “ Venemokena , nofe tovanama maise noko manamananama ana makavinikuwa nenei kawau Sena natuu namoḡa ina vinatuniya . ” Atu Sena o vada kana kawa muninei i vanevaneneiya .
+01018011	Ebenaamu keta Sena o naki si vituvekamoka keta Sena yana tova vinatuna o naki i kakaviya .
+01018012	Sena tauna i viniḡa keta i bwaduwa , “ Iyau naki a vineveka keta i sinavinukuwa keta yota kawaku i vituveka . Kana fata yawane kana diḡadiḡaina ana kamukoniya ? ”
+01018013	Yave Ebenaamu i iyaviya i bwaduwa , “ Ava uḡuna yo Sena i viniḡa atu i bwaduwa , ‘ Naki a vineveka , venemokena gwadimonamona ana vinatuniya ? ’
+01018014	Omasi tamo aviyavana daunamokena Yave nenei , muka kana nufota be ina savivinei ? Naki a bwaduwa maise , nofe tovanama maise noko manamananama tovanama ana makavinikuwa neneweu , kawau Sena natuu namoḡa ina vinatuniya . ”
+01018015	Sena i matuta na uḡuna keta i sawavigema i bwaduwa , “ Iyau muka tamo ata viniḡa . ” Atu i iyaviya i bwaduwa , “ Mukamokena , ku viniḡa . ”
+01018016	Ebenaamu keta namoḡa kasi tonu nukusi si misiniya keta si niniya be ina vateweisiya yasi ketai . Nokomai si kitanusinowa Sodoma nenei .
+01018017	Keta Yave tauna nenei i bwaduwa , “ Aviyavana kabegomokena ana saviviniya , muka Ebenaamu nenei ana teneviunei .
+01018018	Susukwana ina nakata yota fiwafiwanamokena . Keta tanake nenei kunuma matatafuna fwayafwayai ana sawanuwagabubuwisiya .
+01018019	A gibokiya be tanake ina iyavisiya natunatuna keta yota susukwana muninei si nenemiya , ebe yaku ketaketai sina savivina dawaniniina yota kana matanatotowai . Ebe avana Ebenaamu nenei a bwadudabedabiya maise kana fata be ana saviviniya . ”
+01018020	Keta Yave Ebenaamu i iyaviya i bwaduwa , “ Menana Sodoma keta Gomona namoisi yasi fufunagoyo i nakatamoka keta yota fasisiyai odo nakasina a nowaniya .
+01018021	Nofe naki a sobusobuwa be ana kitiya taki noko odosima tasike fasisiyai venemokena o muka , ebe ana sanamaniya . ”
+01018022	Namoḡa nasi nuwa si noḡokawawa keta si niya Sodoma kuweyaina , eatu Ebenaamu i fakwa i misimisiniya Yave naunei .
+01018023	Ebenaamu i vaniya niniunei eketa i iyaviya i bwaduwa , “ O venemokena namoḡa goyosi keta eyaeyasi nukusi kuna nuyaunisiya ?
+01018024	Taki namoḡa eyaeyasi nasi 50 menana noko sinenei o namaise , yawane kuna nuyauniya ? Taki eyaeyasi fasisiyai o namaise , menananama kuna kitamokiya ?
+01018025	Muka kuna fufuniya , nai o muka dawaniniina . Keta muka kana nufota be namoḡa eyaeyasi atu goyosi nukusi kuna nuvimateisi . Taki kuna saviviniya , nao goyosi kasi vimatadawanai eyaeyasi nukusi kuna nunatusiya . Muka . Kwaḡa o fwayafwaya kana matatafu kana tonuvisi , na fasinei kwaḡa kuna vinuwadadanikiya venemokena namoḡa kama matanatotowai , abe namaise . ”
+01018026	Yave i iyaviya i bwaduwa , “ Namoḡa matatafusi Sodoma sinenei ana gifafafanisiya taki namoḡa eyaeyasi sinesiyai kasi 50 ana nisaisiya . ”
+01018027	Ebenaamu i bwadu-savaviniya i bwaduwa , “ Yaku tuveka , iyau o ibakaokaoḡo maise gavi keta kausibi atu yota a vibutuwa a nunusifufuwa nofe fasinei .
+01018028	Taki namoḡa eyaeyasi kasi 50 eatu 5 nenei ina kesa , noko menaninama kuna nuyauniya ? ” Yave i iyaviya i bwaduwa , “ Taki namoḡa eyaeyasi kasi 45 ana nisaisiya , nao muka ana nuyaunei . ”
+01018029	Ebenaamu i vikokone-savaviniya i bwaduwa , “ Atu namaise taki kasi 40moka nokomai kuna nisaisiya ? ” Atu i iyaviya i bwaduwa , “ Taki kasi 40 , muka ana fufuniya . ”
+01018030	Ebenaamu i iyaviya i bwaduwa , “ Ae yaku tuveka , muka kuna nuwagoyoweiku eatu kuta tenikuwa be ata nusifufuwa . Namaise taki nasi 30 nokomai ? ” Keta i iyaviya i bwaduwa , “ Taki 30 ana nisaisiya , muka ana fufuniya . ”
+01018031	Ebenaamu i iyaviya i bwaduwa , “ Eiyoi , naki a nusifufumataiya nofe fasinei atu namaise taki 20 kuta nisaisiya ? ” I iyaviya i bwaduwa , “ Taki 20 ana nisaisiya , muka ana nuyaunei . ”
+01018032	Yota Ebenaamu i bwadu-savaviniya i bwaduwa , “ Ae yaku tuveka , muka kuna nuwagoyoweiku . Atu naki kawa tamokaḡamoka yota ata bwaduwa . Atu taki 10 kuta nisaisiya ? ” I iyaviya i bwaduwa , “ Taki 10 ana nisaisiya , muka ana nuyaunei . ”
+01018033	Tovanama si nusifufukooḡa , Yave Ebenaamu i venuteweiya keta i niya , eatu Ebenaamu i makaviniya yana menanai .
+01019001	Guyau kana kaetoḡa abamei kasi nuwa navinavimokeyai si kikinomana Sodoma . Nota menana kana ketakawanai i nuvitoḡa i fakwafakwa . Tovanama i kitisiya , i misiniya i venufotifotisiya eketa nausiyai i koduwa fwayafwayai .
+01019002	Keta i iyavisiya i bwaduwa , “ Aiye , kwa nemai yaku numai be a oviviteimi . Eatu kaemi kwa kigona be kwa viyawasi , eatu kumana matami kwa kitakiyei yo yami ketai kwana niya . ” Atu si iyaviya si bwaduwa , “ Muka tamo avana . Naki nofemai kana toḡanumasana . ”
+01019003	Atu i gwaeḡemokisiya keta nukusi si niya yana numai . Keta ka i fufuniya fasisiyai . Maneka muka na kana nutuva i kaguwana keta si kawa .
+01019004	Muniyai yo sina banuwa , Sodoma menana gunina be ovina kana tufunakata be vituvekasi , matatafumokesi nokomai numa si misini-fanakwaniuwiya .
+01019005	Nota nenei si bwauwa si bwadubwaduwa , “ Namoḡa kasi nuwa kimoki nuwabuna si nemiya neneweu , nama o fiyaomokesi ? Ku kikinomana-nemiyeisi nenekiyai be ka mataveyeisi . ”
+01019006	Nota i misini-kikinomana numa kawanei atu kumunina kawa i katuguduya .
+01019007	Keta i iyavisiya i bwaduwa , “ Ae unaunaku , fufuna naki goyomokena muka kwana savivinei .
+01019008	Kwa vaneneḡeiku ! Natunatuku vivine kasi nuwa weka , muka tamo namoḡa nukusi sita matavenuvanuva . Taki nuwanuwami maise vivinesima ata kikinomana-nemiisiya nenemiyai be aviyavana yami nuwanuwa kwata saviviniya nenesiyai . Eatu namoḡa nofe a nemiisiya kanonovakuwai , muka kwana ginuvanuvaisi . ”
+01019009	Atu si kawafatiya si bwaduwa , “ Ku misininai ! Kwaḡa tene wagawaga ku nemiya atu nuwanuwau avage kuna vikainakata . Kimoki kwaḡa kana givikuvavaniwa nakatamokena yo tasike nasi nuwa . ” Eketa na yasi fiwana Nota si katutunetuniya numa kana kawa kuweyaina avage nuwanuwasi kawa sina vitutuyakweniya .
+01019010	Atu kaetoḡa kasi nuwa numa sinenei nimasi si kitunina , Nota si sinaviya keta si sinakanasuniya eketa kawa si katuguduya .
+01019011	Atu yasi fiwana nenei namoḡa matatafusi menanai matasi si weikwava be muka kasi fata kawa sina nisaḡai .
+01019012	Eketa namoḡa nasi nuwa Nota si iyaviya si bwaduwa , “ Tova kabegomokena menana nofe kana nuyauniya . Yave odo nakatamataina i nowaniya menaninama fasinei keta i visimeikiya ka nemiya be kana nuyauniya . Atu tamo ya sabu nofemai ? Maise natunatuu namoḡa keta vivine o nawanawau o taki aitevana tamo yota ya sabu menana nofe sinenei , ku kikinomaneisi . ”
+01019013	
+01019014	Eketa Nota i kikinomana menanai keta natunatuna vivine kasi sawagivifoteina i matakawisiya . I iyavisiya i bwaduwa , “ Yave kabegomokena menana nofe ina nuyauniya . Kwa venudibwana be menana nofe kwa teweyei . ” Atu namoḡasima si bwaduwa vitana ita sawasawaviniḡa .
+01019015	Naki tova i gegegesiya kana manawasasai , kaetoḡasima Nota si nuyakayakaniya be ina venudibwana . Si iyaviya si bwaduwa , “ Ku venudibwana ! Kawau be natunatuu vivine nasi nuwa nukusi ku kikinomaneisi . Akata ina kakaviwa tovanama Yave menana nofe ina vimatadawaniya nenei . ”
+01019016	Atu Nota i giwaewaeḡeya . Yave Nota i sineganiganiiya na fasinei keta kaetoḡa kasi nuwa nimanei si nufatuma yota kawana be natunatuna nimasiyai eketa si kikinomanisiya kawayavatai .
+01019017	Tovanama si kikinomanisiya menanai , kaetoḡa tamokaḡa i iyavisiya i bwaduwa , “ Kwa dibwana be kwana fakwa yawayawasimi ! Muka kwana okikine kumunimi yota muka kwana niviyawasinai kawanauwai ! Kwa dibwanamoka koya nenesiyai akata ina kakavimiya . ”
+01019023	Tovanama Nota ugunina nukusi menana Sowa nenei si kikinomana , vanavana i kusifuya .
+01019024	Yo muniyai iba nununuina muna nenei maise , Yave i visaviviniya keta abamei i sobunemiya Sodoma keta Gomona nenei .
+01019025	Eketa naki kana menana be kana namoḡa be yota kisisiku matatafumokena kawanaunama nenei i siwataunisiya .
+01019026	Atu Nota kumunina kawana si okikineya keta si vitasiya maise gabana .
+01021001	Yave Sena i sawanuwagabubuwiya keta avana yana bwadudabadaba maise i fufuniya .
+01021002	Tutuyanama Guyau i bwaduwiya nenei aviyavana ina kikinomana , naki i nuvifotiya . Sena i visifuḡa keta i vinatuniya natuna namoḡa tovanama Ebenaamu yana vituveka nenei .
+01021003	Gwadimonamonanama i tufuwa keta Ebenaamu i weniya kana wava Aisake .
+01021004	Kuyadayada 8 muninei , Ebenaamu natuna nenei nufifina i saviviniya kiyakiyaya fasinei , namaise Guyau i visimeiya maise .
+01021005	Ebenaamu kana manamana 100 nenei Aisake i tufuwa .
+01021008	Gwadimonamona i nakata keta tovanama i sokeya nenei , Ebenaamu visoke kana ka i fufuniya .
+01021009	Noko tovanama nenei Sena si kitiya Isimeni Aisake i sawasawaviniiya . Isimeni o Ebenaamu natuna kana vinuwa , ne Itifita kaetoḡa kasi wava Ega nenesiyai i tufuwa .
+01021010	Eketa Ebenaamu si iyaviya si bwaduwa , “ Kaetoḡa nofe na natusi ku vikikinomaneisi . Muka simo nuwanuwaki tamo ya kaikaiwabu ina vai tovanama kuna mateya . Naki natukiḡa . ”
+01021011	Ebenaamu i nuwatadauna bwadunama fasinei uḡuna Isimeni o yota natuna .
+01021012	Eatu Guyau i iyaviya i bwaduwa , “ Muka nuwanuwa ina munuu kaetoḡa na natusi nukusi fasisiyai . Avana Sena si bwaduwiya maise ku fufuniya . Uḡuna Aisake nenei , susukwanama ka wava sina gikikinomaniya .
+01021013	Atu kaetoḡa natusi o kwaḡa natuu , na fasinei susukwana yota ana givinakasiya be ina vikunuma . ”
+01021014	Eketa tova i katakiya nuwabunimokeyai , Ebenaamu tukwava na ukowina keta kabwaga , Ega i vikavanisiya eketa na natusi i teweisiya si niya .
+01022001	Muniyai Guyau i anuvanuviya Ebenaamu yana vitumaḡana . I iyaviya i bwaduwa , “ Ebenaamu ! ” Eketa i vinowana i bwaduwa , “ O , iyau weka . ”
+01022002	Keta Guyau i iyaviya i bwaduwa , “ Natuu tamokaḡamoka ku nuwagabubuwiya Aisake , ku ovai be ku niyei fafani Moniya nenei . Koyanama namai ana visawaveniwa nenei , kuna vibwanaoseiya ya vikanakooḡa bwanaosena nenekuwai . ”
+01022003	Na fasinei Ebenaamu nuwabunimoka i misiniya , yana doniki i gidewadewiya keta i kaiuna vibwanaose fasinei . Eyo tobunanige nasi nuwa keta natuna Aisake i ovisiya keta si noḡokawawa kabainama Guyau i bwaduwiya nenei si niya .
+01022004	Si niniya atu kuyadayada kana vitonu nenei , Ebenaamu matana i kanakasiya keta kedawanauwai kabaḡanama i kitiya .
+01022005	Tobunanige i iyavisiya i bwaduwa , “ Doniki nukusi nofemai kwana fakwa . Atu natuku nukusi kana niya nokomai , Guyau nenei kana kodukoduwa yo kana makavinikiya nenemiyai . ”
+01022006	Eketa Ebenaamu kai kitavina natuna i vikavaniya eatu tauna o kikanakanata keta giniwakuma i givikavinisiya keta si niya .
+01022007	Si niniya atu Aisake amana i iyaviya i bwaduwa , “ Amaku ! ” Ebenaamu i iyaviya i bwaduwa , “ Natuku , ku nusifufu . ” Eketa Aisake i iyaviya i bwaduwa , “ Kikikweu keta kikanakanata o nofe , eatu sifi mwanavauna vikanakooḡa bwanaosena fasinei o namai ? ”
+01022008	Ebenaamu i iyaviya i bwaduwa , “ Natuku , Guyau tauna yawane sifi mwanavauna ina venita vibwanaose fasinei . ” Eketa si nikaokaoḡowa si niya .
+01022009	Tovanama si nemiya kabainama namai Guyau i bwaduwiya nenei , Ebenaamu didiḡa i didiiya keta etanei kai i tewesonasonamiya . Eyo muniyai , natuna Aisake nimana keta kaena i kiyona eketa didiḡai kai etanei i vikenofaniya .
+01022010	Yana giniwakuma i sinayaginiya be natuna ina nuvimatiya .
+01022011	Eatu tovanama nenei , abamei Yave kana kaetoḡa i bwauwiya i bwaduwa , “ Ebenaamu ! Ebenaamu ! ” Ebenaamu i vinowana i bwaduwa , “ O , iyau weka . ”
+01022012	Eketa Yave kana kaetoḡa i iyaviya i bwaduwa , “ Muka natuu kuna givikuvakuvavanei o avana tamo goyona kuna fufuniya nenei ! Nofe kimoki o a sanamanemokiwa gewa Guyau ku vifotuwiya uḡuna natukatekateu atu muka kuta nuwanononei nenekuwai . ”
+01022013	Ebenaamu matana i kanakasiya keta sifi namoḡa i kitiya kisisiku sinenei ketuketuna kana vinaḡanaḡana nenei i nukabwakuya . I niya yomuyomunama i viya , i nuvimatiya keta i vikanakoḡoiya yana bwanaose Guyau nenei eatu muka natuna .
+01022014	Noko nenei eketa kabainama i weniya Yave Ina Venita . Nofe tovasima nenesiyai namoḡa yasi kafa tanatutuna si bwadubwaduwa , “ Yave yana koyai ina venita . ”
+01022015	Eketa abamei Yave kana kaetoḡa Ebenaamu i bwauwe-savaviniya i bwaduwa ,
+01022016	“ Nofemaise Yave i bwaduwa , ‘ Fonaku ku nowaniya keta natukatekateu atu muka kuta nuwanononei nenekuwai na uḡuna kaku wavai a bwadudabadaba neneweu ,
+01022017	vitana venemokena ana sawanuwagabubuwiwa be susukwau nakatamokena ana veniwa . Sina yagwana vitana kinavinavi abamai yota numagama kwadewai maise . Kasi aviya sina vatanisiya keta yasi menana sina vitoniwagina .
+01022018	Susukwau nenesiyai eketa kunuma matatafusi fwayafwaya etanei ana sawanuwagabubuwisiya uḡuna fonaku ku muniiya . ’ ”
+01022019	Ebenaamu na natuna si makavinisiya yana tobunanige nenesiyai eketa matatafusi si makavinisiya Biyasiba namai Ebenaamu i fakwafakwa nenei .
+01025019	Ebenaamu natuna Aisake na natunatuna sifusifufusi nofemaise .
+01025020	Tovanama Aisake kana manamana 40 nenei Nibeka i vikawaniya . Nibeka tawaḡana o Nebani keta amasi o Betuweni tene Anami fafani Fadana-anami nenei .
+01025021	Nibeka tanake kakanina keta Aisake i kawanunukuwiya Yave kawana kana ovivita fasinei . Yave yana kawanunuku i nowaniya eketa Nibeka i visifuḡa .
+01025022	Atu bebeta si vivikafifiwana manawanei keta i bwaduwa , “ Namaise yo savivina nofe i kikikinomana nenekuwai ? ” Eketa i niya Yave i kawanunukuwiya ibanama fasinei .
+01025023	Eketa Yave i iyaviya i bwaduwa ,  “ Sineweu o kunuma nuwesi . Sina tufuwa nenei , sina vikavanevaneya . Tamo kunuma o unana ina fiwanateweiya . Kotokikinuna ina vikaetoḡa gwadiyei nenei . ”
+01025024	Tovanama Nibeka i vinatuna nenei , natuyuweyuwe namoḡa si tufuwa .
+01025025	Kotokikinuna i tufuwa o sininina yabeyabenina atu konokonona . Na fasinei si weniya Isowa .
+01025026	Muninei gwadiyei i tufuwa , Isowa kaeketuketunei i gitotowa . Na fasinei si weniya Yakobo . Aisake kana manamana 60 nenei natuyuweyuwe si tufuwa .
+01025027	Tovanama namoisima si nakata , Isowa i vitonuiyowa eketa tova matatafuna wanakiyai i nunuiyowa . Eatu Yakobo o umaumana keta toḡakuyadayadana .
+01025028	Aisake o Isowa i nuwagabubuwiya uḡuna nuiyo gevagevana nuwatana i viya , eatu Nibeka o Yakobo si nuwagabubuwiya .
+01025029	Tova tamokaḡa Yakobo fenifeni i nunubudana atu wanakiyei Isowa dibuna i toyoḡa yota na vitanonina i kikinomananemiya .
+01025030	Eketa Isowa Yakobo i iyaviya i bwaduwa , “ Vitanona i kanamunumokikuwa . Nofe tova nubudana yabeyabenina simo ku veneiku a kawa . ” ( Noko nenei keta kana wava venuwana si weniya Edomu.)
+01025031	Keta Yakobo i iyaviya i bwaduwa , “ Vikinuna kana vitovisime nofe tova ku vitamanei nenekuwai ebe yo nubudana ana veniwa . ”
+01025032	Isowa i iyaviya i bwaduwa , “ Ei , i kanamunumokikuwa ! Vikinuna kana vitovisime o avana kana dewadewana ! ”
+01025033	Eketa Yakobo i iyaviya i bwaduwa , “ Nauna ku bwadudabadaba nenekuwai yoke . ” Eketa Isowa i bwadudabadaba vikinuna kana vitovisime kana dawanatamaneina fasinei .
+01025034	Noko muninei Yakobo maneka keta nubudana Isowa i veniya . I kawa , i yuwa eketa i niya . Nofe ketaketanama nenei Isowa muka ita vinuwana vikinuna kana vitovisime fasinei , eatu naki i katuteweiya .
+01026001	Noga nakasina manatuwaina Ebenaamu yana tovai maise , yota Kenani i visavavinisiya . Na fasinei Aisake i niya menana Gena nenei , Finisitiya kana tufomu kana wava Abimeneki nenei .
+01026002	Yave i kenokikinomana Aisake nenei keta i iyaviya i bwaduwa , “ Muka kuna nai Itifita eatu namai fwayafwayanama ana iyaviwa nenei , nokomai kuna fakwa .
+01026003	Nofemai simokaḡamoka kuna fakwa . Iyau kwaḡa nukusi eketa ana sawanuwagabubuwiwa . Fwayafwayanama nofe matatafuna susukwau nukusi ana venimiya ebe avana amau Ebenaamu a bwadudabedabiya maise , bwadudabadabanama ana givifakiniya .
+01026004	Susukwau yagwanina ana veniwa maise kinavinavi kasi yagwana abamai . Keta fwayafwayanama nofe matatafuna ana venisiya . Tasike nenesiyai , kunuma matatafusi fwayafwaya etanei ana sawanuwagabubuwisiya .
+01026005	Uḡuna Ebenaamu fonaku i muniiya , yaku bwadu i nowaniya yota yaku gisawakedana be yaku visime matatafuna , i muniyekoḡoiya . ”
+01026006	Na uḡuna eketa Aisake i fakwa menana Gena nenei .
+01028001	Aisake i bwauwiya Yakobo keta i sawanuwagabubuwiya yo i sawakedakedaniya i bwaduwa , “ Muka nofemai tamo ne Kenani kuna vikawaniya .
+01028002	Atu nofe tova kuna niya Fadana-anami nenei , ayou amasi Betuweni menaninei . Nokomai tamo kawau kuna viya auḡu Nebani natunatuna sinesiyai .
+01028003	Eatu Guyau Tofiwanaonaona ita sawanuwagabubuwiwa be natunatuu sita yagwana be susukwau sita geyana ebe kunumisi sita yagwana .
+01028004	Tanake ita sawanuwagabubuwiwa keta yota susukwau , maise Ebenaamu i sawanuwagabubuwiya . Ebe fwayafwayanama ku fakwifakwiiya maise teneyauyauna kuta vitoniwagiya . Uḡuna fwayafwayanama o Guyau i veniya Ebenaamu . ”
+01028010	Yakobo Biyasiba i teweiya eatu i niya Anani kuweyaina .
+01028011	I niniya atu kabaḡa tamokaḡa i nisaiya eatu naki vanavana i sinakafwanukuwiya fasinei eketa i vikabaḡa . Gabana i viya keta i kenovikifafiiya .
+01028012	Tovanama i banubanuwa nenei , i kavayuna . I kitiya abama i kawiya atu ke'ta nutanabaibainina , fwayafwayai i misiniya atu i vaneya abamai . Keta Guyau kana kaetoḡa abamei si sobusobuwa be si vanevaneya .
+01028013	Atu Yave i misiniya niniunei eketa i iyaviya i bwaduwa , “ Iyau Yave , waḡau Ebenaamu keta Aisake yasi Guyau . Fwayafwayanama nenei ku matamataveya , kwaḡa keta susukwau ana venimiya .
+01028014	Kimoki yo susukwau maise genasa , sina kataneneḡa yavanata , gagasa , bomatu , keta nanakoya kuweyaisi nenesiyai . Keta susukwau nukusi kami sawanuwagabubu nenei , fasekwa matatafusi fwayafwaya etanei ana sawanuwagabubuwisiya .
+01028015	Kuna tukutukuya , Iyau o kwaḡa nukusi keta ana nuvinanuwa ya nidadana nenesiyai kana nivaniva ana makaviniwa fwayafwayanama nofe nenei . Muka ana venumakanoveu kana nivaniva aviyavana a bwadudabedabiwa maise ana fufuniya . ”
+01028016	Yakobo i kenoviniya na yana matuta keta i bwaduwa , “ Venemokena gewa Yave o nofemai i fakwafakwa eatu muka ata sanamanei . Kabaḡa nofe a vimaimatumatuta . Nofe o Guyau yana kabaḡa keta abama kana ketakawana . ”
+01028017	
+01028018	Eketa nuwabunimokeyai Yakobo i misiniya keta gabananama i kenovikifafiiya , i vimisiniiya kiyakiyaya fasinei keta bubu nenei i vitowiya .
+01028019	Eketa kabaḡanama i weniya Beteni . Eatu menaninama nakasina si mikiweniya Nusi .
+01028020	Yakobo i bwadudabadaba Guyau nenei i bwaduwa , “ Taki kwaḡa iyau nukusi be kuna ofafafikuwa , kabwaga kuna venikuwa , nuya kuna venikuwa ,
+01028021	ebe taki ana makavinikuwa na yaku dewadewana amaku yana numai , enao kwaḡa Yave yaku Guyau .
+01028022	Atu gabana nofe a vimisiniiya , ita vikiyakiyaya Guyau ya numa . Aviyavana matatafuna kuna venevenikuwa , dawana 10 ana tenetenisiya atu sinesiyai tamokaḡa kwaḡa ana veneveniwa . ”
+01035009	Tovanama Yakobo i fakwafakwa Fadana-anami atu i makaviniya Beteni nenei , Guyau i kenokikinomana-savaviniya keta i sawanuwagabubuwiya .
+01035010	I bwaduwa , “ Ka wava Yakobo atu muka yota sina weneu Yakobo . Kimoki keta i niniya ka wava Isineni . ” Eketa i weniya Isineni .
+01035011	Yota i bwaduwa , “ Iyau Guyau Tofiwanaonaona . Kuna vinatunasiwasiwaḡa keta kuna yagwana . Susukwau ina nakatamoka . Fasekwa dawanisi yota tufomu sina kikinomana kwaḡa neneweu .
+01035012	Fwayafwayanama a bwadudabedabiya Ebenaamu be Aisake nenesiyai , kwaḡa ana veniwa . Yota susukwau nenesiyai nofe fwayafwayanama ana venisiya . ”
+01035013	Guyau tovanama Yakobo nenei i nusifufukooḡa , i teweiya .
+01035014	Kabainama nenei Guyau i nusifufuwiya , gabana i vimisiniiya keta etanei waini i siwaiya yana bwanaose yota muniyai bubu i siwaiya .
+01035015	Eketa Guyau nokomai i nusifufuwiya fasinei , kabainama i weniya Beteni .
+01035016	Muniyai Yakobo yana sabu nukusi Beteni si teweiya . Keta yawane Efanati kedawanau , Neiseno i vibutusiya atu si nisaiya daunina .
+01035017	Si vibaiiya eatu kuvavana i gimunusiya nenei , kasi toosiwaḡa si sawakatevatusiya si bwaduwa , “ Muka kwana matuta . Natumi namoḡa kana vinuwa i tufuwa . ”
+01035018	Tovanama ayona yawasisi i kakakaviya nenei , si weniya Benoni eatu amana i weniya Beniyamina .
+01035019	Tovanama Neiseno si vidawana , ketanama i niniya Efanati ( nofe tova o Beteniyema) , kafakainei si odewadewisiya .
+01035020	Eketa Yakobo gabana i vimisiniiya kasi manawa etanei . Gabaninama Neiseno kasi manawa nenei nofe tova i fakwafakwa . Aisake Yana Mate  Sifusifufu 2:1-2 Yakobo natunatuna namoḡa kasi 12 .
+01035023	Neya natunatusi namoḡa o Nubeni , Yakobo natuna kotokikinuna . Muninei o Simiyoni , Nebi , Yuda , Isaka , Sebunoni .
+01035024	Neiseno natunatusi namoḡa o Yosefa keta Beniyamina .
+01035025	Neiseno kasi kaetoḡa Binaa natunatusi namoḡa o Dani keta Nafatanai .
+01035026	Neya kasi kaetoḡa Dinufa natunatusi namoḡa o Gada keta Asa . Yakobo kakawana nofemaise natunatuna namoḡa si vinatunisiya Fadana-anami nenei .
+01035027	Eketa Yakobo i makaviniya amana Aisake nenei , Kiniyati-aba ( nofe tova o Ebinoni) niniunei menana Mamene nenei . Nofe menaninama Ebenaamu i fakwiiya muninei yota Aisake i fakwiiya maise teneyauyauna .
+01035028	Aisake i fakwa kana manamana 180 .
+01035029	I sobuwa i vigwadimonamonamoka yo muniyai yawasina i kakaviya keta waḡawaḡana i tuyanomwanisiya . Eketa natunatuna namoḡa Isowa be Yakobo si odewadewiya .
+01037001	Kenani fwayafwayana namai Aisake i fakwiiya be nenei i viteneyauyauna yota Yakobo i fakwa .
+01037002	Eketa Yakobo na natunatuna sifusifufusi nofemaise . Tovanama Yosefa kana manamana 17 , sisitawaḡana nukusi sifi keta gouti si kikitavikavinisiya . Sisitawaḡanasima o amana kakawana Binaa keta Dinufa natunatusi , eatu yasi fufunagoyo fasisiyai Yosefa i simanisiya amana nenei .
+01037003	Yakobo yana vituveka nenei Yosefa i tufuwa eketa i nuwagabubuwiya nakasina yo muniyai natunatuna namoḡa matatafusi . Na fasinei kana kwame nubwayouna dewabauna i veniya .
+01037004	Tovanama sisitawaḡana si kitiya Yosefa kana nuwagabubu nakatamataina yo muniyai tasike , si adibutoyotoyoiya keta muka viunana kana bwaduwai sita nunusifufuwei .
+01037005	Nuwabuna tamokaḡa i kavayuna keta tovanama sisitawaḡana kana kavayuna i iyavisiya nenei o naki si dibutoyoḡemokiya .
+01037006	Yosefa i iyavisiya i bwaduwa , “ Kwa vaneneḡa tu kaku kavayuna a iyaveimi .
+01037007	Bagunai witi ta vivikitava eatu yaku kitava i venukanakasiya keta i misiniya . Tovanama nenei yami kitava si misinififiniya yaku kitava keta nenei si koduwa . ”
+01037008	Eketa sisitawaḡana si iyaviya si bwaduwa , “ Oa ! Omasi ku vinuwadadana avage venemokena kuna vitufomuwa be kuna visimeikiya ? ” Noko nenei , Yosefa yana bwadu be kana kavayuna nenei si adibutoyotoyoḡemokiya .
+01037012	Tova tamokaḡa Yosefa sisitawaḡana , amasi yana sifi keta yana gouti si visiya keta si niisiya menana Sekemu niniunei , keta nokomai si kitavikavinisiya .
+01037013	Eketa Yakobo Yosefa i iyaviya i bwaduwa , “ Sisitawaḡau o Sekemu nenei yomuyomu si kitakitavikavina . Nuwanuwaku ana visimeiwa kuna niya nenesiyai . ” Yosefa i vinowana i bwaduwa , “ Dewadewana , Ana niya . ”
+01037014	Eketa amana i iyaviya i bwaduwa , “ Ku nai be sisitawaḡau ku kitaisi taki yomuyomu nukusi dewadewasi , nao kuna makaviniwa kuna matakawikuwa . ” Ebinoni kawanauna nenei Yosefa i visimeiya i niya Sekemu .
+01037015	Tovanama i kikinomana , i kakafivinavina kawayavatai atu namoḡa tamokaḡa i nutoniiya i bwaduwa , “ Ei , aviyavana ku nunuwasai ? ”
+01037016	Yosefa i nufata i bwaduwa , “ Sisitawaḡaku yasi yomuyomu si kitakitavikavina , a nunuwasisiya . Ku sanamanisiya namai kasi tuḡana ? ”
+01037017	Eketa namoḡanama i iyaviya i bwaduwa , “ Si nemiya wekamai atu naki si niya . A nowanisiya si bwaduwa si niniya Dotani . ” Noko nenei Yosefa sisitawaḡana i muniisiya keta Dotani i nisaisiya .
+01037018	Tovanama si kitiya kedawanauwai i nenemiya , kana munuwa fasinei si viwaifufuna .
+01037019	Tututausi si vikanunusifusifufuwa keta si sawaviniiya si bwaduwa , “ Ake , tokavayuna-onaonanama kwa kitai i nenemiya .
+01037020	Ei , ta nuvimatei be tamo yeyenu kokonina nenei ta tewesobuwei . Kana fata amata tana iyaviya avage tamo yomuyomu-wanawanaki i kaniya , ebe tana kitiya taki kana kavayuna ina vivenemokena o muka . ”
+01037021	Atu Nubeni i nowaniya yasi bwadu eatu i vinuwadadana Yosefa kana guguya fasinei keta i iyavisiya i bwaduwa , “ Muka yawasina tana nuyaunei .
+01037022	Muka tana nuviufaufai atu nofemai wanakikaoḡowai tata tewesobuwiya yeyenu kokonina nenei . ” Nubeni i tanafafafana taina kana guguya fasinei uḡuna nuwanuwana be ina niiya amana nenei .
+01037023	Eketa tovanama Yosefa i kikinomana , sisitawaḡana si givikaviniya keta kana kwame nubwayouna dewabauna tofwanei si kakiya .
+01037024	Si oviya keta yeyenu kokoninei si tewesobuwiya .
+01037025	Tovanama si makavina keta si nuvitoḡa si kakawa atu matasi i kanakasiya keta Isimeni fasekwina si kitisiya si nenemiya na yasi kameni Gineyadiyei , si niniya Itifita . Iba mamadisi nukusi si kivitotoḡa .
+01037026	Keta Yuda unaunana i iyavisiya i bwaduwa , “ Taki taita tana nuvimatiya keta ufaufana tana tenemakaviuniya , aviyavana tamo kana dewadewana tana nisaḡai ?
+01037027	Isimeni namoisi nenesiyai ta vitamanei eatu muka tana munuya . Aitevana taina yoke , kita viyo ufaufa tamokaḡa . ” Eketa unaunana yana bwadunama si vinowaniya .
+01037028	Tovanama Midiyani tovitamaneina si kikinomana , Yosefa sisitawaḡana si niya yeyenu nenei si sinakikinomaniya keta Isimeni namoisi nenesiyai , si vitamaniya fatana siniva 20 . Eketa Yosefa si niiya Itifita .
+01037029	Eyo muniyai tovanama Nubeni i makaviniya , i niya yeyenu nenei i nugenana eatu muka Yosefa ita kitai . Nuwatana i dauna keta kana nuya i kiganiniya .
+01037030	I makaviniya sisitaina nenesiyai keta i iyavisiya i bwaduwa , “ Yosefa noko muka . Ava o ata fufuniya ? ”
+01037031	Eketa Yosefa sisitawaḡana , gouti si nuvimatiya keta ufaufanei kwame si kutuviya .
+01037032	Eyo si niiya amasi nenei keta si iyaviya si bwaduwa , “ Kwame nofe ka nisaiya , ku kitai . Kamo natuu kana kwame o muka ? ”
+01037033	Amasi i kitakinaniya keta i iyavisiya i bwaduwa , “ Ika . Natuku kana kwame . Yomuyomu-wanawanaki i kaniya . O natuku ! Yomuyomu-wanawanaki i tanabwegabwegiya . ”
+01037034	Eketa yana nuwatadauna nenei kana nuya i kiganiniya , atu nuya yomuyomu utuutusiyai kikifufunisi i kotoniya keta kuyadayada yagwanina natuna i fokuwiiya .
+01037035	Natunatuna matatafusi , namoḡa be vivine , kana sawamwanumwanuva fasinei si niya eatu muka nuwanuwana . Eketa i iyavisiya i bwaduwa , “ Ana bwediya kana nivaniva matematesi yasi kabaḡa kana ke'ta ana vaiya natuku nukusi . ” Eyo natuna fasinei i viketotoniya be i bwediya .
+01039001	Tovanama Isimeni fasekwina Yosefa si niiya Itifita , Fotifa i vitamaniya kana kaetoḡa . Fotifa tanake o tuiyo kasi toviketanuneina . Tanake Itifita tufomu yana namoḡa tamo nakasina .
+01039002	Yave o Yosefa nukusi keta yana ovivita nenei , iba matatafuna i savivinisiya o dewadewana . Kana tovisime tene Itifita yana numai i fakwa .
+01039003	Fotifa i kitanisaiya Yave o Yosefa nukusi eketa iba matatafusi i savisavivinisiya o si dibwadibwana-dewadewa .
+01039004	Noko nenei nuwatana i oviya keta i viya tauna kana kaetoḡa . Eketa yana numa sinena kana kaetoḡa matatafusi sinesiyai , Yosefa i tene-viketanuniya . Yota yana nogonogo matatafuna kasi kitavikavina fasinei nimanei i teniya .
+01039005	Noko tovanama nenei keta i niya Yosefa nenei eketa Fotifa yana numa kana tofakwa kana dewadewana si nisaiya . Yana nogonogo matatafuna numa sinenei keta bagunai , Yave i sawanuwagabubuwisiya eketa dewadewasi .
+01039006	Noko nenei eketa Fotifa yana nogonogo matatafuna kana visime fasinei o Yosefa nimanei i teniya . Keta muka tamo aviyavana fasinei ita nuwanuwa eatu yana kaaḡa fasinei o i kitavikaviniya . Yosefa kana tufuwa dewadewana yota kotokiwaḡa .
+01039007	Muka ita fakwa nubwayouna eatu Fotifa kawana si kitanuvadiiya keta si sawanuyakaniya be nukusi sita banuwa .
+01039008	Eatu i dibutoyoḡa i bwaduwa , “ Kaku tovisime muka ita vinuwana aviyavana tamo numa nofe sinenei fasinei uḡuna iyau nenekuwai ketake . Nogonogo matatafuna o iyau sifukuwai .
+01039009	Iyau o numa nofe kana tovisime naki maise tanake , eketa muka tamo aviyavana ita sawatanai nenekuwai , eatu kwamiḡa kawana . Na uḡuna namaise ana fufunagoyo yo naki ana go'yona Guyau matanei ? ”
+01039010	Tova matatafuna si vivikokoniya atu i didibutoyoḡa keta muka nukusi sita banu yota muka nukusi sita fakwafakwa .
+01039011	Tova tamokaḡa Yosefa i kanasuna numai mudadava fasinei eatu tovanama nenei , muka tamo kaetoḡa numai ita fakwafakwa .
+01039012	Eketa Fotifa kawana si niya Yosefa nenei keta kana kwame si gitoniya keta si sawanuyakaniya si bwaduwa , “ Ku nemi ku banuweiki ! ” Eatu Yosefa i dibwana i kikinomana menanai atu kana kwame i venuteweiya gumayogu nimasiyai .
+01039013	Tovanama si kitiya Yosefa naki i dibwana atu kana kwameḡa si givikaviniya ,
+01039014	yasi numa kana kaetoḡa si wenevakukusisiya keta si iyavisiya si bwaduwa , “ Nofe kwa kitai ! Namoḡa nofe tene Ibeniu kawaki i nemiiya kakaninama , i givisinemumuwita . I kanasunanemiya yama totomuwai keta nuwanuwana ita mataveikiya eatu ka fina .
+01039015	Tovanama i nowaniya ka fina , i dibwana eatu kana kwame i venuteweiya niniukiyai . ”
+01039016	Eketa kwame si fakwiiya kana nivaniva kawasi i makaviniya i nemiya numai .
+01039017	Yota tamoka sifufunama si iyaviya si bwaduwa , “ Kaetoḡa tene Ibeniu ku nemiiya kakaninama , i kanasuna yama totomuwai nuwanuwana ita givisinemumuwikiya .
+01039018	Eatu tovanama ka fina nenei , kana kwame i venuteweiya niniukiyai atu i dibwana i kikinomana . ”
+01039019	Tovanama Fotifa kawana i nowanisiya si bwaduwa , “ Ya kaetoḡa nofemaise i fufuna nenekiyai , ” eketa sinena i nubusubusuwaniya .
+01039020	Tonuaviya i iyavisiya si tabiya keta deniyai si teniya . Kabainama o tufomu yana finisina fasisiyai . Keta deninama sinenei o Yosefa i fakwa .
+01039021	Eatu Yave tanake nukusi keta i nuwagabubuwiya na nenei keta i sawanuwagabubuwiya . Noko nenei keta deni kana tokitavikavina nuwatana i oviya .
+01039022	Eketa finisina matatafusi keta mudadava matatafuna deni sinenei , Yosefa nimanei i teniya .
+01039023	Deni kana tokitavikavina muka ita nuwanuwa mudadavasima Yosefa nimanei i teniya fasinei . Uḡuna Yave o Yosefa nukusi keta i ovivitiya nenei iba matatafuna i savivinisiya o naki dewadewana .
+01040001	Tova tamokaḡa Itifita tufomu kana ukowa kana tokavenena kasi toviketanuneina keta maneka kana tokaguwana kasi toviketanuneina nukusi , si fufunagoyowa tufomu nenei .
+01040002	Tobunanigesima nasi nuwa i nuwagoyowisiya ,
+01040003	keta deniyai i tenisiya tuiyo kasi toviketanuneina yana numai , namai Yosefa i fakwafakwa nenei .
+01040004	Toviketanuneinanama Yosefa i teniya kasi kaetoḡa keta si fakwa simo matanubwayouna .
+01040005	Nuwabuna tamokaḡa tufomu yana tobunanigesima , ukowa kana tokavenena keta maneka kana tokaguwana , si kavayuna . Nasi nuwa nuwabunanama nenei si kavayuna atu kasi kavayunasima kasi gigivina o tuninatunina .
+01040006	Tova i katakiya nuwabuniyai tovanama Yosefa i kitisiya tafakaisi si kanawenonowa .
+01040007	Eketa i nutoniisiya i bwaduwa , “ Kimoki namaise yo nuwanuwa i munumunumi ? ”
+01040008	Si nufata si bwaduwa , “ Nuwabuna nama nuwa ka kavayuna eatu muka tamo aitevana kana fata be kama kavayunasima ina kiyau . ” Eketa Yosefa i iyavisiya i bwaduwa , “ Guyauḡa kana fata kavayuna ina yausiya . Eyo kami kavayuna kwa iyaveiku . ”
+01040009	Eketa ukowa kana tokavenena i vibutuwa i nusifufuwa i bwaduwa , “ A kavayuna a kitiya genefi unavina naukuwai ,
+01040010	eketa unavinama i vinaḡanaḡana naḡanina tonusi . Dadana si kikinomana , unavina si visisiya , si nuwatataisiya eketa uwasi si ouwa .
+01040011	Eatu tufomu kana owa o a gigivikaviniya , na fasinei uwa a kigonuwa , utosi a bibitotoiya tufomu kana owai keta nimanei a teniya . ”
+01040012	Eketa Yosefa i iyaviya i bwaduwa , “ Ka kavayuna kana givina nofemaise . Naḡani tonusi kana givina kuyadayada tonusi .
+01040013	Kuyadayada tonusi ina kakavisiya muninei , tufomu debabouḡu ina katunakasiya eketa ina vinuwateweiwa eyo ina giyauwa keta ya mudadava manatuwaina nenei ina tenesavaviniwa . Nokomai tufomu nimanei kana owa kuna vioviya , manatuwaina ku fufufuniya maise tovanama ku vitokavenena ukowa kana tovai .
+01040014	Tovanama kuta toḡadewadewa nenei , kuta tukukuwa . Ae unaku , kuta ovivitikuwa be tufomu kuta iyaviya fasikuwai ebe deni nofe sinenei kuta vikikinomanikuwa .
+01040015	Tufomu kuta iyaviya aviyavana nenekuwai i kikinomana fasinei . Ibeniu fwayafwayana nenei namoḡa si givikavinikuwa si dibwanikuwa . Nofemai yota muka tamo aviyavana goyona ata fufuniya atu deniyai si tenikuwa . ”
+01040016	Tovanama maneka kana tokaguwana i nowaniya unana kana kavayuna Yosefa i yauya fasinei , nuwatana i oviya eketa Yosefa i iyaviya i bwaduwa , “ Iyau yota a kavayuna , maneka feyawisi tonusi a afisiya .
+01040017	Feyawa etanemokenei sinenei o maneka tuninatunina kakaguwanisi tufomu fasinei . Eatu debaboukuwai feyawanama nenei o manuwa si kakawa . ”
+01040018	Eketa Yosefa i iyaviya i bwaduwa , “ Ka kavayuna nofemaise , feyawa tonusi kana givina kuyadayada tonusi .
+01040019	Kuyadayada tonusi muninei , tufomu debabouḡu ina katunakasiya keta kayou sina nuonosiya eyo tofwau kai nenei sina sinavikukiya . Keta manuwa sina nemiya , kwafiniweu viyou sina kaniya . ”
+01040020	Kuyadayada tonusi i kakavisiya muninei , tufomu yana kafa tufuwa kana kuyadayada i nuvifotiya . Eketa yana kawakawa yasi ka i fufuniya . Ukowa kana tokavenena keta maneka kana tokaguwana i ketoyausiya keta si nemiisiya tufomu nenei kawakawa nausiyai .
+01040021	Nokomai , ukowa tokavenena i teniya kana kiviyai eketa tufomu nimanei kana owa i viova-savaviniya .
+01040022	Eatu tonuaviya i visimeisiya keta maneka kana tokaguwana kayona si nuonosiya keta tofwana kaiyai si sinavikukiya . Naki avana Yosefa i bwaduwiya , maisemoka i kikinomana .
+01040023	Eatu ukowa kana tokavenena muka Yosefa ita tukuya , i vinuwataunuwiya .
+01041001	Manamana nuwesi i kakavisiya muninei , Itifita tufomu i kavayuna vitana Naeni ukowa kafakainei i misimisiniya .
+01041002	Tovanama nenei bunumakau kasi 7 na kasi tufutufuwa yota kasi kita dewadewasi ukowei si vanenemiya keta nabenabe kafakainei , nimwau si kakawa .
+01041003	Yota bunumakau kasi 7 kasi kita goyosi keta banibaninisi munisiyai si vanenemiya eketa niniusiyai si misiniya .
+01041004	Kasi kita goyosi keta banibaninisi si misiniya keta kasi 7 na kasi tufutufuwa keta kasi kita dewadewasi , si kanisiya . Nokomai tufomu i kenoviniya .
+01041005	Tovanama i banu-savaviniya , yota i kavayuna . I kitiya witi uguna tamokaḡa nenei , i foka 7 wanosi nakanakasisi yota dewadewasi .
+01041006	Muniyai yota 7 si foka o wanosi kasi kita vitana fonimana inainana ita taoyayanisi eyo sita wenono .
+01041007	Wano wenonosi si misinimoka tu wano nakanakasisi keta dewadewasi , si tononisiya . Eketa tufomu i kenoviniya atu i sanamaniya o i kavayuna .
+01041008	Nuwabuniyai kavayunasima fasisiyai , nuwanuwa yaona i vaniya . Na uḡuna bwadu i vininitiya Itifita kana matatafu nenei yana toibaiba keta yana tonuwatasuyasuya fasisiyai , eketa si nemiya nenei . Kana kavayuna i nusifufuwisiya atu muka tamo aitevana kana fata be ita yausi nenei .
+01041009	Atu tufomu kana ukowa kana tokavenena kasi toviketanuneina , tufomu i iyaviya i bwaduwa , “ Ae aiye , kimoki yo yaku fufunagoyo a tukuya .
+01041010	Manatuwaina tovanama maneka kana tokaguwana kasi toviketanuneina keta iyau , ku nuwagoyowikiya eketa tuiyo kasi toviketanuneina yana numa sinenei , deniyai ku tenikiya . Tovanama nenei tene Ibeniu tufunakasina tamokaḡa waniya nokomai . Tanake o toviketanuneinanama kana kaetoḡa . Nuwabuna tamokaḡa nama nuwa ka kavayuna . Kama kavayunasima ka iyaviya eketa kasi givina i yausiya nenekiyai o tuninatunina .
+01041011	
+01041012	
+01041013	Avana i bwaduwiya , naki maisemoka i kikinomana . Iyau ku tene-savavinikuwa yaku kafa mudadava nenei , eatu ya tonuaviya ku visimeisiya keta maneka kana tokaguwana kasi toviketanuneina kayona si nuonosiya eketa tofwana kai etanei si sinavikukiya . ”
+01041014	Eketa tufomu bwadu i vininitiya Yosefa fasinei eketa muka mwanenena atu deniyai si oviya . Nauna kana mutukonokono i tanakakanuya keta kana nuya i dawanatamatamanina muniyai yo si niiya tufomu nenei .
+01041015	Eketa tufomu i bwaduwa , “ Nuwabuna a kavayuna , eatu muka tamo aitevana kana fata ita yauya nenekuwai . Atu a nowaniya avage tovanama avi kavayuna kuna nowaniya , ka fata kuna yauya . ”
+01041016	Atu Yosefa i bwaduwa , “ Iyau muka kaku fata , eatu Guyauḡa kana kiyau dewadewana ina veniwa . ”
+01041025	Keta Yosefa na yana vimogumogu i bwaduwa , “ Tufomu yo , ka kavayuna nuwesi kasi nuwanuwa naki tamokaḡa . Aviyavana tova kabegomokena Guyau ina saviviniya fasinei , neneweu i tene-kikinomaniya . Guyau naki i givifakiniya , iba nofe kabegomokena ina saviviniya . Nofe fasinei tamoka kavayunanama atu kawa nuwa i visawaveniwa . Bunumakau kasi 7 na kasi tufutufuwa yota kasi kita dewadewasi , maise yota witi fokasi 7 nakanakasisi keta dewadewasi , kasi nuwanuwa manamana 7 mauna . Itifita kana matatafu ina mauna . Bunumakau 7 banibaninisi yota kasi kita goyosi munisiyai si vanenemiya , yota witi fokasi 7 fisusi vitana fonimana inainana ita taoyayanisi keta sita wenono , kana nuwanuwa o manamana 7 nenesiyai noga . Manamana 7 mauna muninei , manamana 7 yota sinesiyai noga ina kikinomana . Eketa fiyao Itifita yasi mauna kana tova yawane sina vinuwataunuwiya , uḡuna fafani kana matatafu noga ina munuya . Tufomu yo , nofe avana a bwaduwisiya o naki maisemoka Guyau kabegomokena ina saviviniya .
+01041026	
+01041027	
+01041028	
+01041029	
+01041030	
+01041031	
+01041032	
+01041033	Tufomu yo , tamo namoḡa tosanamana atu na nuwatasuyasuyana kuta gibokiya be tanake Itifita kana matatafu ita visimeiya .
+01041034	Menana tamokatamokaḡa nenesiyai kawakawa kuta vinuwadadanisiya . Ebe manamana 7 mauna yana tova nenei , tovanama kabwaga oyuna kasi tutuya nenesiyai , kawakawasima dawana 5 nenesiyai tamokaḡa sita gigivikaviniya .
+01041035	Nofe kawakawasima maisa matatafuna sita kwakwiya . Ya visime nenei , menana tamokatamokaḡa nenesiyai maisa matatafuna yasi bonuwai sita totoisiya ebe sita kitavikaviniya namoḡa fasisiyai .
+01041036	Nofe dawanasima yawane namoḡa ita vibiyawasisiya manamana 7 sinesiyai , tovanama noga ina kikinomana Itifita sinenei . Ebe nofe ketaketanama nenei , namoḡa muka vitanona nenei sita domuna . ”
+01041037	Tufomu yana namoḡa nakanakasisi nukusi ketaketanama nuwatasi i oviya .
+01041038	Eketa tufomu i iyavisiya i bwaduwa , “ Venemokena , Guyau kanununa o namoḡa nofe nenei , yota muka tamo namoḡa tonuwatasuyasuya venemokena yo tana nisaḡai maise tanake . ”
+01041039	Eyo tufomu Yosefa i iyaviya i bwaduwa , “ Uḡuna Guyau o ibasima nofe i gikikinomanisiya neneweu , eketa muka tamo aitevana yana sanamana be yana nuwatasuyasuya maise kwaḡa .
+01041040	Yaku kafa visime matatafuna kwaḡa nimaweu eketa yaku namonamoḡa matatafusi , ya visimesima sina muniisiya . Eatu wavaḡa kana vifotu fasinei o kwaḡa sifukuwai . ”
+01041041	Eketa Yosefa nenei i bwaduwa , “ Nofe tova kwaḡa a ginakasiwa Itifita kana matatafu kana tovisime . ”
+01041042	Eketa kana nimabweuna vivigionina , nimanei i yauya keta Yosefa nimanei i sifwatamaniya yota kwame dewabauna i vikotoniya keta kodokodo nukawanamanamaneinana i viya keta kayonei i nuvisanigogwiya .
+01041045	Eketa tufomu Itifita wavana Yosefa i veniya , Safeneti-faniya . Yota kawana i veniya kana wava Aseneti , Fotifena natuna . Fotifena o Oni yasi tovibwanaose . Eketa Yosefa naki i vitovisimeya Itifita nenei .
+01041046	Yosefa i vibutuwa bunanige Itifita tufomu fasinei kana manamana 30 nenei . Noko muninei Yosefa i misiniya keta tufomu i venuteweiya eatu Itifita kana matatafu i vadadaniya .
+01041047	Manamana 7 mauna yana tova sinesiyai fafani Itifita i maunafaga .
+01041048	Noko manamanasima sinesiyai , Yosefa namoḡa i iyavisiya ebe kabwaga si ooyuna atu tufotufo si vakukusiya keta menaninama tamokatamokaḡa kana bonuwai i totoiya .
+01041049	Dawana i kisiwaḡa si vimwanauḡuna maise numagama kwadewai , eketa kana ginaḡanaḡa Yosefa i onoviya .
+01041053	Manamana 7 sinesiyai Itifita sinenei , mauna kana tova i kakaviya .
+01041054	Eatu manamana 7 noga i vibutuwa , naki avana Yosefa i bwaduwiya maisemoka i kikinomana . Fafani matatafuna nenesiyai o noga nakasina i kikinomana , eatu Itifita yana kafa visimeḡa nenei o kabwaga i fakwafakwa .
+01041055	Tovanama fiyao Itifita si vitanonamoka , si vikokona-bwedibwediya tufomu nenei kabwaga fasinei . Eatu tufomu i iyavisiya i bwaduwa , “ Yosefa nenei kwa nai be avana ita iyavimiya maise , kwa savivinei . ”
+01041056	Fwayafwaya kana matatafu noga nakasina atu Itifita nenei o nakatamokena . Eketa Yosefa kabwaga kasi bonu i kiyauwa eketa fiyao Itifita nenesiyai i vikimwaneina .
+01041057	Atu yota mani fafani nenesiyai noga i nakatamoka . Na fasinei namoḡa si nenemiya Itifita eketa Yosefa nenei kabwaga si vivikimwaneya .
+01042001	Eatu tovanama Yakobo i nowaniya vitana Itifita nenei kabwaga , natunatuna nenesiyai i bwaduwa , “ Namaise yo kwa nigwanavaḡata .
+01042002	Kwa vaneneḡa ! A nowaniya vitana Itifita nenei kabwaga . Kwa sobu nokomai kwa vikimwane akata tana domuna . ”
+01042003	Eketa Yosefa sisitawaḡana kasi 10 si sobuwa Itifita kabwagavikimwane fasinei .
+01042004	Atu amasi i vinuwana vitana tamo avana goyona ita kikinomana Beniyamina , Yosefa kana tufunuwa nenei . Na fasinei muka ita visimeyei ebe nukusi sita nai nenei .
+01042005	Fafani Kenani nenei noga naki i goyomoka , na fasinei Yakobo natunatuna yota namoḡa yagwanisi nukusi si sobuwa Itifita kabwagavikimwane fasinei .
+01042006	Noko tovanama nenei fafani matatafuna Itifita sinenei Yosefa i vivisimeiya , eketa namoḡa matatafusi nenesiyai kabwaga i vivikimwaneiya . Eketa tovanama sisitawaḡana si kikinomana , kaevavanei si koduwa fwayafwayai .
+01042007	Yosefa i kitakinanisiya eatu seba i teweiya vitana muka ita sanamaneisi eketa i kayosanakiya nenesiyai i bwaduwa , “ Kwami namaniyei kwa nemai ? ” Eketa si bwaduwa , “ Kima Kenaniyei ka nemiya kabwagavikimwane yawagiki . ”
+01042008	Yosefa sisitawaḡana i kinanisiya atu tasike o muka sita kitakinanei .
+01042009	Kana kavayuna i tukunakasiya fasisiyai eketa i bwaduwa , “ Kwami tokitanaḡanaḡa kwa nemiya kwana sanamaniya kawasasa kafa kanasuna ebe yo nemaniyei kwana vibutukiya . ”
+01042010	Atu si nufata si bwaduwa , “ Aiye , muka . Kima ka kaetoḡa ka nemiya o kabwagavikimwane yawagiki . ”
+01042021	Eketa tututausi nenesiyai si vikanusifusifufuwa si bwaduwa , “ Noko tovanama nenei taita i bwedisitasita kana ovivita fasinei kana dauna ta kitiya eatu muka tata sineganiganiyei . Na fasinei nofe dauninama ta kakamukoniya o kita kata kuvana . ”
+01042022	Eketa Nubeni i bwaduviyewa i bwaduwa , “ Noko tovanama nenei a iyavimiya , ‘ Muka gwadimonamona kwana givikuvavaniya . ’ Eatu fonaku kwa teweiya . Nofe tova yana mate fasinei kita mwavinana ta ninisaiya . ”
+01042023	Yosefa o Itifita fonasiyai i nunusifufuwisiya keta togivina i gigiviniya nenesiyai . Na nenei si bwaduwa vitana muka yasi sifufu ita nowanowaniya .
+01045004	Yosefa Ibeniu fonasiyai sisitawaḡana i iyavisiya i bwaduwa , “ Simokaḡa kwa nemai niniukuwai . ” Eketa si nemiya niniunei , eyo i bwaduwa , “ Iyau taimi Yosefa . Gwadikuma kwa vikimwaneikuwa Itifita nenesiyai .
+01045005	Noko fasinei muka nuwatami ina dauna be tututaumi kwana vikanuwanuwagoyo , kwa vikimwaneikuwa be a nemiya nofemai fasinei . Atu tanake Guyau i mikiteweikuwa a nemiya namoḡa kasi gifafafana fasinei .
+01045006	Noga i nemiita manamana nuwesi . Eatu yota manamana 5 si nenemiya nenesiyai , muka tamo aitevana kana fata ina baguna o ina nukabwaga .
+01045007	Guyau i mikiteweikuwa kunaumi ebe yawasimi ata gifafafanisiya ketaketa dewabauna nenei , ebe susukwa kiyakiyayana muka ina domuna fwayafwaya nofe nenei .
+01045008	Nofe fasinei kwami muka kwata teweyeiku be ata nemi nofemai , eatu tanake Guyau i teweikuwa . Eketa i tenikuwa togivisawakedana tufomu fasinei , yota yana namonamoḡa yasi tuveka keta yota Itifita kana tovisime .
+01045009	Nofe tova kwana dibwana amaku nenei eketa kwana iyaviya , ‘ Natuu Yosefa maise i bwaduwa , “ Guyau i tenikuwa Itifita kana tovisime nakasina . Eketa muka kuna nuyawayawanei nenekuwai .
+01045010	Na uguniu kwata vikukuwayauna , be yami yomuyomu be waḡawaḡau nukusi kwata nemiya fwayafwaya Goseni nenei , niniukuwai kwata vimenana .
+01045011	Ebe yo manamana 5 nenesiyai yawane noga ina niniya , ana kitikitimiya . Akata ka sabu nukusi vitanona nenei kwana fakwa . ” ’ ”
+01045025	Yosefa sisitawaḡana Itifita si teweiya atu si makavinisiya Kenani amasi Yakobo nenei .
+01045026	Eketa amasi si iyaviya si bwaduwa , “ Yosefa noko i fakwafakwa , muka ita mate atu tanake Itifita kana tovisime . ” Eatu Yakobo si visabanutuiya eketa muka ita vitumaḡaneisi .
+01045027	Atu matatafuna avana Yosefa i bwaduwiya maise si iyaviya . Keta yota Yosefa waganusoni i teweisiya kana kivitotoḡa fasinei , tovanama i kitisiya nuwatana i kanabunabuya .
+01045028	Eketa i bwaduwa , “ O bwadu venemokena . Natuku Yosefa gewa i fakwafakwa . Kwa niyeiku be natuku tafakaina a kitai , fonana a nowaniya , yo muniyai kwana teneviunikuwa . ”
+01046001	Eketa Yakobo , yota kana wava kana vinuwa Isineni , ugunina nukusi si vikukuwayauna Itifita fasinei . Eketa tovanama si nemiya Biyasiba , yomuyomu i vibwanaoseisiya amana Aisake yana Guyau nenei .
+01046002	Na nuwabunanama nenei Guyau kenokitai i iyaviya i bwaduwa , “ Yakobo ! Yakobo ! ” Eketa i vinowaniya , “ Iyau weka . ”
+01046003	Eketa Guyau i bwaduwa , “ Iyau Guyau , amau yana Guyau . Muka kuna matuta ku niniya Itifita fasinei , uḡuna noko menaninama nenei susukwau ana givinakasiya .
+01046004	Iyau nukusi tana sobuwa Itifita eatu yawane yota susukwau nukusi ana makavinimiya nofemai . Eatu kwaḡa o natuu Yosefa nimanei kuna vidawana . ”
+01046005	Eketa waganusonisima tufomu i vininitisiya nenesiyai Yakobo natunatuna si totoiya yota kakawasi keta natunatusi , eketa menana Biyasiba si teweiya .
+01046006	Yota yasi yomuyomu be kukuwa matatafuna Kenani nenei kasi fwasimowai i kikinomana , nukusi si niisiya Itifita . Yakobo i misiniya natunatuna namoḡa be vivine keta yota waḡawaḡana nukusi .
+01046007	
+01046028	Yakobo Yuda i visimeiya i venuviketanuna Yosefa ina matakawiya vitana fafani Goseni nenei sina vikaninisaḡa . Tovanama si kikinomana nokomai ,
+01046029	Yosefa yana aviya kana waganusoni si gidewadewiya keta i niya Goseni , amana i venufotefotiya . Tovanama amana i kitiya , i nusiya keta i bwediiya matanubwayouna .
+01046030	Keta Yakobo Yosefa i iyaviya i bwaduwa , “ Kimoki gewa naki tauku matakuwai tafakaiu a kitiya na yawasiu , eyo muniyai kana nufota ina kakavikuwa . ”

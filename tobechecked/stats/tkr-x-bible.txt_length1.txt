@@ -1,0 +1,5 @@
+Grapheme	GraphFrequency	WordFrequency	Difference
+–	48	48	0
+„	3	3	0
+“	3	2	1
+Я	7	1	6

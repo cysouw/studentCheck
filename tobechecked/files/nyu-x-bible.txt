@@ -95,7 +95,7 @@
 41003014	Pamwepo adasankhula kumi na awiri , aciwacemera dzina la kuti , “ Atumiki . ” Adawauza kuti , “ Ndasakhula imwe kuti mumbakhale na ine , ndin'dzakutumani kukalalika ,
 41003015	dicikupasani mphambvu yakuthotha mizimu yakuipa . ”
 41003016	Wanthu kumi na awiri omwe adasankhuliwa mbawa : Sirimau ( omwe Jezu adamucemera Pedru ) ,
-41003017	Tiyagu na m'bale wace Juwau , wana wa Zebedeu ( omwewo adawapasa dzina linango lakuti Aboanerje , bziri kulewa kuti “ Wakugopswa ninga Wana wa Ciphaliwali”) ,
+41003017	Tiyagu na m'bale wace Juwau , wana wa Zebedeu ( omwewo adawapasa dzina linango lakuti Aboanerje , bziri kulewa kuti “ Wakugopswa ninga Wana wa Ciphaliwali ” ) ,
 41003018	Andereya , Filipe , Bartolomeyu , Mateyu , Tomasi , Tiyagu ( mwana wa Alifeu ) , Tadeyu , Sirimau ( wa phati landale la Azelote , )
 41003019	ndipombo Judasi Iskaliote ( omwe adapereka Jezu . )
 41003020	Pambuyo pace Jezu adaenda kunyumba , ndipo wanthu azinji adagumana pomwe , na tenepo Iye na wakupfundzira wace alibe kudzaone nthawe ya kuti adye .
@@ -107,7 +107,7 @@
 41003026	Na tenepo penu mu umambo wa Satana ngwakusandukirana na kupambulana , na tenepoyo bwamala .
 41003027	“ palibe omwe angakwanise kupita mnyumba ya munthu wamphambvu acimubera bzinthu bzace akanati kum'manga . na tenepo ambatoma kum'manga acimubera bwino .
 41003028	“ Ncadidi ndiri kulewa kuti wanthu angakwanise kulekereredwa bzakuipa bzentse , napo bzakulewa bzawo bzentse bzicikhala bzakunyoza Mulungu .
-41003029	Tsono ali-yentse wakunyoza Mzimu Wakucena , an'dzalekereredwa lini bzakuipa bzace bzimbakhala bza kuyenda na kuyenda thagwe ni kaidi wa bzakuipa bzakusaya kumala .”
+41003029	Tsono ali-yentse wakunyoza Mzimu Wakucena , an'dzalekereredwa lini bzakuipa bzace bzimbakhala bza kuyenda na kuyenda thagwe ni kaidi wa bzakuipa bzakusaya kumala . ”
 41003030	Jezu adalewa bzimwebzi pakuwona kuti wanthu wale akhalewa kuti , “ Waphatidwa na mzimu wakuipa . ”
 41003031	Mai na abale wace Jezu adabwera kumuiko . Adaima panja , adatuma wanthu kuti akamucemere .
 41003032	Wanthu azinji akhadakhala acimuzungulira . Ndipo wale adamuuza kuti , “ Mai wako na abale wako ali panjapa , ali kukucemera . ”
@@ -193,8 +193,8 @@
 41005036	Tsono Jezu alibe kubziphatisa basa bzomwe akhalewa wanthuwo . Iye Adamuuza mkulu ule kuti , “ Leka kugopa , iwe kukhulupirira basi . ”
 41005037	Ndipo alibe kubvumiza kuti winango amutewere iye , kupambula Pedru , na Tiyagu , na Juwau , m'bale wa Tiyaguyo .
 41005038	Pomwe iwo adafika kunyumba kwa mkulu ule wa nyumba yamapemphero Jezu adaona phiringo la wanthu omwe , ali akhalira acimbakuwa .
-41005039	Iye adapita , aciwabvundza kuti , “ Thangwe ranyi muli kucita phiringu na kukuwa Mwanayu alibe kufa adandogona .”
-41005040	Pamwepo wanthuwo adayamba kumuseka.iye adawacosa panja wentse , acitenga baba na mai wa mwanayo , na omwe akhali naye wale , acipita kucipinda kukhana mwana ule .
+41005039	Iye adapita , aciwabvundza kuti , “ Thangwe ranyi muli kucita phiringu na kukuwa Mwanayu alibe kufa adandogona . ”
+41005040	Pamwepo wanthuwo adayamba kumuseka . Iye adawacosa panja wentse , acitenga baba na mai wa mwanayo , na omwe akhali naye wale , acipita kucipinda kukhana mwana ule .
 41005041	Ndipo adaphata boko la mwanayo acimuuza kuti , “ Talita , kumi . ” ( Ndiko kulewa kuti , “ Mtsikana-we , ndiri kukuuza kuti muka . ” )
 41005042	mthawe ibodzi-bodziyo mtsikanayo adamukadi , aciyamba kufamba . iye akhana magole khumi na mawiri . Pamwepo wanthu wale adadabwa kwene-kwene .
 41005043	Tsono Jezu adawalamula mwa mphambvu kuti bzimwebzi winango ali-yentse aleke kubzidziwa . aciwauza kuti am'pase cakudya mtsikana ule .
@@ -290,7 +290,7 @@
 41007034	Iye adanyang'ana kudzulu , acisisimira , acimuwuza kuti , “ Efata ! ” ndiko kulewa “ Funguka ! ”
 41007035	makutu ya munthu ule adafunguka , pamwepo lirime lace lidatsudzuka , aciyamba kulewa-lewa bwino
 41007036	Jezu adalumurira andzace wa munthu ule kuti , “ Lekani kukawuza winango ali-yentse bzimwebzi . ” Tsono napo iye akhadawaletsa , iwo adayenda acibzizimbula kwene-kwene .
-41007037	Ndipo wanthu wentse omwe wakhabzibva wakhadabwa kwene-kwene ， waciti , “ Omweyu ambacita bzentse mbzabwino . Ngakhale mkhutwi ambazilimbisa zicibva , pomwe wakusaya kulewa-lewa ambawacitisa kuti walewe-lewe . ”
+41007037	Ndipo wanthu wentse omwe wakhabzibva wakhadabwa kwene-kwene , waciti , “ Omweyu ambacita bzentse mbzabwino . Ngakhale mkhutwi ambazilimbisa zicibva , pomwe wakusaya kulewa-lewa ambawacitisa kuti walewe-lewe . ”
 41008001	Ntsiku inango , mthithi ukuru wa wanthu udagumana pomwe . Nakuona kuti palibe cakudya , Jezu adacemera wakupfundzira wace aciwawuza kuti ,
 41008002	“ Ndiri kuwabvera ntsisi wanthuwa , thangwe akhala nande ntsiku zitatu ndipo alibe cakudya .
 41008003	Ningawabweza kwawo na njala tenepa , an'dzakomoka pa njira , thangwe winango acokera kutali . ”
@@ -301,7 +301,7 @@
 41008008	Wentse adadya acikhuta . Wadakokhobza bzakusala , acidzaza bzitundu bzinomwe .
 41008009	Wanthu omwe akhali pamwepo , amuna okha akhali pafupi-fupi bzulu bzinai . Jezu adadzauza mbumba kuti iyende .
 41008010	Pambuyo pace Iye na wakupfundzira wace adapita mmwadiya aciyenda ku mbali ya Dalammanuta .
-41008011	Ndipo Afaliseyu wadaenda kuna Jezu , ku katsutsana naye . Iwo adamukumbira kuti awawonese cizindikiro cakudabwisa cakucokera kudzulu. Akhandofuna kumuteyera msampha basi .
+41008011	Ndipo Afaliseyu wadaenda kuna Jezu , ku katsutsana naye . Iwo adamukumbira kuti awawonese cizindikiro cakudabwisa cakucokera kudzulu . Akhandofuna kumuteyera msampha basi .
 41008012	Jezu adasisimira mu mtima aciti , “ Thangwe ranyi wanthu wa tsapano lino wambafuna kuwona cizindikiro cakudabwisa ? Ncadidi ndiri kulewa kuti palibe cizindikiro cidza citika kwa mbumba iyi . ”
 41008013	Na tenepo , adawasiya , acipita pomwe mmwadiya aciyambuka ng'ambu ire .
 41008014	Pakucoka wakupfundzira wa Jezu akhadayebwa kutenga mkate , tsono mmwadiyamo akhana mkate ubodzi wokha .
@@ -445,7 +445,7 @@
 41011012	Mangwana yace , pomwe iwo akhacoka kuBetaniya , Jezu adabva njala .
 41011013	Ndipo na patali adawona mkuyu ukhana masamba . Adayenda pafupi kuti pinango angawone nkhuyu . Ndipo adafika , alibe kuwona nkhuyu , adandokawona masamba yokha . Nakuti ikhali lini nyengo ya nkhuyu .
 41011014	Pamwepo adawuza mutiyo kuti : “ Muti iwe , kuyambira lero , cipo winango ali-yentse an'dzadya lini bzisapo bzako . ” Ndipo wakupfundzira wace adabva bzimwebzo .
-41011015	Iwo atafika kuJerusalemu , Jezu adapita muNyumba ya Mulungu , aciyamba kuthotha omwe akhacita malonda mmwemo . Adagwesa meza zakusinthira kobiri na mipando ya wanthu wakugulisa nkhangaiwa.
+41011015	Iwo atafika kuJerusalemu , Jezu adapita muNyumba ya Mulungu , aciyamba kuthotha omwe akhacita malonda mmwemo . Adagwesa meza zakusinthira kobiri na mipando ya wanthu wakugulisa nkhangaiwa .
 41011016	Akhabvumiza lini ali-yentse agwate na pacinthalo ca Nyumba ya Mulungu adanyamula cinthu .
 41011017	Ndipo akhawapfundzisa aciti : “ Bzidanembedwa kuti : ‘ Nyumba yangu in'dzacemeredwa Nyumba ya mapembero kwa madziko yentse . ’ Tsono imwe mwaisandusa nkhunde ya mbabva . ”
 41011018	Pakubva bzimwebzi akulu wa azibaba wa ntsembe na apfundzisi wa Mtemo akhanyang'ana njira yakuti amuphe . Tsono akhabva naye mantha thangwe wanthu wentse akhadabwa nabzo bzomwe Iye akhapfundzisa .
@@ -505,7 +505,7 @@
 41012039	Ambafuna mbuto yakutsogolo mnyumba zamapembero , ndipombo mbuto zakulemekezeka pauzokoto .
 41012040	Ndipo ambawadyera nthaka za amansiwa , acimbacita mapembero matali-matali mwakunamiza . Wanthu omwewo andzapasidwa nyathwa ikulu . ”
 41012041	Ntsiku inango , Jezu akhadakhala pafupi na ntsengwa yakuikhira kobiri za ntsembe muNyumba ya Mulungu . Akhanyang'anisisa momwe wanthu akhaperekera kobiri zawo . Wanthu azinji wakudala akhathusa kobiri zizinji .
-41012042	Tsono padafika mansiwa m'bodzi , adathusa tukobiri tuwiri twakukwanira quadrante.
+41012042	Tsono padafika mansiwa m'bodzi , adathusa tukobiri tuwiri twakukwanira quadrante .
 41012043	Ndipo Jezu adacemera wakupfundzira wace aciwauza kuti , “ Ncadidi ndiri kulewa kuti mansiwa wakusaukayu wathusa kuposa wanthu wentsewa omwe ali kuthusa kobiri muntsengwa .
 41012044	Thangwe winangowa andothusa bzomwe atapa pa bzizinji anabzo . Tsono mkaziyu , mwa kusauka kwace , wathusa bzentse bzomwe akhali nabzo , napo bzomwe bzingadamuthandiza pamoyo wace . ”
 41013001	Pomwe Jezu akhacoka kuNyumba ya Mulungu , m'bodzi wa akupfundzira wace adamuwuza kuti , “ Mpfundzisi , onani minyalayi na nyumbazi . ”
@@ -842,14 +842,14 @@
 42003024	Matati , Levi , Mereki , Janaya , Zuze ,
 42003025	Matatiasi , Amosi , Naumi , Esiri , Nagai ,
 42003026	Maati , Matatiasi , Simei , Zuzeki , Jodaa ,
-42003027	Juwana , Leza , Zolobaberi , Salatiyeri , Dzindza la Jezu panthawe ya Mambo Davide ( 1 Cron . 3:1-16 ) Neri ,
+42003027	Juwana , Leza , Zolobaberi , Salatiyeri , Dzindza la Jezu panthawe ya Mambo Davide ( 1 Cron . 3 : 1 - 1 6 ) Neri ,
 42003028	Meleki , Adi , Kozami , Erimadami , Eri ,
 42003029	Joxuwa , Eriyezeri , Jolimi , Matati , Levi ,
 42003030	Simioni , Juda , Zuze , Jonami , Eriyakimi ,
 42003031	Mereya , Minani , Matati , Natani , Davide ,
 42003032	Jesi , Obedi , Bwazi , Sala , Nasomi ,
 42003033	Aminadabi , Dimimi , Alini , Ijiromi , Perezi , Juda ,
-42003034	Jakobi , Izaki , Abramu , Dzindza la Jezu panthawe ya Mkulu Wakuyamba Adamu ( Gen . 5:1-32 , 11:10-13 ) Tale , Nakoli ,
+42003034	Jakobi , Izaki , Abramu , Dzindza la Jezu panthawe ya Mkulu Wakuyamba Adamu ( Gen . 5 : 1 - 3 2 , 1 1 : 1 0 - 1 3 ) Tale , Nakoli ,
 42003035	Saluki , Lagau , Faleki , Ibero , Sala ,
 42003036	Kainani , Alufaxadi , Semi , Nowe , Lameki
 42003037	Matusala , Inoki , Jaledi , Malalero , Kainani ,
@@ -1065,8 +1065,8 @@
 42008027	Pomwe iwo adatsama adagumana na munthu m'bodzi wa mundzindamo omwe akhagwa bziwanda . Ndipo iye akhambakhala pezi kuyambira kale-kale . Ndipo iye akhakhala lini m'nyumba maka m'thenje .
 42008028	Pomwe iye adawona Jezu adakuwa acibzithusa m'minyendo mwace acilewa kuti “ Nandi Jezu ! Kodi un'funa kundicitanyi ? Nakuti ndiwe Mwana wa Mulungu wa Wakudzulu . ” Ndiri kukukumbira kuti uleke kundiboneresa !
 42008029	Tsono Jezu akhadatonga kale kuti bziwandabzo bzicoke m'thupi mwa munthumo . Nakui ntsiku zentse iye akagwa ndipo wanthu akham'anga na manyolo bzikamugwa wanthu akhamumanga na manyolo manja na minyendo acimbamulindira . Tsono iye akhambabwedza manyoloyo acithawira m'thengo .
-42008030	Jezu adam'bvundza kuti : “ Kodi dzina lako ndiwe yani ? ” Ndipo iye adatawira kuti : “ Ndine Bzulu . Nakuti iye akhagwa bziwanda bzizinji kwene-kwene .
-42008031	Ndipo bziwandabzo bzidamukumbira kuti asaye kubzithothera kuCidindi .
+42008030	Jezu adam'bvundza kuti : “ Kodi dzina lako ndiwe yani ? ” Ndipo iye adatawira kuti : “ Ndine Bzulu . Nakuti iye akhagwa bziwanda bzizinji kwene-kwene . ”
+42008031	Ndipo bziwandabzo bzidamukumbira kuti asaye kubzithothera ku Cidindi .
 42008032	Pafupi na pamwepo pakhana nkhumba zikhadya m'phepete mwa kaphiri . Ndipo bziwanda bzidamukumbira kuti abzirekere bzipite munkhumbamo . Ndipo Jezu adabzireka bzicipita .
 42008033	Na tenepo bziwandabzo bzidacoka mu munthuyo bzikapita mu nkhumbamo . Ndipo nkhumbazo zidapolika zicikagwera m'thawale , ndipo zentse zicifa .
 42008034	Pomwe amakabusa wa nkhumbazo adawona bzimwebzo , adathamanga acikawuza wanthu kumzinda na m'mii .
@@ -1135,7 +1135,7 @@
 42009041	Ndipo Jezu adalewa aciti : “ Nandi dzindza la wanthu wakusaya kukhulupira na kusaya ndzerumwe ! Kodi mun'funa kuti ndikhale namwe ndicikubonerereni mpaka lini ? M'bwerese kuno mwanakoyo . ”
 42009042	Pomwe akhayenda naye mwanayo , ndipo ciwandaco cidamuthusa pantsi acimbanjenjemera . Tsono Jezu adacizula . Pamwepo mwanayo adalimba ndipo acimupereka kuna babaceyo .
 42009043	Na tenepo wanthu wentse adadabwa na mphambvu za Mulungu . Jezu adabzisuzira impfa yace  Nakuti wanthu wentse adadabwa na bzomwe akhacita Jezu . Na tenepo iye adauza ateweri wace kuti :
-42009044	“ Bvesesani bwino mafala yanguya : ' Mwana wa Munthu ankaperekedwa m'manja mwa wanthu . ” '
+42009044	“ Bvesesani bwino mafala yanguya : Mwana wa Munthu ankaperekedwa m'manja mwa wanthu . ”
 42009045	Tsono iwo alibe kubva bwino mafalayo . Nakuti yakhali yakubisika kuna iwo asye kuyabvesesa . Na tenepo iwo adagopa kumubvundza .
 42009046	Ndipo ateweriwo akhaganizana okha-okha kuti mbani nkulu pakati pawo .
 42009047	Pomwe Jezu adadziwa ndzeru zawo , atenga mwana acimuimisa pana iyepo .
@@ -1335,7 +1335,7 @@
 42013024	“ Pitiratuni pomwe msuwo ukali bwandzupa . Ndiri kukuwuzani cadidi kuti wanthu azinji an'dzafunambo kupita tsono an'dzakwanisa lini .
 42013025	Nakuti mwenekaciro nyumba akadzalamuka acifunga msuwoyo . Ndipo imwepo mun'dzasala kunja . Na tenepo mukadzagugudza msuwoyo mucikuwa kuti : ' Mbuya ! Mbuya ! Tifungulirenimbo ! ' Ndipo iye an'dzatawira kuti : ' Nin'kudziwani lini kuti ndimwe yani imwepo . '
 42013026	Na tenepo imwepo mudzadandaula kuti : ' Ndife-pano omwe tikhadya ticimbamwa namwe pabodzi , ndipo imwepo mukhambatipfundzisa m'miseu mwathu .
-42013027	Tsono iye an'dzakutawirani kuti : ' Ndinikudziwani lini ine . Cokani pano ! Thangwe imwepo mwentse ndimwe anyakuphonya . '
+42013027	Tsono iye an'dzakutawirani kuti : ' Ndinikudziwani lini ine . Cokani pano ! Thangwe imwepo mwentse ndimwe anyakuphonya . ' ”
 42013028	Pamwepo ndipo mun'dzalira mucikeketa mano pomwe mukadzawona Abramu , Izaki , Jakobi na apolofeta wentse ali mu umambo bwa Mulungu . Ndipo imwepo mucisala kunja .
 42013029	Na tenepo wanthu azinji an'dzabwera kucokera kumabvadzuwa na kumadokero , kudzaulu na kunyantsi acidzakhala m'mipando ya pacikondweso ca umambo bwa Mulungu .
 42013030	Ndipo wanthu winango omwe mbakumalizira an'dzakhala wa kuyamba . Na winangombo wakuyamba an'dzakhala wa kumalizira .
@@ -1554,7 +1554,7 @@
 42019030	Ndipo iye adawawuza kuti : ' Ndokoni m'mui omwe uli kutsogolo kwanuyo , mungakafika mun'kawona kabulu kadamangirira , komwe kakanati kupakiridwa na munthu . Ndipo mukakatsudzule mucibwera nako kuno .
 42019031	Penu munthu an'kakubvundzani kuti : “ Thangwe ranyi muli kukatsudzula ? ” Ndipo imwepo mukamutawire kuti : “ Mbuya ali kukafuna . ”
 42019032	Na tenepo iwo pomwe adayenda adakabziwona bzentse ninga momwe Jezu akhadawauzira .
-42019033	Pomwe iwo akhatsudzula kabuluko , ndipo wenekaciro adawabvundza kuti : ' ' Kodi thangwe ranyi muli kukatsudzula kabuluka ? ”
+42019033	Pomwe iwo akhatsudzula kabuluko , ndipo wenekaciro adawabvundza kuti : “ Kodi thangwe ranyi muli kukatsudzula kabuluka ? ”
 42019034	Na tenepo iwo adatawira kuti : “ Thangwe Mbuya ali kukafuna .
 42019035	Ndipo iwo adakabweresa kuna Jezu , acitandika bzakubvala bzawo pakabulupo acimuthandiza Jezuyo kupakira .
 42019036	Pomwe iye akhayendapo wanthu akhatandikambo bzakubvala bzao munjira .

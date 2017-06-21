@@ -842,14 +842,14 @@
 42003024	Matati , Levi , Mereki , Janaya , Zuze ,
 42003025	Matatiasi , Amosi , Naumi , Esiri , Nagai ,
 42003026	Maati , Matatiasi , Simei , Zuzeki , Jodaa ,
-42003027	Juwana , Leza , Zolobaberi , Salatiyeri , Dzindza la Jezu panthawe ya Mambo Davide ( 1 Cron . 3 : 1 - 1 6 ) Neri ,
+42003027	Juwana , Leza , Zolobaberi , Salatiyeri , Dzindza la Jezu panthawe ya Mambo Davide Neri ,
 42003028	Meleki , Adi , Kozami , Erimadami , Eri ,
 42003029	Joxuwa , Eriyezeri , Jolimi , Matati , Levi ,
 42003030	Simioni , Juda , Zuze , Jonami , Eriyakimi ,
 42003031	Mereya , Minani , Matati , Natani , Davide ,
 42003032	Jesi , Obedi , Bwazi , Sala , Nasomi ,
 42003033	Aminadabi , Dimimi , Alini , Ijiromi , Perezi , Juda ,
-42003034	Jakobi , Izaki , Abramu , Dzindza la Jezu panthawe ya Mkulu Wakuyamba Adamu ( Gen . 5 : 1 - 3 2 , 1 1 : 1 0 - 1 3 ) Tale , Nakoli ,
+42003034	Jakobi , Izaki , Abramu , Dzindza la Jezu panthawe ya Mkulu Wakuyamba Adamu Tale , Nakoli ,
 42003035	Saluki , Lagau , Faleki , Ibero , Sala ,
 42003036	Kainani , Alufaxadi , Semi , Nowe , Lameki
 42003037	Matusala , Inoki , Jaledi , Malalero , Kainani ,
@@ -1134,7 +1134,7 @@
 42009040	Na tenepo ndikhadakumbira kale ateweri wanuwa kuti acithothe tsono alibe kucikwanisa . ”
 42009041	Ndipo Jezu adalewa aciti : “ Nandi dzindza la wanthu wakusaya kukhulupira na kusaya ndzerumwe ! Kodi mun'funa kuti ndikhale namwe ndicikubonerereni mpaka lini ? M'bwerese kuno mwanakoyo . ”
 42009042	Pomwe akhayenda naye mwanayo , ndipo ciwandaco cidamuthusa pantsi acimbanjenjemera . Tsono Jezu adacizula . Pamwepo mwanayo adalimba ndipo acimupereka kuna babaceyo .
-42009043	Na tenepo wanthu wentse adadabwa na mphambvu za Mulungu . Jezu adabzisuzira impfa yace  Nakuti wanthu wentse adadabwa na bzomwe akhacita Jezu . Na tenepo iye adauza ateweri wace kuti :
+42009043	Na tenepo wanthu wentse adadabwa na mphambvu za Mulungu . Jezu adabzisuzira impfa yace Nakuti wanthu wentse adadabwa na bzomwe akhacita Jezu . Na tenepo iye adauza ateweri wace kuti :
 42009044	“ Bvesesani bwino mafala yanguya : Mwana wa Munthu ankaperekedwa m'manja mwa wanthu . ”
 42009045	Tsono iwo alibe kubva bwino mafalayo . Nakuti yakhali yakubisika kuna iwo asye kuyabvesesa . Na tenepo iwo adagopa kumubvundza .
 42009046	Ndipo ateweriwo akhaganizana okha-okha kuti mbani nkulu pakati pawo .
@@ -1197,7 +1197,7 @@
 42010041	Ndipo Mbuya adamutawira aciti : ' ' Marta , Marta ! Una ciberefuwa nakucita bzinthu bzizinji .
 42010042	Tsono , cinthu cibodzi cin'funika . Na tenepo Maliya wasankhula cinthu cabwino . Ndipo palibe munthu omwe angadzamutengere . ”
 42011001	Pantsiku inango Jezu akhapemba pambuto ibodzi . Pomwe adamala kupembako , mteweri wace m'bodzi adamuwuza kuti : “ Mbuya , tipfundzisenimbo kupemba , ninga momwe Juwau akhapfundzisira ateweri wace . ”
-42011002	Ndipo iye adawauza kuti :  Mukapemba mbalewani kuti :  Baba , dzina lanu likhale na mbiri . Umambo bwanu mbabubwere .
+42011002	Ndipo iye adawauza kuti : Mukapemba mbalewani kuti : Baba , dzina lanu likhale na mbiri . Umambo bwanu mbabubwere .
 42011003	Tipaseni cakudya cathu ca ntsiku zentse .
 42011004	Mutirekere bzakuipa bzathu , ninga ifembo tinilekera wale omwe ambatiphonyera Ndipo lekani kutilekerera kuti tipumpsidwe .
 42011005	Ndipo Jezu adawawuza kuti : Mbani wa imwepo omwe acikhala na xamwali wace acidzamugugudzira pakati pausiku acimuuza kuti : ndikumbizembo magapa matatu ya ufa .

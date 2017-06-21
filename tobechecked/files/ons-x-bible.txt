@@ -532,7 +532,7 @@
 40015035	Eso Yesu eŋe mo ea ŋei ŋerep magu ea raongi , kepo dara wuruk pese ket met warekoi .
 40015036	Pakiso , eŋe bret sewen so zawon ea maki paki , Anutu bakomine kito more , mapokki waki dokoine ebonge , eso dokoine eŋe ma more damo qe , ŋei ŋerep ebon warekoi .
 40015037	Eŋe korop neu ŋatene qewareke , dokoine eŋe neu wokitne metke , ea mau ket rosa sewen watkeke .
-40015038	Ŋei ŋara nekoi , eŋane zaleene 4 , 000 , ŋerep so medep nigatne yemo mi dapotongoi .
+40015038	Ŋei ŋara nekoi , eŋane zaleene 4,000 , ŋerep so medep nigatne yemo mi dapotongoi .
 40015039	Eso Yesu eŋe mo ea ŋei ŋerep taleongi , mateno ari wareu , eŋine seki koto waketki , pakiso Magadan kepe sai ea arike .
 40016001	Parisi natne so Sadusi natne eŋe Yesu wano sarikoi , eŋe liwekkakei wane detkoi , eso eŋe masi togogole mane maki , eaŋo Anutu wane kine sikanongi kakei wane olatkoi .
 40016002	Ŋo ŋei Yesuŋo yemo edane rake , “ Ŋine kepe kesiakane okangi , ŋine ra okanmami , ‘ Ŋenane kepe menage payakane okanmaike , onoka wane qeliwo aso aso kito walakmaikane . ’
@@ -605,7 +605,7 @@
 40018014	Numa weku yewaka , Magaŋine qeliwo gemaike , eŋe nigatnekopne iwa eŋano ŋine maneŋo siukeakane mi simin kamaike .
 40018015	“ Ge kimaŋone maneŋo geŋano sot okangi , ge eŋano arinom paki , sotine ea sikan kakene . Ŋo siluŋ ŋire ŋiritneka bonepŋitne okangeik , eŋe olatnom donŋone detmaikeo , yemo ge kimaŋone ea mo mainka numa maine birakamaine .
 40018016	Ŋo eŋe donŋone mi desiakeo , yemo ge ŋei weku me etke epunom ererop weneŋ ari kineine detkau paki , ŋei etke me kareweŋo don ra makoboe okangei .
-40018017	Ŋo eŋe eŋane don mane mi desiakeo , yemo doku tau tau magu kineine edanikene , p aki eŋe doku tautau magu eŋane don mi desiakeo , yemo detkau , eŋe ŋei lobo mane so takis borikine mama mane sot korop okaniake .
+40018017	Ŋo eŋe eŋane don mane mi desiakeo , yemo doku tau tau magu kineine edanikene , paki eŋe doku tautau magu eŋane don mi desiakeo , yemo detkau , eŋe ŋei lobo mane so takis borikine mama mane sot korop okaniake .
 40018018	“ Eso na rawe korop detpi , ŋine yeye kine kine korop kepeo rawetkeu , Anutuŋo qeliwo yaleka rawetkeake , yeye kine kine kepeo rakokeu , Anutuŋo qeliwo yaleka rakokeake .
 40018019	“ So na mane takotke rawe detpi , ŋire ŋei etkeŋo yeye mane wane ra more , wetŋitne weku more meŋenkauk , Magane qeliwo gemaike , eŋe baŋ ŋiponiake .
 40018020	Ŋei etke me karewe eŋe naŋane eŋet biŋeknane rau paki , wekuoka qeturaŋ ge metpi , na weneŋ yewa eŋerop metkale . ”
@@ -884,20 +884,20 @@
 40025012	Ŋo ŋerep ŋaone eŋe doneene mainge edane rake , ‘ Na welekakatne ŋidanmaile , na ŋine mi detŋunbe paki , zok ŋaŋae ŋunmaile . ’ ”
 40025013	Pakiso Yesuŋo edane rake , “ Ea wane ŋine wetŋineŋo diam seleleine mau paki gekei , onoka wane , ŋine eŋe ma kaiweo me ma auao suaineŋine eŋe sari lotkeake , ea ŋine zok mi detmami . ”
 40025014	“ Ŋei Wawaine Gipole sariakane nasoo , rokop iwa yale wakoniake . Ŋei maneŋo mat maneo ariakane okangi paki , urata ŋeikoune edoraki sariu , kine kineine warekei wane matoke kuteno motke .
-40025015	Eŋe urata ŋei karewe dereretene so zonom enane rokopko detone more wesi ebonge , Ŋei mane eŋe wesi 5 tausen kina ( K5 , 000 ) mange , ŋo mane eŋe tu tausen kina ( K2 , 000 ) mange , ŋo mane eŋe wan tausen kina ( K1 , 000 ) mange . Pakiso , eŋe mo ea biraone more numa arike .
-40025016	Urata ŋeiwa K5 , 000 make eŋe ariki paki , ikopka wesiine ea urata mangi , eaŋo kiatki koso K5 , 000 magu mane wakonge .
-40025017	Numa weku yewaka urata ŋeiwa K2 , 000 make , eŋe wesiine urata mangi , eaŋo kiatki koso K2 , 000 magu mane wakonge .
-40025018	Ŋo urata ŋeiwa K1 , 000 make , oŋo yemo ariki paki , kepeo lom maki pakiso , suainane wesi ea lomgo dukke .
+40025015	Eŋe urata ŋei karewe dereretene so zonom enane rokopko detone more wesi ebonge , Ŋei mane eŋe wesi 5 tausen kina ( K 5,000 ) mange , ŋo mane eŋe tu tausen kina ( K 2,000 ) mange , ŋo mane eŋe wan tausen kina ( K 1,000 ) mange . Pakiso , eŋe mo ea biraone more numa arike .
+40025016	Urata ŋeiwa K 5,000 make eŋe ariki paki , ikopka wesiine ea urata mangi , eaŋo kiatki koso K 5,000 magu mane wakonge .
+40025017	Numa weku yewaka urata ŋeiwa K 2,000 make , eŋe wesiine urata mangi , eaŋo kiatki koso K 2,000 magu mane wakonge .
+40025018	Ŋo urata ŋeiwa K 1,000 make , oŋo yemo ariki paki , kepeo lom maki pakiso , suainane wesi ea lomgo dukke .
 40025019	“ Naso kiroroine gemageki qoeki , ea wane ŋadino urata ŋei yewa eŋane suaine ene eŋe koso zinge sarike paki , eŋerop wesi ea wane don mauluke aukei wane qeturaŋ onge .
-40025020	Urata ŋeiwa K5 , 000 make , eŋe koso K5 , 000 magu mane earop masariki paki more rake , ‘ Suaine , ge K5 , 000 ningone . Kanom ! Na koso urataine mawe K5 , 000 magu mane iwa wakonge . ’
+40025020	Urata ŋeiwa K 5,000 make , eŋe koso K 5,000 magu mane earop masariki paki more rake , ‘ Suaine , ge K 5,000 ningone . Kanom ! Na koso urataine mawe K 5,000 magu mane iwa wakonge . ’
 40025021	Olatki , suaineineŋo rake , ‘ Ge urata mauluke makone , ge urata ŋei mayakakatne , so aŋa tewe tewek korop ! Ge kine kine nigatne ea wane urataine mayakakatne mauluke makone , eso ea wane noŋo baŋ kine kine suaine ea wane ware wareine biraganikale . Ge sari saketnom paki , narop wet pese detnom ! ’
-40025022	“ Pakiso , urata ŋeiwa K2 , 000 mange oŋo sari saketki paki olale rake , ‘ Suaine , goŋo K2 , 000 ningone . Kanom ! Noŋo urataine mawe K2 , 000 magu mane koso iwa wakonge . ’
+40025022	“ Pakiso , urata ŋeiwa K 2,000 mange oŋo sari saketki paki olale rake , ‘ Suaine , goŋo K 2,000 ningone . Kanom ! Noŋo urataine mawe K 2,000 magu mane koso iwa wakonge . ’
 40025023	Raki ware wareineŋo olale rake , ‘ Ge urata mauluke makone , ge urata ŋei mayakakatne , so aŋa tewetewek korop ! Ge kine kine nigatne ea wane urataine mayakakatne mauluke makone , eso ea wane noŋo baŋ kine kine suaine , ea wane ware wareine biraganikale . Sari saketnom paki , narop wet pese detnom ! ’
-40025024	“ Pakiso urata ŋeiwa K1 , 000 make , oŋo sari saketki paki olale rake , ‘ Suaine , na geŋane kine detmaile , ge ŋei togogole , ge goŋom ŋara metnom paki eaŋine mi lokak okanmaine , so goŋom wit woune yasonom paki , eaŋine mi ma sari maguk okanmaine .
+40025024	“ Pakiso urata ŋeiwa K 1,000 make , oŋo sari saketki paki olale rake , ‘ Suaine , na geŋane kine detmaile , ge ŋei togogole , ge goŋom ŋara metnom paki eaŋine mi lokak okanmaine , so goŋom wit woune yasonom paki , eaŋine mi ma sari maguk okanmaine .
 40025025	Na kaetnange , eso ea wane na ariwe paki , geŋane wesi ea kepo dukewa pake . Kanom ! Geŋane wesiŋone mo iwa manom . ’
 40025026	“ Yale olatki , suaineineŋo iwa yale olatke , ‘ Ge urata ŋei borikine so taboŋ gege ! Ge iwa yale detkone , na noŋom ŋara metpe paki , ea ŋine mi lokak okanmaile , me na noŋom wit woune yasowe paki , ea ŋine mi ma maguk okanmaile , yale me ?
 40025027	Ea maine , ge naŋane yale detnom paki , naŋane wesi ea wesi urumgo motnom rap , pakimo edo mau sua leule okangi , na zinge sariwe paki , ea koropka sisine weneŋ mawe rap .
-40025028	Wesi iwa omakkau paki , ŋeiwa ten tausen kina ( K10 , 000 ) magemaike , eŋe manbi .
+40025028	Wesi iwa omakkau paki , ŋeiwa ten tausen kina ( K 10,000 ) magemaike , eŋe manbi .
 40025029	Ŋei mane eŋe kine kine mangoi , ea mageki ma leule manbi , eŋe baŋ morian manerop wakonka mangi mageake , ŋo mane eŋe kine kine mangoi , ea mi ma leule more , siluŋ nigagatnmde mageake , ea baŋ omaka ariu , eŋe yaup geake .
 40025030	Urata ŋei bau wawaine yaline yemo ma birakau , ŋadino panaman koto kesiake , yewao eŋe baŋ aroke more , ŋetneŋo warik warik ki geake . ’
 40025031	“ Ŋei Wawainane Gipole , eŋe Ŋei Waom yale okane sariake , naso yewao , eŋe so aŋelo magukoune korop eŋerop weneŋ sarikei , paki eŋe baŋ Ŋei Waom met metine qeli ewe zonom gorop ea wane kutno pese mesiake .
@@ -1312,7 +1312,7 @@
 41006041	Metpiso , Yesuŋo bret mete mane so zawon etke ea ma more malipka okora qeliwo potki waki mosopka more bret so zawon ea mapoke more , dokoine ebongi , damo qe ŋei ŋerep magu yewa ebonwarekoi .
 41006042	Paki , ŋei ŋerep magu yewa eŋe korop neu ŋatene qeki rokop onwareke .
 41006043	Paki dokoine eŋe ŋara nekoi , ea wane tutule ea qedugu more rosa 12 yale rosakkoi .
-41006044	Ŋei ŋara yewa nekoi , eŋe 5 , 000 yaline .
+41006044	Ŋei ŋara yewa nekoi , eŋe 5,000 yaline .
 41006045	Ikopka , Yesuŋo dokoine qebin ongi eŋe sekiwo wa more doku namuŋ nat parom Betsaida oken alakane arikoi . Ŋo eŋine yemo yewa mere ŋei ŋerep magu yewa biraongi mateno ariwarekoi .
 41006046	Yesu eŋe ŋei ŋerep bira ongi korop ariwareuso , eŋe bonaga mane nigatne eao wa more meŋenka metke .
 41006047	Ŋo , ruoo dokoine eŋe seki kutno doku namuŋ kebago metpi so , Yesu eŋineka tagalo metke .
@@ -1370,7 +1370,7 @@
 41008006	Olatpiso , Yesu eŋe ŋei ŋerep edane rake , “ Ŋine korop pese ket kepo metpi . ” Raki eŋe korop pese metpiso , eŋine bret mete mane so mete natko zitne etke ( 7 ) , yewa ma more , Anutu wano bakom kito mosopka more mapoke dokoine ebongi edo damo qe ŋei ŋerep magu suaine yewa korop ebonwarekoi .
 41008007	Ŋo , eŋe zawon nigatne karewe metke , ea weneŋ manbiso eŋe yalewaka Anutu bakom kito more mosopka dokoine ebongi , eŋe yale waka damo qe korop magu yewa ebonwarekoi .
 41008008	Eŋe neu rokop ongiso , Yesu dokoine eŋe ŋara tutule yewa rosa 7 yale rosakkoi .
-41008009	Ŋei ŋerep magu yewa eŋe 4 , 000ŋo metkoi .
+41008009	Ŋei ŋerep magu yewa eŋe 4,000ŋo metkoi .
 41008010	Yesu eŋe ŋei ŋerep magu yewa biraongi , ariu , eŋine so dokoine ikopka sekiwo wa more Dalimanutia kepeo arikoi .
 41008011	Ea ari lotkeuso Anutu wane papa togon welaine ŋei natne , Parisi , eŋe sari Yesu wano aŋa soraŋ don okane more Yesu qesonka rakoi , “ Ge masi togole mane ma sikanŋonnom kaŋem , ge Anutu wano ŋine sarimaine . ” Eŋe yale ra more dongo liwekkaikei wane okangoi .
 41008012	Yesu eŋe rake , “ Oo yai ! Onoka wane ŋei ŋerep eŋe naso iwao noŋo masi togogole mane mawe kaikeiwane sari ramami ? Midakaka ! Naso iwa noŋo masi togogole mane koso ŋei ŋerep ŋinano mi ma sikan ŋunikale . ”
@@ -1381,7 +1381,7 @@
 41008017	Rau , Yesu eŋe don yewa dere more edange , “ Ŋine onoka wane ŋinŋine aumami , ŋene bret mida ? Oo , ŋine wet dereretŋine midaine ? Oo ŋine dereretŋine mo wongike .
 41008018	Ŋine deŋine weneŋ , ŋine onoka wane kine kine mi kamami me ? Ŋine ketŋinerop onoka wane don yewa wane kine mi detkamami me ? Ŋine mo nigetŋunikei me ?
 41008019	Naso na bret mete mane mapoke , 5 tausen ( 5,000 ) ŋei ŋerep eŋano ŋibonbe damo qekoi , naso yewao ŋado neu , wokitne metki ŋine rosa darap rosakkoi ? ” Eŋe rakoi , “ Rosa 12 ! ”
-41008020	Eŋe yale raumo , Yesu eŋe koso qesononge , “ Ŋo ŋine na bret 7 mapoke , ŋei ŋerep 4 , 000 eŋano ŋibonbe , damo qe ebongoi , naso yewao eŋe neu , wokitne metki ŋine rosa darap rosakkoi ? ” Eŋe rakoi , “ Rosa sewen . ”
+41008020	Eŋe yale raumo , Yesu eŋe koso qesononge , “ Ŋo ŋine na bret 7 mapoke , ŋei ŋerep 4,000 eŋano ŋibonbe , damo qe ebongoi , naso yewao eŋe neu , wokitne metki ŋine rosa darap rosakkoi ? ” Eŋe rakoi , “ Rosa sewen . ”
 41008021	Rau , Yesu eŋe yewaka edange , “ Ŋine zok ea mi detlukkamami me ? ”
 41008022	Pakiso , eŋe ari Betsaida lotkeu , ŋei mane deine pilik pilikine , eŋe Yesu wano ma sarikoi , ŋei ea eŋe Yesuŋo metine lewetino mosiakane .
 41008023	Pakiso , Yesu eŋe ŋei de pilik yewa metino maki , ere mat ŋadino qeinat ket more , Yesuŋo ŋei yewa deino mekatine sopotke more , so metineŋo deino qesikane rake , “ Ge maine pore kine kine kamaine me ? ”
@@ -1754,7 +1754,7 @@
 41016017	Ŋei ŋerep malipka gekei , Anutu eŋe eŋane meteeno masi togogole eboniake . Eŋe asu qotkoine eŋane eŋetko osopka more eŋe don kine mane raikei .
 41016018	Eŋe koma suabit so qaru ea meteeneŋo malipkaikei me doku suŋainerop nekeiwo , eŋe mi seukkei . Eŋe maine gekei . Eŋe meteene zoma ŋei ŋerep eŋano more ebuwi menaŋoniake . ”
 41016019	Boaŋ Yesu eŋe don edangi qoeke , Anutuŋo eŋe qeliwo ma wa more birakake , birakaki , Anutu eŋine wonino metke .
-41016020	Pakimo , dokoine eŋe korop kepe baŋem ari more eŋane biŋek donine ra qelaŋane arikoi . Waom eŋe weneŋ mapitone more masi togogoleŋo ŋei ŋerep sikanone more , donene ea ma togoleke . Yesu Wane Tanik Manik Don Kisi Iwa Qoemaike Mareko 16 , 9-10 Ŋerep eŋe kine kine korop ka detokangoi , ea Petoro eŋine so kimakoune edangoi . Pakiso , Yesu eŋe dokoine biŋek don ebone more biraongi , kepe baŋem ra qelaŋane arikoi , Anutu eŋe biŋek don qoiqoine midaine iwa motke . Ŋei mane dere malipkayakeo , eŋe gege togon marat kayake .
+41016020	Pakimo , dokoine eŋe korop kepe baŋem ari more eŋane biŋek donine ra qelaŋane arikoi . Waom eŋe weneŋ mapitone more masi togogoleŋo ŋei ŋerep sikanone more , donene ea ma togoleke . Ŋerep eŋe kine kine korop ka detokangoi , ea Petoro eŋine so kimakoune edangoi . Pakiso , Yesu eŋe dokoine biŋek don ebone more biraongi , kepe baŋem ra qelaŋane arikoi , Anutu eŋe biŋek don qoiqoine midaine iwa motke . Ŋei mane dere malipkayakeo , eŋe gege togon marat kayake .
 42001001	O , Teopilus suainene . Mokaka ŋei loutne eŋe Anutuŋo kine kine wele maki keuno wakonge , ea wane don kisi tegoke more qekoi .
 42001002	Don kisi yewa mo ŋei weneŋ osop ge more , deene qomineŋo alakan wakongi , kinerop ka detka okangoi , eŋe ŋedangoi . Ŋei eao kine kine one more , Anutu wane biŋek don ra qelaŋangoi .
 42001003	Pakimo noŋo yalewaka mo kino ŋineka kine kine wakone sarike , ea wane bororom ra qeson okane , kine dere detluk kawarewe , pakimo koso ge iwa sorok sorok qetitike qe ginmaile .
@@ -2445,7 +2445,7 @@
 42014028	Ŋo ŋinano ŋine mane eŋe mat kiroroine mane ma mayakane wetkeake , eŋe mikepka pese mere lewine darapŋo kitasiake , ea wane wesi so zaleine ma wakoniake , paki eŋe kayake , wesi maine mat yewa maki qoeakane rokop okanmaike .
 42014029	Ŋo eŋe mikepka yale mi okane more , ŋado bosiŋ motki qoeka , eamo mat yewa maine mi maki qoeke , pakimo ŋei loutneŋo kau paki tenikkaikei .
 42014030	Pakimo , iwa yale raikei , ‘ Ŋei iwa eŋe matpae kieke make , ŋo maine mi maki qoemaike ! ’
-42014031	Ŋei waom mane eŋe kawali ŋeikoune 10,000 yalewa , ŋo ŋei waom mane eŋe kawali ŋeikoune 20,000 , edo engukeiwane sariu , ŋei waomba kawali ŋeikoune 10 , 000 ka , eŋe mikepka pese mere dere makoboeake , eŋe maine togole more , ŋei waom mane kawali ŋeikoune 20 , 000 yewa engu esoponiake , me mida .
+42014031	Ŋei waom mane eŋe kawali ŋeikoune 10,000 yalewa , ŋo ŋei waom mane eŋe kawali ŋeikoune 20,000 , edo engukeiwane sariu , ŋei waomba kawali ŋeikoune 10,000 ka , eŋe mikepka pese mere dere makoboeake , eŋe maine togole more , ŋei waom mane kawali ŋeikoune 20,000 yewa engu esoponiake , me mida .
 42014032	Ŋo eŋe kaki mi kopkeakeo , yemo eŋe ŋei waom mane eŋine so kawali ŋeikoune eŋe qei abaran gemami wane , eŋe qelit mane raongi ari ŋei waom mane olatpi ere qedugu more , peam wane done qesonkaki aukeik . ”
 42014033	Yesuŋo takotke raki qoeke , “ Rokop yalewaka ŋinano ŋine maneŋo aboŋ kine kineine mi ŋadekka wareakeŋo naŋane medep mi geake . ”
 42014034	“ Soli eŋe kine kine maine , ŋo eŋe koso simile midaine okaniake , ea mo daleo okane more , maŋem eŋe koso similerop okaniake ,
@@ -3128,7 +3128,7 @@
 43006007	Pilipŋo mainge olatke , “ Ŋene beret 200 kina wane rokopŋo qole more , ŋei ŋerep magu suaine iwa gume onŋem neu , mi rokop oniake . ”
 43006008	Dokoine eŋane keuo ŋine mane Andrea , Saimon Petoro wane ŋoleŋo rake ,
 43006009	“ Medep mane iwa oŋo beret mete mane ( 5 ) mamaike so zawon etke ( 2 ) magemaike , ŋo yalineŋo daleo ŋei ŋerep magu iwa maine rokop oniake ? ”
-43006010	Yesuŋo dokoine edange , “ Ŋine ŋei ŋerep edanbi pese ket met wareu . ” Yewao qiziŋ loutne pake , eso ŋei ŋerep korop eŋe mo ea pese met warekoi , metkoi ŋei ŋerep yewa eŋane zaleene 5 , 000 .
+43006010	Yesuŋo dokoine edange , “ Ŋine ŋei ŋerep edanbi pese ket met wareu . ” Yewao qiziŋ loutne pake , eso ŋei ŋerep korop eŋe mo ea pese met warekoi , metkoi ŋei ŋerep yewa eŋane zaleene 5,000 .
 43006011	Yesu eŋe beret maki paki , Anutu meŋenka more mosopkaki paki ma louleke , eso damo qe , ŋei ŋerep mere arikoi , yewa ebonge . Eŋe rokop weku yewaka zawon etke yewa wane okange , pakiso eŋe koropŋo nekeiwane onge , ea wane rokop nekoi .
 43006012	Eŋe nemageu korop ŋatene qeke paki , Yesuŋo dokoine edane rake , “ Ŋara natne qeligeu metmaike , yewa meikeu wakep , neneene tutule natne mane misuk mataliŋem payake . ”
 43006013	Eso eŋe neu ŋateene qeki tutule pake , yewa korop mau ketmage kela 12 watkeke .
@@ -5308,7 +5308,7 @@
 46004012	Ŋene ŋenze qesiŋ nagukenane metezeŋo urata togole ma okanmaine . Eŋe mabaik ŋonbi ŋene qesiŋone more mosopon okanmaine . Eŋe matali qetali okanŋonbi ŋene turuŋene qeliŋ okanmaine .
 46004013	Eŋe don borikine ŋedanbi , ŋene kimao don pelekine edan okanmaine . Ŋene kepe baŋem eŋane sino yale okangone gemaine . Ŋene ŋei korop eŋane kaitko yale okane , ge sakone ge sari mageŋem , ukude naso iwa okanmaike .
 46004014	Na don iwa ŋinane qemaile , ea mo detpi gamu ŋuniakane midakaka ! Ŋine naŋane medep maepkopne okanikei wane wetŋine kito wirike ŋidanmaile .
-46004015	Ea wane welekatne ŋine diam gege kop ŋine aŋelo 10 , 000 mane ge more gege ŋine warekau Kristo wano payakeo , yemo siluŋ ŋine maga ŋine yale waka weku geake . Ŋo siluŋ ŋine magakopŋine loutne midaka . Ea wane mo ŋinane gege ŋineŋo Yesu wano pamaike . Na Kisi Mayakatne ŋinano ma sari ŋidangole , yewao na ŋinane magaŋine okangole gemaile .
+46004015	Ea wane welekatne ŋine diam gege kop ŋine aŋelo 10,000 mane ge more gege ŋine warekau Kristo wano payakeo , yemo siluŋ ŋine maga ŋine yale waka weku geake . Ŋo siluŋ ŋine magakopŋine loutne midaka . Ea wane mo ŋinane gege ŋineŋo Yesu wano pamaike . Na Kisi Mayakatne ŋinano ma sari ŋidangole , yewao na ŋinane magaŋine okangole gemaile .
 46004016	Pakimo noŋo numa gesoke okangole , yewaka mogare okanikei wane qebin ŋunmaile .
 46004017	Ea wane rawe paki na Timoti birakawe ŋinano uke . Naŋane medep maepne , na eŋane zok nan okanmaike so eŋe Waom wane urata maine mauluke ma okanmaike . Oŋo baŋ wetŋine qe wirike more noŋo Kristo Yesu wane numa ea mogare ari doku tau tau magu korop mat baŋem ra edan okan okanmaile , ea wane numaine ŋidangi desikei .
 46004018	Ŋinano ŋine natne wawainenerop eŋe Paulo mi sari ŋoniake naŋane yale rau paki raki ra okangoi .
@@ -5435,7 +5435,7 @@
 46010005	Eŋe kine kine yewa korop okanon wareke , ŋo siluŋ Anutu eŋe tanik manikene borikine ea wane mi similekaki eŋane keuo ŋine ŋei ŋerep wele korop dere worik one qeliŋongi kepe sai togolo seuke qe qolok okan warekoi .
 46010006	Ukude , tanik manik korop eŋano wakonge , yewaŋo ŋenane giremze okangi ŋedanmaikane ŋene kaŋem paki eŋe okangoi yale wetzeŋo borikine kine kine misuk ma qot okanikene .
 46010007	Me eŋano ŋine natne okangoi , yale okane lopio misuk meŋen kaikene . Ea mo Anutu wane Papiao iwa yale qeqine pamaike : “ Ŋei ŋerep pese ket mere ŋara nekoi so doku nekoi , so koso wie more eŋet ore more so wenip yau yaup mau paki doku neu eaŋo wet siuk okanonge . ”
-46010008	Ŋene wenip yau yaup eŋano ŋine natneŋo makoi , yale misuk maikene . Eŋano ŋine natne eŋe yale okane more kaiwe weku yewaoka ŋei ŋerep 23 tausen ( 23 , 000 ) seuke pawarekoi .
+46010008	Ŋene wenip yau yaup eŋano ŋine natneŋo makoi , yale misuk maikene . Eŋano ŋine natne eŋe yale okane more kaiwe weku yewaoka ŋei ŋerep 23 tausen ( 23,000 ) seuke pawarekoi .
 46010009	Ŋine eŋano ŋine natneŋo Waom liwekkakoi yale misuk okanikei . Eŋano ŋine natne eŋe yale okangoi , ea wane koma edo edotki seukkoi .
 46010010	Me ŋine eŋano ŋine natneŋo Anutu sorinkakoi , ŋo ŋine yalewaka Waom misuk sorinkaikei . Eŋano ŋine natne eŋe yale okankakoi , ea wane Seu Seu wane Aŋeloŋo Ezipt kepeo enguki seukoi .
 46010011	Yeye kine kine korop iwa ŋabokopze eŋano wakonge , ea yemo natne eŋane qaka okanmaike , ea weneŋ desikei , wane naso qoeyakane Nasoine bomileki , gemaine ŋenane girem don ra more don kisi iwa Papiao qeqine .
@@ -7390,7 +7390,7 @@
 61003005	Eŋe edom kelok kine dere more koso ra okanmami , Anutu wane ra okanmami , “ Ŋene qauze wamaike , ” mokaka Anutuŋo rakiso , qeli so kepe ere wakongoik . Kepe eŋe Anutu wane donŋo dokuoŋine raki wakonge paki , dokuŋo qeatkaki keuo pake .
 61003006	So doku yewa wane qakum eaŋo yaleka ŋei ŋerep so kepe sogine ea korop ma qorok ongi mida warekoi .
 61003007	Ŋo qeli so kepe ukude iwa pamamik , yemo Anutu wane don wekuŋoka mawaluk otki , gerepŋo eso matali osiakane biŋek pamamik . Ere wareotki pamamik , baŋ naso bomileake , eao ŋei borikine Anutu midaine gemami , kineene ma wakone more matalioniake .
-61003008	Kima maepkopne , don weku iwa yemo misuk nigetŋuniake ! Waom wane deino yemo eŋe kaki kaiwe weku so koma tausen ere kine mane kine mane mi okanmamik . Eŋano yemo kaiwe weku ea koma 1 , 000 , so koma 1 , 000 , ea kaiwe weku , etke ere rokop wekuka okanmamik .
+61003008	Kima maepkopne , don weku iwa yemo misuk nigetŋuniake ! Waom wane deino yemo eŋe kaki kaiwe weku so koma tausen ere kine mane kine mane mi okanmamik . Eŋano yemo kaiwe weku ea koma 1,000 , so koma 1,000 , ea kaiwe weku , etke ere rokop wekuka okanmamik .
 61003009	Waom eŋe don rake , ea wane ŋaŋaeki paki , naso mi ma kirowone okanmaike , ŋei natne ŋine yale mane desikeiwane . Ea wane turuŋine yemo eŋe ŋine bororom okanŋun okanmaike , onoka wane mida , eŋe ŋei natne midakeiwane mi det okanmaike , ea wane , ŋo siluŋ eŋe koso ŋei korop wetene maingeu paki , borikine ŋadekkakei wane ra okanmaike .
 61003010	Ŋo Waom wane nasoŋo yemo baŋ kobu mama ŋei maneŋo kobu mayakane sanka ari okanmaike , yale sanka ture ŋoniake , kaiwe naso yewao qeli eŋe ukatne suaine ma more siuke mida leleake , qeli wane yeye kine kineine eamo gerepŋo ezo wareki mida sololokkei , so kepe eŋe yeye kine kineine kutno pamaike , earop weneŋ siuke mida leleake .
 61003011	Yeye kine kine korop ea numa yalewaoken okangi siuke midawarekei . Ŋo ŋei ŋerep ŋine daleo okane gekei ? Ŋine gegeŋine koboine geu paki , Anutu sunka manikei .
@@ -7660,7 +7660,7 @@
 66006003	Pakiso , lama medeune eŋe koso tep naba 2 ea rutupke makokke , paki na detpe , kine kine gegeinerop naba 2 oŋo rake , “ Sari ! ”
 66006004	Raki horsi mane saketke , ea yemo solaine weŋemka , ea wane welaine kutno metke , yemo kepeo kawali ma wakongi , ŋei eŋe yaku matali nagukei wane zonom mangoi . Eŋe kawali wane pilaŋ suaine mane mangoi .
 66006005	Pakiso lama medeune eŋe tep naba 3 , ea rutupke makokke , paki na detpe , kine kine gegeinerop naba 3 eŋe rake , “ Sari ! ” Raki na pore kawe , horsi sigitne mane ea sari okorake , ea wane welaine kutno metke , eŋe sekeli mane malipke metke .
-66006006	Na kine kine gege enerop 4 eŋane keuo ŋine don ukat mane detkole , iwa yale rake , “ Kaiwe mane wane lewine wit lase etke K1 . 00 wane kop otnom , kaiwe mane wane lewine barli lase 12 . K1 . 00 wane kop otnom . Ŋo oliwa eki kelokine so wain ea yemo misuk matalikene ! ”
+66006006	Na kine kine gege enerop 4 eŋane keuo ŋine don ukat mane detkole , iwa yale rake , “ Kaiwe mane wane lewine wit lase etke K 1.00 wane kop otnom , kaiwe mane wane lewine barli lase 12 . K 1.00 wane kop otnom . Ŋo oliwa eki kelokine so wain ea yemo misuk matalikene ! ”
 66006007	Pakiso Lama medeune tep naba 4 , ea rutupke makokke , paki na detpe , kine kine gegeinerop naba 4 , eaŋo rake , “ Sari ! ”
 66006008	Raki na pore kakole , horsi mane kibine kupka sa sari okorake , ea wane kutno welaine metke , yemo eŋetine seu seu so sora gerepŋo wa , yemo eŋe mogare osino sarike , ene kepe nat paromine , yewao ŋei ŋerep enguwik seukkei wane zonom epongoi , kawaliŋo , bodiŋo , so zoma kubetŋo , so osom zubaine kepeo pamami eaŋo .
 66006009	Pakiso lama medeune eŋe tep naba 5 rutupke makokke . Na arata wane bano pore onbe , ŋeiwa engukoi , eŋane oŋa oŋakopene metkoi , yemo onoka wane mida , eŋe Anutu wane miti don rau sua arike , so bororom mageu paki , don kisine ra qelaŋangoi , ea wane engukoi .
@@ -7676,10 +7676,10 @@
 66007002	Pakiso , na kawe aŋelo mane kepe deine sasaino ŋine gege , Anutu wane kibi weneŋ metino ma sari sake . Eŋe kakapaka boka more , aŋelo 4 Anutuŋo kepe so kiwet matali onikei wane zonom ebonge , eŋe edane rake ,
 66007003	“ Ŋine kepeo , kiwetko me ekiwo esat misuk matalionikei . Ŋene lewine Anutu zane qelit ŋeikoune eŋe matokone more , meeno kibi maikene . ”
 66007004	Yale rakiso , na ŋeiwa Anutu wane kibiŋo meeno kibi ebukoi , eŋane zaleene rau detkole , yemo 144 tausen . Israel magu aso bonep bonep ea ŋine qeturaŋgoi .
-66007005	Yuda wane maguo ŋine 12 , 000 meeno kibi ebukoi , Ruben wane maguo ŋine 12 , 000 , Gat wane maguo ŋine 12 , 000 ,
-66007006	Aser wane maguo ŋine 12 , 000 , Naptali wane maguo ŋine 12 , 000 , Manase wane maguo ŋine 12 , 000 ,
-66007007	Simeon wane maguo ŋine 12 , 000 , Levi wane maguo ŋine 12 , 000 , Isaka wane maguo ŋine 12 , 000 ,
-66007008	Zebulun wane maguo ŋine 12 , 000 , Yosep wane maguoŋine 12 , 000 , Benyamin wane maguo ŋine 12 , 000 .
+66007005	Yuda wane maguo ŋine 12,000 meeno kibi ebukoi , Ruben wane maguo ŋine 12,000 , Gat wane maguo ŋine 12,000 ,
+66007006	Aser wane maguo ŋine 12,000 , Naptali wane maguo ŋine 12,000 , Manase wane maguo ŋine 12,000 ,
+66007007	Simeon wane maguo ŋine 12,000 , Levi wane maguo ŋine 12,000 , Isaka wane maguo ŋine 12,000 ,
+66007008	Zebulun wane maguo ŋine 12,000 , Yosep wane maguoŋine 12,000 , Benyamin wane maguo ŋine 12,000 .
 66007009	Ea wane ŋadino na dene pore onbe rawe , ŋei ŋerep magu suaine lewaŋgoi . Ŋei maneŋo ŋei ŋerep magu korop yewa maine mi dapotoniake ! Eŋe aso baŋem eaŋine ŋei ŋerep magu , tego suaine don tanikene kine mane kine mane . Pakiso eŋe ŋei waom sea so lama medeune , erane kaitetno takot kiroine libekaŋo bira more , so geru qewarusu meteeno malipke okora warekoi .
 66007010	Pakiso , eŋe aŋaene kakapaka boka rakoi , “ Ŋenane mena menaŋze yemo Anutuze ŋei waom sea kutno metmaike , so lama medeune erano ŋine sarimaike ! ”
 66007011	Pakiso aŋelo korop ŋei waom sea , so ŋei sele , so kine kine gegeenerop 4 , eŋe qeatone okorakoi , eŋe ŋei waom sea wane kaitko umi ket more Anutu meŋenkakoi .
@@ -7736,7 +7736,7 @@
 66010011	Pakiso koso nolatke , “ Ge koso manerop Anutu wane don kisi ŋado baŋ wakoniake , ea ŋei maguine maguine , sola tanikene kine mane kine mane , donene kine mane kine mane , so ŋei waom korop ra edanikene . ”
 66011001	Eso na rokop motmot bokup mane qesi yale nine more rake , “ Ge wie more , Anutu wane Bakom Urum so arata ea rokop motnom paki , Bakom Urum kotino meŋenka okanmami , eŋane zaleene dapotonnom .
 66011002	Ŋo Bakom Urum wane sili bano wa eamo rokop misuk motkene , qeligenom , yaup payake , onoka wane eamo qelaŋ sunka ebonge . Edo Bakom Urum suaine eao baŋ gesoke , matalika geu , meso 42 okaniake .
-66011003	Na miti ŋeitkene etke taleotpe , baŋ laplap kaura bet yale ramukeik , paki , ere Anutu wane miti don ea ŋei edane geuk , kaiwe 1 , 260 okaniake . ”
+66011003	Na miti ŋeitkene etke taleotpe , baŋ laplap kaura bet yale ramukeik , paki , ere Anutu wane miti don ea ŋei edane geuk , kaiwe 1,260 okaniake . ”
 66011004	Miti ŋei etke iwa , ere Oliwa eki etke so lam etke , ere kepe baŋem eŋane Anutu wane kaitko okoramamik .
 66011005	Ŋei maneŋo ere ŋaba osiakeo , yemo aŋaetno ŋine gerep saket more , erane ŋabaetne ea zeake , eso ŋei mane eŋe yalewaka , ere ŋaba osiakane okangi , eŋe baŋ qeu seukeake .
 66011006	Ere zonom pa eponmaikane , qeli wane madet kitouk , koya mi qeqe paki , ere Anutu wane miti don ra suakeik . Ere zonom yaleka doku deino pa epon maikane maingeuk , doku deine korop weŋemka okaniake . So ere zonom pa eponmaikane , kepeo ŋetne ŋetne wakoniakane ra qeuk , eŋe wakoniake .
@@ -7758,7 +7758,7 @@
 66012003	Eŋe yale okane okoraki , qeliwo masi kuneŋine mane wakonge , eamo osom mane kiwetko pamaike , eŋetne dregon , pugaya yale , kakapa weŋemkaŋo wakone pake , lewine 7 sewen , so ŋiliwine 10 , so ŋei waom marok 7 , ŋo lewine 7 yewao kitoki , metwareke .
 66012004	Daineŋo qeliwo ŋine serekin , karewe magu weku rasu buratkeki paki , biraki kepo ketkoi . Dregon eŋe yale okane more , ŋerep medep mayakane okane metke , eŋane osino medep maki , eaka qotkayakane toma okorake .
 66012005	Pakiso ŋerep eŋe medep ŋei make , oŋo baŋ kepe baŋem ŋei ŋerep aen qesi weneŋ mage wareoniake . Ŋerep eŋe medep maki , eaka pukso ma ari Anutu so eŋine ŋei waom seaino birakakoi .
-66012006	Ŋo ŋerep pa , eŋe kaet wie kepe yaup papaino Anutuŋo eŋane matmane maulukke , ea geakane arike , ŋerep eŋe baŋ yewa geki ŋara gumeka geu , kaiwe 1 , 260 okaniake .
+66012006	Ŋo ŋerep pa , eŋe kaet wie kepe yaup papaino Anutuŋo eŋane matmane maulukke , ea geakane arike , ŋerep eŋe baŋ yewa geki ŋara gumeka geu , kaiwe 1,260 okaniake .
 66012007	Yekuat pamo , qeliwo kawali wirimaike , Mikael so aŋelokoune eŋe dregon qe mogatkau , dregon eŋe eŋine so aŋelokoune kawali qekoi .
 66012008	Qe more mi togolekoi , pelekeu dregon eŋine so aŋelokoune qeliwo koso manerop mi gekei wane , qeli mawaluke ebongoi .
 66012009	Dregon suaine kakapa sitoŋkau ketke ! Eŋe koma soginane , eŋetine Osoŋa so Satan , eŋe kepe baŋem ŋei ŋerep wet ma siuk okanon okanmaike . Eŋe esopkau , kepo ketke so aŋelo magukoune weneŋ korop eŋerop esoponbi ketkoi .
@@ -7902,12 +7902,12 @@
 66019020	Pakiso eŋe osom zubaine malipka lukkaso , propet isisiine eŋane kaitino masi kine kine ma okange , eŋe weneŋ ma lukkakoi . Eŋe masi kine kine isisine yewa maki paki , ŋei ŋerep osom zubainane kibi magekoi , so oŋa oŋaine wawetene qe meŋenka gekoi , eŋe isione wet masiuk okanone geke . Osom zubaine so propet isisiine ere wisika epu more , rupapotpi lom suaine wesi gerepŋo ze more luŋ wauluŋ kito akolak akolak qe pamaike , yewao ketkoik .
 66019021	Ŋo erane kawali ŋeikopetne eamo ŋeiwa horsi libeka wane kutno metke , eŋane aŋaino pilaŋba sa okorake , eaŋo enguwareke . Pakiso naŋi korop edo bikumene yewa korop newareu , ŋatene qeke .
 66020001	Pakiso na aŋelo mane kawe qeliwo ŋine ketke , eŋe ki mane sora gerep wane mulaune seinine kakapa metino mageke .
-66020002	Eŋe ari dregon , koma soginane , eamo Borikine mama welaine , Satan , ma lukkake , koma 1 , 000 mulapko mesiakane raki pake .
-66020003	Pakiso aŋeloŋo Satan ruŋkaki , sora gerepko ketki madet togole kitoso lok maki kike . Paki eŋe ŋei ŋerep maguine maguine koso mane mi isione more , mulapkoka metmaŋki koma 1 , 000 qoeake . Qoeki ŋadino eŋe siwotkau sa more , naso bamgoka geake .
+66020002	Eŋe ari dregon , koma soginane , eamo Borikine mama welaine , Satan , ma lukkake , koma 1,000 mulapko mesiakane raki pake .
+66020003	Pakiso aŋeloŋo Satan ruŋkaki , sora gerepko ketki madet togole kitoso lok maki kike . Paki eŋe ŋei ŋerep maguine maguine koso mane mi isione more , mulapkoka metmaŋki koma 1,000 qoeake . Qoeki ŋadino eŋe siwotkau sa more , naso bamgoka geake .
 66020004	Eso na ŋei waom sea loutne ongole . Sea ea wane kutno ŋeiwa metkoi , eŋe kine ma wakon ma wakon urata maikei wane zonom ebonge . Na yaleka ŋeiwa ebeene kitatpi seukkoi , eŋane oŋa oŋakopene ongole engukoi , ea yemo Yesuŋo miti so Anutu wane don ra edangi malipka ge more , don wele ea ra qelaŋanbi suake , ea wane . So eŋe osom zubaine eŋine me oŋa oŋaine bakomine mi kitokoi , me osom zubainane kibiine meeno me meteeno mi ma gekoi . Eŋe wisikae ge more Yesurop weneŋ ware ware urata ma geu , koma 1,000 qoeake .
-66020005	Ŋei seu seune natne korop eŋe mi wisikae wiekoi , eŋe toma pau koma , 1 , 000 qoeki ŋadino wiekei . Iwa yemo seu seune eŋane keuo ŋine lewine alakane wiekoi .
-66020006	Lewine alakane more wiekoi , eŋano takotkekoi , eŋe wet pese so mosop suaineka sunongi , eŋe gege koboboine gekei . Eŋe seu seu atak etke , ea wane zonomŋo mi ebu kesiake . Eŋe baŋ Anutu so Kristo erane pris kopetne okane gekei , paki eŋe baŋ Kristorop ware ware urata ma geu , koma 1 , 000 mane qoeake .
-66020007	Koma 1 , 000 qoeki , ŋadino Satan mulap urumgo ŋine baŋ lalage siwotkau sayake .
+66020005	Ŋei seu seune natne korop eŋe mi wisikae wiekoi , eŋe toma pau koma , 1,000 qoeki ŋadino wiekei . Iwa yemo seu seune eŋane keuo ŋine lewine alakane wiekoi .
+66020006	Lewine alakane more wiekoi , eŋano takotkekoi , eŋe wet pese so mosop suaineka sunongi , eŋe gege koboboine gekei . Eŋe seu seu atak etke , ea wane zonomŋo mi ebu kesiake . Eŋe baŋ Anutu so Kristo erane pris kopetne okane gekei , paki eŋe baŋ Kristorop ware ware urata ma geu , koma 1,000 mane qoeake .
+66020007	Koma 1,000 qoeki , ŋadino Satan mulap urumgo ŋine baŋ lalage siwotkau sayake .
 66020008	Sa ariki paki , kepe baŋem ŋei maguine maguine yeo yeo ge arimami , korop wetene ma siukeake , ea yemo ŋei waom Gok so Magok . Satan eŋe baŋ ŋei korop ebuki kawali qekei wane sari wekuoka lewaŋgei , ŋei magu kakapa kiwet mezeno qalak pamaike , ea wane rokop .
 66020009	Eŋe kepe baŋem korop rokopke ariu paki , Anutu wane ŋei ŋerep magu eŋane mat so mat suaine siti , Anutuŋo ea wane simileka okanmaike , ea toe rapoke lolikaikei , yale okane pageu , qeliwo ŋine gerep ket more , ezo wareake .
 66020010	Pakimo Satanŋo isionge , ea wane ma birakau namuŋ gerepko wesiŋo gerep suaine ze more akolak akolak qe pamaike , yewao kesiake . Yewao osom zubaine so propet isisiine mo biraotpi ketkoik gemamik . Ket more ere maratotki , karewe leleu paki enŋenarek wikile kaiweo so ruo naso baŋem naso baŋem maratka gekei .
@@ -7931,7 +7931,7 @@
 66021013	Madet karewe kareweŋo mat wazaino okora arimaike , madet karewe kepe deine sasaino oken okoramami , madet karewe rai woken okoramami , madet karewe yawara oken okoramami , madet karewe peke deine ketmaike oken okoramami .
 66021014	Mat wane senba eamo wesi 12 , ea wane kutno mamaine , pakimo lama medeunane aposolo koune 12 , eŋane eŋetene wesi wa ea wane kutno qeqine .
 66021015	Aŋelo don nolatke , eŋe rokop mot mot qesi mane golŋo mamaine , ma okorake , mat wane rokoune , madetinane , so seninane mosiakane .
-66021016	Mat ea ugurukine etke so etke , kiroineine so patine eŋe rokop wekuka . Aŋelo eŋe rokop motmot qesiineŋo mat suaine ea rokoune motke . Motki kiroine 2 , 400 kilomita . Kiroine , patine so senba kiroine ea wane rokoune motki , rokop wekuka okange .
+66021016	Mat ea ugurukine etke so etke , kiroineine so patine eŋe rokop wekuka . Aŋelo eŋe rokop motmot qesiineŋo mat suaine ea rokoune motke . Motki kiroine 2,400 kilomita . Kiroine , patine so senba kiroine ea wane rokoune motki , rokop wekuka okange .
 66021017	Aŋelo eŋe mat wane senko ŋine wamaike , ea yaleka rokop motki , 60 mita okange . Ŋeiŋo rokop mot okanmami , yalewaka aŋeloŋo mage more rokop motke .
 66021018	Mat wane senba eamo wesi wikin yale qilaune weneŋ eaŋoka mamaine . Ŋo mat eŋine yemo goli qelaŋanerop yewaŋo mamainane , wikin yale oŋalilikine weneŋ .
 66021019	Mat suainane senane bosiŋine , ea yemo wesi kine kine lewine suaineŋo qoli qoline eaŋo kibi mamaine . Naba 1 , mat suainane sen wane nago nagon bosiŋ eamo wesi zaspa wikin yale oŋalilikine weneŋ , eaŋo mamaine . Naba 2 , eamo wesi buyeka sapaia , eaŋo mamaine . Naba 3 , eamo wesi libeka aget , eaŋo mamaine . Naba 4 , eamo wesi kizenka , emeral eaŋo mamaine .

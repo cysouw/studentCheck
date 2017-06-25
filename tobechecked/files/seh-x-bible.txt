@@ -713,7 +713,7 @@
 42001027	kuti aende kalonge na mwali m'bodzi anacemerwa Mariya , akhadasembwa na Zuze , mwana wa dzindza ya mambo Dhavidhi .
 42001028	Anju afendedzera Mariya , am'mwanyika mbampanga tenepa : “ Makolokoto iwe wakudzala na nkhombo ! Mbuya ali na iwe . ”
 42001029	Apo Mariya na kupibva , adzumatirwa pikulu kakamwe , mbakhasaka kudziwa kuti mamwanyikiro enewa asalonganji ?
-42001030	Mbwenye anju ampanga kuti :  “ Leka kugopa Mariya , thangwi Mulungu asafuna kukupasa nkhombo zace !
+42001030	Mbwenye anju ampanga kuti : “ Leka kugopa Mariya , thangwi Mulungu asafuna kukupasa nkhombo zace !
 42001031	Iwe unati ukhale na pa thupi mbubala mwana wa mamuna , dzina yace unadza kanthula Yezu .
 42001032	Iye anakhala nkulu , mbadza kacemerwa Mwana wa Mulungu wa nkulu kakamwe . Mulungu Mbuya anadza kampasa umambo wa baba wace Dhavidhi .
 42001033	Pontho Iye anadza katonga kwenda na kwenda mbumba ya Djakobo . Umambo wace nkhabe kudza kamala . ”
@@ -725,11 +725,11 @@
 42001039	Pa ntsiku zenezo , Mariya acita ulendo wace na mwansanga , mbaenda ku nzinda ubodzi ukhagumanika ku cisa ca mapiri , ku dziko ya Djudeya .
 42001040	Kweneko , iye apita n'nyumba ya Zakariya mbamwanyika Zabere .
 42001041	Zabere na kubva kumwanyikwa kudacitwa iye na Mariya , mwana athaula m'mimba mwace . Na tenepo , Zabere adzala na Nzimu wa Mulungu ,
-42001042	mbalonga na mphambvu kuti :  “ Iwe ndiwe wakusimbwa pakati pa akazi , pontho mwana anafuna kudza kabala iwe ndi wakusimbwambo !
+42001042	mbalonga na mphambvu kuti : “ Iwe ndiwe wakusimbwa pakati pa akazi , pontho mwana anafuna kudza kabala iwe ndi wakusimbwambo !
 42001043	Mbwenye ndine ani ine kuti ndidze kaoniwa na mai wace Mbuya wanga ?
 42001044	Pa n'dzidzi ubodzi ene udabva ine kumwanyikwa na iwe , mwana wanga atoma kuthaula m'mimba mwanga na kukomerwa .
 42001045	Kutsandzaya ndi kwako iwe Mariya adatawira kuti pinacitika pidakupanga Mbuya ! ”
-42001046	Na tenepo , Mariya alonga kuti :  “ Ntima wanga usakuza Mbuya .
+42001046	Na tenepo , Mariya alonga kuti : “ Ntima wanga usakuza Mbuya .
 42001047	Pontho nzimu wanga usasekera Mulungu , Mpulumusi wanga ,
 42001048	thangwi iye akumbukambo ine n'dzakazi wace , munthu wakukhonda kukwanira . Apo kutomera lero mpaka kutsogolo , madzindza onsene anati andicemere nkazi wakudzala na nkhombo .
 42001049	Thangwi Mulungu wa mphambvu acita pinthu pikulu kakamwe kuna ine . Wakulungama ndiyo dzina yace .
@@ -819,7 +819,7 @@
 42003001	Pa caka ca cikhumi na pixanu ca umambo wa Tibheryo Sezari , Ponsyo Pilato mbali ntongi wa Djudeya , Herodhi mbali ntongi wa Galileya , m'bale wace Herodhi anacemerwa Filipi mbali ntongi wa Itureya na Tarakonite , Lizanya mbali ntongi wa Abhileni ,
 42003002	Anasi na Kaifasi mbali akulu aanyantsembe . Ndi caka ceneco cidalonga Mbuya n'thando kuna Juwau mwana Zakariya .
 42003003	Juwau afamba cisa consene dhuzi na nyanza ya Djorodani , mbakhamwaza mphangwa izi : “ Tambirani batixmu , ninga cidzindikiro ca kuchunyuka toera kulekererwa kudawa . ”
-42003004	Ipi pyacitika ninga mudapilembera mporofeta Izaiya m'bukhu mwace mbalonga tenepa :  “ Alipo anakhuwa n'thando kuti : ‘ Sasanyirani njira toera Mbuya apite nayo . Nfungulireni miseu ya kulungama .
+42003004	Ipi pyacitika ninga mudapilembera mporofeta Izaiya m'bukhu mwace mbalonga tenepa : “ Alipo anakhuwa n'thando kuti : ‘ Sasanyirani njira toera Mbuya apite nayo . Nfungulireni miseu ya kulungama .
 42003005	Magowa onsene anatutirwa . Mapiri na nthunda zonsene zinazerezwa . Miseu ya magurayi inalungamiswa , njira za makolong'ondo zinazerezwa .
 42003006	Anthu onsene anati aone kupulumusa kwa Mulungu . ’ ”
 42003007	Juwau akhapanga mwinji wa anthu ukhabwera katambira Batixmu kuna iye , mbalonga tenepa : “ Dzindza ya nyoka ! Mbani akupangani kuti muthawe nyatwa zinafuna kudza ?
@@ -838,7 +838,7 @@
 42003020	Pontho Herodhi adza kathimiza kucita pya kuipa pikulu kakamwe , pa kupitisa Juwau n'kaidi .
 42003021	Pidamala mbumba yonsene kutambira batixmu , Yezu aendambo katambira batixmu . Apo penepo , Yezu pikhaphembera iye , thambo yafunguka .
 42003022	Na tenepo , Nzimu wa Mulungu waoneka mbuchita buluka kudzulu ninga nkhangaiwa , mbumphamira . Penepo , kudzulu kwabuluka fala , mbilonga tenepa : “ Iwe ndiwe Mwana wanga wakufunika , ananditsandzaisa . ”
-42003023	Yezu pidatoma Iye kuphata basa , akhatamangira pyaka makumatatu pya kubalwa . Iye akhali mwana wa Zuze , ninga mukhanyerezera anthu .  Zuze akhali mwana wa Eli ,
+42003023	Yezu pidatoma Iye kuphata basa , akhatamangira pyaka makumatatu pya kubalwa . Iye akhali mwana wa Zuze , ninga mukhanyerezera anthu . Zuze akhali mwana wa Eli ,
 42003024	Eli akhali mwana wa Matati , Matati mwana wa Levi , Levi mwana wa Meliki , Meliki mwana wa Djanai , Djanai mwana wa Zuze ,
 42003025	Zuze akhali mwana wa Matatiya , Matatiya mwana wa Amosi , Amosi mwana wa Naumi , Naumi mwana wa Esili , Esili mwana wa Nagai ,
 42003026	Nagai akhali mwana wa Maate , Maate mwana wa Matatiya , Matatiya mwana wa Semeyi , Semeyi mwana wa Zuze , Zuze mwana wa Djuda ,
@@ -863,7 +863,7 @@
 42004007	Na tenepo , ungandilambira , pyonsene ipi pinakhala pyako . ”
 42004008	Yezu antawira tenepa : “ Pyalembwa kuti : Lambira Mbuya Mulungu wako , mbuphatira Iye ekha basi . ”
 42004009	Pakumala penepo , Sathani ankwata Yezu mbaenda naye ku Djerusalema , mbankwiza padzulu kakamwe pa Nyumba ya Mulungu mbampanga tenepa : “ Ngakhala iwe ndiwe Mwana wa Mulungu , numpha ugwe pantsi . ”
-42004010	Thangwi pyalembwa kuti :  “ Mulungu anatuma anju zace , na thangwi yako toera akukoye .
+42004010	Thangwi pyalembwa kuti : “ Mulungu anatuma anju zace , na thangwi yako toera akukoye .
 42004011	Pontho , iwo anakugampha na manja awo , toera ukhonde kuphekeka pa mwala . ”
 42004012	Yezu antawira tenepa : “ Pyalongwa kuti : ‘ Leka kulesera Mbuya Mulungu wako . ’ ”
 42004013	Pakumala manyengerero onsene awa , Sathani ansiya Yezu mbadikhira n'dzidzi unango .
@@ -956,7 +956,7 @@
 42006017	Yezu achita pa phiri pabodzi pene na iwo , mbalimira pa mbuto ya kusoweka makata . Penepo akhalipo anyakupfundza ace azinji , na mwinji wa anthu akhabuluka mu Djudeya monsene , mu Djerusalema na anthu akhali dhuzi na gombe ya Tiru na ya Sidhoni .
 42006018	Iwo akhadabwera kuna Yezu toera kudza kamubva na kukondziwa nthenda zawo . Ale akhanentseka na mizimu ya kuipa akhawangiswambo .
 42006019	Anthu onsene akhasaka kunkhuya , thangwi mphambvu zikhabuluka muna Yezu zikhawangisa onsene .
-42006020	Yezu alang'ana anyakupfundza ace mbaapanga kuti :  “ Anyakutsandzaya ndimwe anyakucherenga , thangwi Umambo wa Mulungu . ndi wanu .
+42006020	Yezu alang'ana anyakupfundza ace mbaapanga kuti : “ Anyakutsandzaya ndimwe anyakucherenga , thangwi Umambo wa Mulungu . ndi wanu .
 42006021	Anyakutsandzaya ndimwe muna njala cincino , thangwi munati mukhute . Anyakutsandzaya ndimwe muna lira cincino , thangwi munati museke .
 42006022	Anyakutsandzaya ndimwe , mungaidwa , mungathamangiswa , mungatikanwa , pontho na kulongwa kuti ndimwe anthu a kuipa , na thangwi ya Ine Mwana wa Munthu .
 42006023	Tsandzayani mbamukomerwa pikulu kakamwe ntsiku eneyi , thangwi kudzulu mwakoyerwa muwoni wanu ukulu kakamwe . Thangwi a mbuya awo anthu enewa acitambo pibodzi-bodzi kuna aporofeta . ”
@@ -1012,12 +1012,12 @@
 42007024	Pidamala iwo kwenda anyakupfundza a Juwau , Yezu atoma kulonga kuna mbumba na thangwi ya Juwau kuti : “ Kodi mwaenda kaonanji n'thando ? Ntete wakutekenyeka na mphepo ?
 42007025	Apo ndi ninji pidaenda imwe kaona ? Mamuna wakubvalira mwadidi ? Mphapo ale anabvalira mwadidi mbakhala na makhaliro adidi , anthu enewa asakhala m'manyumba mwa amambo .
 42007026	Mwaenda kaonanji mphapo ? Mporofeta ? Ande , ine ndisakupangani kuti imwe mwaona munthu wa kupiringana mporofeta . ”
-42007027	Thangwi uyu ndi ule akhalongwa m'malemba a m'Bukhu ya Mulungu kuti :  “ Ndinatuma ntumwi wanga patsogolo pako , toera akusasanyire njira . ”
+42007027	Thangwi uyu ndi ule akhalongwa m'malemba a m'Bukhu ya Mulungu kuti : “ Ndinatuma ntumwi wanga patsogolo pako , toera akusasanyire njira . ”
 42007028	Pontho Yezu athimiza na kulonga kuti : “ Pakati pa anthu onsene adabaliwa na nkazi , nkhabe nkulu wa kupiringana Juwau . Mbwenye ule anakhala ng'ono mu Umambo wa Mulungu , unowu ndiye nkulu kupiringana Juwau . ”
 42007029	Pontho mbumba yonsene , na ale ene anyakukumbusa misonkho akhadatambira batixmu na Juwau , mudabva iwo mafala a Yezu , adzindikira kuti njira ya Mulungu ndi ya kulungama .
 42007030	Mbwenye afarisi na anyakudziwisa a mwambo apikhonda pire pikhafuna Mulungu kuna iwo , mbakhonda kutambiriswa batixmu na Juwau .
 42007031	Na thangwi eneyo Yezu athimiza pontho mbalonga kuti : “ Kodi ndinaalandanisa na ani anthu a ntsiku zino ? Anthu enewa alandana na ani ? ”
-42007032	Iwo anthu enewa alandana na ana ang'ono akhakhala nawa-nawa pa mphambano mbakhakhuwa kuna andzawo kuti :  “ Ife takuimbirani citoliro , mbwenye imwe mwakhonda kubvina . Takuimbirani nyimbo za paciriro , mbwenye imwe mwakhonda kulira . ”
+42007032	Iwo anthu enewa alandana na ana ang'ono akhakhala nawa-nawa pa mphambano mbakhakhuwa kuna andzawo kuti : “ Ife takuimbirani citoliro , mbwenye imwe mwakhonda kubvina . Takuimbirani nyimbo za paciriro , mbwenye imwe mwakhonda kulira . ”
 42007033	Thangwi abwera Juwau Bhatixta akhapimana ca kudya na kukhonda kumwa vinyu . Mbwenye imwe mwalonga kuti iye ana nzimu wa kuipa .
 42007034	Ndabwerambo Ine Mwana wa Munthu ndisadya mbandimwa , mbwenye imwe musalonga kuti : “ Lang'anani mamuna uyu ! Ndi wa kudyesa na wa kumwesa ! Pontho ndi xamwali wa anyakukumbusa misonkho na anyakudawa . ”
 42007035	Mbwenye udziwisi wa Mulungu , usadziwika na anyakupfundza ace onsene .
@@ -1197,7 +1197,7 @@
 42010041	Penepo Yezu antawira tenepa : “ Marta ! Marta ! Iwe uli kunentseka mbupingizika na pinthu pizinji .
 42010042	Mbwenye cinafunika ndi cibodzi basi . Mariya asankhula cinthu cadidi . Cinthu ceneci nkhabe anafuna kunkwatira . ”
 42011001	Ntsiku inango Yezu akhaphembera pa mbuto ibodzi . Pidamala Iye , nyakupfundza wace m'bodzi amphemba mbalonga kuti : “ Mbuya , tipfundzisenimbo kuphembera , ninga pidacita Juwau Bhatixta apfundzisa anyakupfundza ace . ”
-42011002	Yezu antawira kuti : Mungafuna kuphembera , phemberani tenepa :  “ Baba , dzina yanu mbikhale na mbiri . Mbubwere Umambo Wanu .
+42011002	Yezu antawira kuti : Mungafuna kuphembera , phemberani tenepa : “ Baba , dzina yanu mbikhale na mbiri . Mbubwere Umambo Wanu .
 42011003	Tipaseni ca kudya cinafuna ife ca ntsiku zonsene .
 42011004	Tilekerereni kudawa kwathu , thangwi ifembo tisalekerera onsene ale anatidawisira . Pontho lekani kutisiya mbatigwa n'kudawa . ”
 42011005	Na tenepo , Yezu alonga kuna anyakupfundza ace kuti : “ Lang'anani , ngakhala m'bodzi wanu aenda ku nyumba kwa xamwali wace pa chitichiti ya masiku , mbamphemba kuti : ‘ Xamwali , ndibwerekembo mikate mitatu ,
@@ -1586,7 +1586,7 @@
 42020014	Mbwenye anyakulima mudaona iwo mwana , abverana tenepo : “ Uyu ndiye anafuna kudya unthaka . Mbatimupheni , unthaka ukhale wathu . ”
 42020015	Na tenepo , iwo ankwata mbaenda naye kunja kwa munda , mbamupha . Mphapo ndi ninji pinafuna kucita mwanacinthu munda ?
 42020016	Iye anabwera , mbapha amuna onsene ale , mbakwata munda mbaupasa anyakulima anango . Na tenepo , mbumba mudabva iyo penepyo yalonga kuti : “ Penepi mbapileke kucitika ! ”
-42020017	Mbwenye Yezu aalang'anisa mwadidi mwene , mbaabvundza kuti : “ Mphapo pisalongeranji pidalembwa mu Bukhu ya Mulungu kuti :  ‘ Mwala udakhondiwa na anyakumanga nyumba , ndiwo mwala udadza kawangisa nyumba ? ’
+42020017	Mbwenye Yezu aalang'anisa mwadidi mwene , mbaabvundza kuti : “ Mphapo pisalongeranji pidalembwa mu Bukhu ya Mulungu kuti : ‘ Mwala udakhondiwa na anyakumanga nyumba , ndiwo mwala udadza kawangisa nyumba ? ’
 42020018	Onsene anagwa padzulu pa mwala unowu ananyedzeka , mbwenye ule anagwerwa nawo , anapeeka mbadza pfumbi . ”
 42020019	Anyakudziwisa a mwambo na akulu aanyantsembe , akhapidziwa kuti nsanje unowu ukhalongera iwo . Penepo pene , iwo akhafuna kum'manga Yezu , mbwenye akhagopa mbumba .
 42020020	Na tenepo , atoma kunzonda . Atuma amuna kuti aende kancite mibvundzo , mbakhala ninga anthu anyakuphembera mwadidi , kuti amuone ngakhala anadodomeka pang'ono pa malongero ace , toera iwo akwanise kuona thangwi ya kumpereka m'manja mwa utongi wa ku Roma .
@@ -1611,7 +1611,7 @@
 42020039	Anyakudziwisa anango a mwambo alonga tenepa : “ Mwatawira mwadidi Mpfundzisi ! ”
 42020040	Penepo nkhabe munthu unango akhakhala na cipapu ca kumbvundzisa pontho .
 42020041	Na tenepo , Yezu aabvundza kuti : “ Pisalongerwanji kuti Kirixtu ndi Mwana wa Dhavidhi ? ”
-42020042	Thangwi iye ene Dhavidhi alonga m'bukhu ya Masalimu tenepa :  “ Mbuya alonga kuna Mbuya wanga kuti : Khala pantsi , ku khundu ya nkono wanga wa madyo ,
+42020042	Thangwi iye ene Dhavidhi alonga m'bukhu ya Masalimu tenepa : “ Mbuya alonga kuna Mbuya wanga kuti : Khala pantsi , ku khundu ya nkono wanga wa madyo ,
 42020043	mpaka pana ikha ine anyamalwa ako pantsi pa manyalo ako , ninga cinthu cakupondera . ”
 42020044	Na tenepo , ngakhala Dhavidhi asancemera “ Mbuya , ” anakhala tani pontho mwana wace ?
 42020045	Yezu mukhabveserwa Iye na mbumba yonsene , apanga anyakupfundza ace kuti :
@@ -1755,7 +1755,7 @@
 42023027	Mwinji wa anthu ukhantowera , pabodzi na akazi akhadungunya mbakhalira na thangwi yace .
 42023028	Na tenepo , Yezu azungunuka kuna akazi mbaapanga kuti : “ Akazi a Djerusalema ! Lekani Kundilira . lirikani mwekha na ananu ! ”
 42023029	Thangwi unafika n'dzidzi unadza kafuna imwe longa kuti : “ Mbatsandzaye akazi adakhonda paswa kubala , pontho na zimimba zidakhonda kubala ana , na mabere a kuti cipo adzati kuyamwisa ! ”
-42023030	Na tenepo ,  anati alonge kuna mapiri kuti : “ Tigwereni . ” Pontho analonga kuna pimapiri kuti : “ Tigudumireni ! ”
+42023030	Na tenepo , anati alonge kuna mapiri kuti : “ Tigwereni . ” Pontho analonga kuna pimapiri kuti : “ Tigudumireni ! ”
 42023031	Thangwi ngakhala asacita ipi na muti uwisi , ndiye tani kuna muti wa kuuma ?
 42023032	Akwatiwambo amuna awiri , mapanga , kuti aende kaphiwe pabodzi na Yezu .
 42023033	Mudafika iwo pa mbuto inacemerwa Kavera , ankhomera penepo pabodzi pene na mapanga . M'bodzi khundu yace ya madyo , m'bodzi khundu yace ya bzere .
@@ -1940,7 +1940,7 @@
 62005019	Tisadziwa kuti ife ndife a Mulungu , pontho dziko yonsene isatongwa na Sathani .
 62005020	Tisadziwambo kuti Mwana wa Mulungu abwera mbatipasa ndzeru toera tidziwe Mulungu wa ndimo mwene . Pontho ife tiri muna Mulungu wa ndimo mwene , muna Mwana wace Yezu Kirixtu . Yezu Kirixtu unowu , ndiye Mulungudi na upulumuki wakukhonda kumala .
 62005021	Ananga , citani mphole na alungu apezi .
-63001001	Ine ntsogoleri ,  ndisalemba tsamba iyi kuna mai adasankhulwa , na kuna anace anafunikadi na ine kakamwe . Sine basi tayu anaafuna , mbwenye asafuniwambo na onsene ale anadziwa pya ndimo mwene ,
+63001001	Ine ntsogoleri , ndisalemba tsamba iyi kuna mai adasankhulwa , na kuna anace anafunikadi na ine kakamwe . Sine basi tayu anaafuna , mbwenye asafuniwambo na onsene ale anadziwa pya ndimo mwene ,
 63001002	na thangwi ya pya ndimo mwene pinakhala muna ife , pontho piri na ife kwenda na kwenda .
 63001003	Ntsisi , kukoma ntima , na ntendere wa Mulungu Baba na wa Mwana wace Yezu Kirixtu , mbapikhale na ife mwa ndimo mwene na mwakufunana .
 63001004	Ndakomerwa pikulu kakamwe pidagumana ine anako anango mbafamba mwakulungama , ninga munalongera mwambo udatambira ife kuna Baba .
@@ -1953,7 +1953,7 @@
 63001011	Thangwi ule anam'mwanyika anaphatana na iye pa mabasa ace a kuipa .
 63001012	Ndina pizinji kuti ndikulembereni , mbwenye sikhafuna kuti ndicite kupilemba pa tsamba tayu . Thangwi ndisadikhira kudza kakuonani toera ndilonge na imwe nkhope na nkhope , toera kutsandzaya kwathu kudzadziswe .
 63001013	Ana a mwana-nkazi wako wakusankhulwa , asakuwangisa .
-64001001	Ine ntsogoleri ,  ndisalemba tsamba iyi kuna wakufunika Gayo , unowu anafuna ine kakamwe .
+64001001	Ine ntsogoleri , ndisalemba tsamba iyi kuna wakufunika Gayo , unowu anafuna ine kakamwe .
 64001002	Xamwali wanga wakufunika , ndisaphembera kuti ukhale manungo akuwanga , pyonsene pikufambire mwadidi , ninga nzimu wako uli mwadidi .
 64001003	Ndatsandzaya pikulu kakamwe mudatambira ine abale anango mbandipanga na thangwi ya kukhulupira kwako , na kufamba mwa ndimo mwene kunacita iwe .
 64001004	Nkhabe kutsandzaya kunango kwa ine , kunapiringana kubva kudacita ine kuti ananga ali kufamba mwakulungama .

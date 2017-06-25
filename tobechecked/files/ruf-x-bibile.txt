@@ -1097,7 +1097,7 @@
 41001018	Bahala watsileka nyapfu tsawo , wamuwinza .
 41001019	Kaghenda hatali chidogho , kawona Jakobu na Yohane , iwana wa Sebedayo , wamne mnumbwi ghwawo , wotenda ghoya nyapfu tsawo .
 41001020	Bahala Yesu hayawonile , kawakema . Nawo wamleka Sebedayo , aba wawo mne mnumbwi hamwe ne iwatenda isang'ano , wamuwinza .
-41001021	Yesu ne iwanang'ina wake wapfika mne ghumji ghwa Kaperinaumu . Litsuwa lya Sabato , c Yesu kengila mne ing'anda ye ukulombela , kandusa kulangulitsa .
+41001021	Yesu ne iwanang'ina wake wapfika mne ghumji ghwa Kaperinaumu . Litsuwa lya Sabato , Yesu kengila mne ing'anda ye ukulombela , kandusa kulangulitsa .
 41001022	Iwanu iwamhulikitse wakangawala kwa ghamalangulitso ghake , kwaapfila yeye ng'alangulitse bae ka iwolangulitsa Ghamalaghitso gha Musa , ila kalangulitsa ka imunu yane ukulu .
 41001023	Bahala imunu yane ichinyamkela kengila mne ing'anda ye ukulombela kakemelela kwa litsi likulu ,
 41001024	“ Ubama kutenda choni , Yesu wa Natsareti ? Kutsa kutukoma ? Nokumanya ghweghwe kwa Mwenzeluka we Imulungu ! ”
@@ -1116,7 +1116,7 @@
 41001037	Hawamwonile , wamlongela , “ Iwanu wose wokubama ghweghwe . ”
 41001038	Yesu kawedika , “ Twobamighwa tughende kune ipfijiji pfingi ipfili habehi . Amo nobamighwa niwapetele iwanu Imbuli Inoghile , kwaapfila acho chicho chanitsilile . ”
 41001039	Apfo Yesu kanga isi yose ya Galilaya , aku kowapetela iwanu mne tsing'anda tsawo tse ukulombela na kulapfa ipfinyamkela .
-41001040	Imunu yumwe iyoghula ukoma tsakamghendela Yesu . Kamtowela ghamaghoti kamlomba , kalonga , “ Ung'abama , kwodaha kunideghetesa . ” d
+41001040	Imunu yumwe iyoghula ukoma tsakamghendela Yesu . Kamtowela ghamaghoti kamlomba , kalonga , “ Ung'abama , kwodaha kunideghetesa . ”
 41001041	Yesu kamwonela libatsi imunu ayo , kagholosa ghumoko ghwake , kamkinda . Kuya kalonga , “ Nobama , degheta ! ”
 41001042	Bahala utamu umlawa , kahona .
 41001043	Bahala Yesu kamleka yoke aku komkomangitsa ghendo , kamlongela ,
@@ -1845,7 +1845,7 @@
 42002008	Mna isi iila tsakukala na wadimi iwang'ali wokalitsa imipfugho yawo nechilo .
 42002009	Imalaika we Imtwatsa kawalawila , ne utunitso we Imtwatsa uwamwemwesela , nawo wapfuka ghendo .
 42002010	Lekeni malaika ayo kawalongela , “ Mleke ukupfuka ! Niwaghalila imbuli inoghile , iitsowadeng'eletsa iwanu wose .
-42002011	Leloli kune ghumji ghwa Daudi kelekighwa Mkombotsi wenu ; yeye iyo Kiristu , c Imtwatsa !
+42002011	Leloli kune ghumji ghwa Daudi kelekighwa Mkombotsi wenu ; yeye iyo Kiristu , Imtwatsa !
 42002012	Achino chitsakuwa chitango kuna mwemwe . Mtsomwona imwana mdodo , wampfatsa ipfibwende , wamuwatsisa hanu ho kujila iwanyama . ”
 42002013	Bahala , kingili kulu lye iwamalaika litingana ne malaika ayo , wamtunya Imulungu , walonga ,
 42002014	“ Utunitso kwe Imulungu yali uchanya ng'ani kulanga , na tseghamba kwe iwanu iwali mne isi yose iwanoghelighwe naye ”
@@ -1980,7 +1980,7 @@
 42005009	Simoni na weyaghe wakangawala kwe iwasomba wengi wawalowile .
 42005010	Pfipfila weyaghe Simoni , Jakobu na Yohane , iwanaghe Sebedayo nawo wakangawala . Yesu kamlongela Simoni , “ Uleke kupfuka , kulawa sambi na kughendelela kutsowapfula iwanu . ”
 42005011	Waikwegha minumbwi yawo mbaka mmbalimbali mwe tsimbu , waleka chila ichinu , wamuwinza Yesu .
-42005012	Yesu hang'ali mne ghumji ghumwe , tsakatsa imunu yane ukoma lukuli lwose . Imtamu ayo hamwonile Yesu , keghwisa hasi , kalomba “ Imtwatsa , ka kwobama , kwodaha kunitenda nihone ! ” d
+42005012	Yesu hang'ali mne ghumji ghumwe , tsakatsa imunu yane ukoma lukuli lwose . Imtamu ayo hamwonile Yesu , keghwisa hasi , kalomba “ Imtwatsa , ka kwobama , kwodaha kunitenda nihone ! ”
 42005013	Yesu kagholosa ghumoko , kamkinda , kalonga , “ Nobama ; Uhone ! ” Bahala ukoma umlawa .
 42005014	Yesu kamlongela , “ Uleke kumlongela imunu wowose . Lekeni ughende , wilanguse kwe imbala we inambiko ne ulapfe inambiko ka Musa pfawalongele , iwanu wose wamanye ka ghweghwe kuhona . ”
 42005015	Lekeni mbuli tsa Yesu tsongetseka kwenela mne isi yose , na iwanu wengi wapfika kumtegheletsa na wambama awahonetse utamu wawo .
@@ -2205,7 +2205,7 @@
 42009040	Niwalomba iwanang'ina wako wamlapfe ichinyamkela , lekeni ng'awadahile bae . ”
 42009041	Yesu kamwidika , “ Ka ! Pfii mwemwe mweleko ing'aghutoghola na iwaghile ! Apfi ng'ale namwe na kuwadudumila mbaka tsuwachi ? ” Kuya kamlongela imunu ayo , “ Nighalile hano imwanagho . ”
 42009042	Imsongolo hang'ali yomghendela Yesu , ichinyamkela kamghwisa hasi chisala . Yesu kamkembela ichinyamkela , kamhonetsa imsongolo ayo na kamuhitsa imsongolo ayo kwa aba wake .
-42009043	Iwanu wose wakangawala kwa uwetso mkulu we Imulungu . Yesu kolonga keli lifwa lyake ( Matei 17:22-23 ; Maliki 9:30-32 ) Iwanu hawang'ali wokangawala kwa ghose ghayatendile Yesu , kawalongela iwanang'ina wake ,
+42009043	Iwanu wose wakangawala kwa uwetso mkulu we Imulungu . Yesu kolonga keli lifwa lyake . Iwanu hawang'ali wokangawala kwa ghose ghayatendile Yesu , kawalongela iwanang'ina wake ,
 42009044	“ Mleke kwisemwa achino chaniwalongela ! Imwana we Imunu katsoghalighwa mna ghamoko ghe iwanu . ”
 42009045	Lekeni iwanang'ina wake ng'awamanyile bae mana ye imbuli ino , kwaapfila ipfisighwa waleke kuimanya ; nawo wapfuka kumghutsa Yesu imbuli ino .
 42009046	Iwanang'ina wa Yesu wandusa kwihisanya yuhi yatsakuwa imkulu mna wawo .
@@ -2217,7 +2217,7 @@
 42009052	Kawalongotsa iwatumighwa iwaghendile mne tsikaye tsa Samariya kumwikila ghoya chila ichinu .
 42009053	Lekeni iwanu wa Samariya ng'awambokele bae , kwaapfila tsawamanya koghenda Yerusalemu .
 42009054	Iwanang'ina wake , Jakobu na Yohane hawonile apfo , wamghutsa Yesu , “ Mtwatsa , apfi kwobama twetwe tukeme ghumoto ghuhulumke kulawa kulanga ghuwalakatse wose , ka Eliya pfayatendile ? ”
-42009055	Yesu kawahundukila kawakembela . e
+42009055	Yesu kawahundukila kawakembela .
 42009056	Kuya Yesu ne iwanang'ina wake waghenda kuna kaye tsingi .
 42009057	Hawang'ali mnzila , imunu yumwe kamlongela Yesu , “ Nitsokuwinza hanu hohose utsoghenda . ”
 42009058	Yesu kamlongela , “ Wambwa wa kumuhulo wana tsimango ne iwapfideghe wana pfibali , lekeni Imwana we Imunu kahela hanu ha kuwasitsa litwi lyake na kubwihila . ”
@@ -2268,16 +2268,16 @@
 42010041	Imtwatsa kamwidika , “ Marita ! Kwokwalangula no ukughaya kwa ipfinu pfingi ,
 42010042	lekeni ichinu chimwe chiliheka ichibamighwa , na Mariya kasaghula ichinu ichinoghile , na ng'atsobokighwa bae . ”
 42011001	Litsuwa limwe Yesu tsakakala hanu hamwe kolomba . Hayamalitse kulomba , imwanang'ina wake yumwe kamlongela , “ Imtwatsa , utulangulitse kulomba ka Yohane pfayawalangulitse iwanang'ina wake . ”
-42011002	Yesu kawalongela , “ Hamlomba , mlonge apfi , ‘ Aba wetu , f taghwa lyako lienzeluka litogholighwe , Undewa wako utse . g
+42011002	Yesu kawalongela , “ Hamlomba , mlonge apfi , ‘ Aba wetu , taghwa lyako lienzeluka litogholighwe , Undewa wako utse .
 42011003	Utwing'e ichijo chetu cha chila litsuwa .
-42011004	Utuleghusile nzambi tsetu , ka pfatumleghusila chila yumwe yatutendele ghehile . Na uleke kutwingitsa mne kughetsighwa . ’ ” h
+42011004	Utuleghusile nzambi tsetu , ka pfatumleghusila chila yumwe yatutendele ghehile . Na uleke kutwingitsa mne kughetsighwa . ’ ”
 42011005	Kuya Yesu kawalongela iwanang'ina wake , “ Tulonge yumwe wenu kaghenda mne ing'anda ya sale yake nechilo ne ukulonga , ‘ Sale yangu , nokulomba ungaye ichijo ,
 42011006	kwaapfila sale yangu yali mne ghumwanza katsa ukaye yangu , na nene nahela ichijo cha kumwing'a ! ’
 42011007	Na tulonge sale yako yali mng'anda kokwidika , ‘ Leka nibwihile ! Libani lihindighwa , nene ne iwanangu tuwasa . Sidaha bae kulamka na kukwing'a ichinu chochose ! ’
 42011008	Nowalongela hata ka ng'atsolamka bae na kukwing'a ichijo kwaapfila ghweghwe kwa sale yake , hambele katsolamka na kukwing'a chila ichinu ichaubamile kwaapfila ng'awonile bae chinyala kughendelela kumlomba . ”
 42011009	“ Apfo nowalongela , mlombe namwe mtsakwing'ighwa , mbame namwe mtsopata , mghong'onde libani namwe mtsofughulighwa .
 42011010	Kwaapfila imunu wowose iyolomba katsobokela , ne imunu wowose iyobama katsopata , ne imunu wowose iyoghonga libani katsofughulighwa .
-42011011	Aba wachi mna mwemwe iyomwing'a imwanaghe inzoka , ka imwanaghe kamlomba isomba ? i
+42011011	Aba wachi mna mwemwe iyomwing'a imwanaghe inzoka , ka imwanaghe kamlomba isomba ?
 42011012	Au ang'amlomba lifinga , katsomwing'a inge ?
 42011013	Ka mwemwe imwihile , mwomanya kuweng'a ipfinu pfinonoghile iwanenu , apfi Aba wenu yali kulanga ng'atsoweng'a bae Ghumuhe Mwenzeluka iwanu wala iwomlomba ? ”
 42011014	Yesu ang'ali yomlapfa ichinyamkela chibubu , na ichinyamkela hayalawile , imunu yula kandusa ukulonga , iwanu wakangawala .
@@ -2345,7 +2345,7 @@
 42012022	Kuya Yesu kawalongela iwanang'ina wake , “ Mleke kughaya na ukwalangula kwe ichijo chambama ili mkale waghima , au ghamaghwanda ghambama kwa ng'uli tsenu .
 42012023	Kwaapfila ughima unogha kubita ichijo na lukuli lunogha kubita maghwanda .
 42012024	Mlole iwabondwa ; ng'awahanda bae wala , ng'awopfuna bae , wala wahela kano , lekeni Imulungu kowang'itsa ! Mwemwe mnogha ng'ani kubita wapfideghe !
-42012025	Apfi yuhi mna mwemwe kwa kwidununza kodaha kwongetsa litsuwa limwe mne ughima wake ? j
+42012025	Apfi yuhi mna mwemwe kwa kwidununza kodaha kwongetsa litsuwa limwe mne ughima wake ?
 42012026	Ka ng'amdaha bae kutenda chinu chidodo ka chino , ebali mwopfidununzikila pfinu pfingi ?
 42012027	Mlole ghamaluwa pfaghokula ; ng'aghosang'ana bae wala ng'aghefoghosa bae . Lekeni nowalongela hata mndewa Selemani na tsimali tsake tsose ng'apfalile bae pfinoghile ka luwa limwe mne ghamaluwa ghano .
 42012028	Ka Imulungu koipfatsa imitsani ya kumghunda leloli lya baha , na ilupfi lyakwasighwa mmoto , apfi ng'atsowatendela mengi bae ? Pfii mwemwe yamtoghola chidogho !
@@ -2853,7 +2853,7 @@
 42023054	Tsaikala Ijumaa , litsuwa lya ukwiyandaa , na litsuwa lya Sabato tsalyahabehi kwandusa .
 42023055	Na awala iwapinga iwatsile na Yesu kulawa Galilaya wamuwinza Yosefu na walyona likabuli na lukuli lwa Yesu halwikighwe .
 42023056	Kuya woya akaye watanda ghamafuta ighonung'ila ghoya . Mne litsuwa lya Sabato wabwihila ka pfailaghitsighwe .
-42024001	12Litsuwa lya Jumapili lupfilipfili , iwapinga wasola ghamanukato ighawatandile na waghenda kune likabuli .
+42024001	Litsuwa lya Jumapili lupfilipfili , iwapinga wasola ghamanukato ighawatandile na waghenda kune likabuli .
 42024002	Walifika libwe lya kughubikila likabuli libingilisighwa hambalimbali mwe likabuli .
 42024003	Wengila mne likabuli , lekeni ng'awonile bae lukuli lwe Imtwatsa Yesu .
 42024004	Hawang'ali wokangawala kwa chinu acho , bahala iwanu weli iwapfalile ghamaghwanda ghang'alile ng'ani wema habehi nawo .
@@ -2948,7 +2948,7 @@
 43001040	Andereya , ndughu yake Simoni Petiri , kakala yumwe mna iwanu iwahulike achila chayalongile Yohane , na iwamuwinzile Yesu .
 43001041	Bahala , Andereya kambama ndughu yake Simoni , kamlongela , “ Tumwona Mkombotsi iyasaghulighwe ne Imulungu ! ” Ayo iyo Kiristu .
 43001042	Kuya Andereya kamsola Simoni kamghala kwa Yesu . Yesu kamlola kalonga , “ Ghweghwe kwa Simoni imwana wa Yohane . Kutsokemighwa Kefa . ” Kefa kwa Chigiriki Petiri , Petiri mana yake bambalawe .
-43001043	L itsuwa liwinzile Yesu kalamla kughenda Galilaya . Kamwona Filipi , kamlongela , “ Niwinze ! ”
+43001043	Litsuwa liwinzile Yesu kalamla kughenda Galilaya . Kamwona Filipi , kamlongela , “ Niwinze ! ”
 43001044	Filipi , tsakakala imunu wa isi ya Betisaida , isi yawang'ali wokala Andereya na Petiri .
 43001045	Filipi kamwona Nasanaeli , kamlongela , “ Tumwona imunu yula iyandikighwe mbuli tsake na Musa mne chitabu cha Ghamalaghitso , pfipfila manabii wandika mbuli tsake . Ayo iyo Yesu wa Natsareti , imwana wa Yosefu . ”
 43001046	Nasanaeli kaghutsa , “ Apfi yodahika ichinu chochose chinoghile chilawile Natsareti ? ” Filipi kamwidika , “ Utse wone . ”
@@ -3684,7 +3684,7 @@
 43018035	Pilato kamwidika , “ Apfi kwopfikitsa nene na Myahudi ? Iwanu wako na iwatambika wako wakulu wakughala kuna nene . Angu utendile choni ? ”
 43018036	Yesu kalonga , “ Undewa wangu si wa iisi ino bae , undewa wangu ung'awile wa iisi ino , iwatumighwa wangu wang'etowile na Wayahudi waleke kungogha . Bali undewa wangu si wa iisi ino ! ”
 43018037	Pilato kamghutsa , “ Apfi ghweghwe kwa mndewa ? ” Yesu kamwidika , “ Ghweghwe kwolonga nene namndewa . Nyelekighwa na nitsa muisi kwaajili ayo , kulonga mbuli tsa ukweli . Iwanu wose iwonoghela ukweli wonitegheletsa . ”
-43018038	Pilato kamghutsa , “ Ukweli chinu chachi ? ” Yesu kohighighwa yafe ( Matei 27:1-2 , 11-14 ; Maliki 15:1-5 ; Luka 23:1-5 ) Kuya Pilato kalawa keli kunze kawalongela Wayahudi , “ Sonile bae ghomba lya kumhigha imunu yuno .
+43018038	Pilato kamghutsa , “ Ukweli chinu chachi ? ” Yesu kohighighwa yafe . Kuya Pilato kalawa keli kunze kawalongela Wayahudi , “ Sonile bae ghomba lya kumhigha imunu yuno .
 43018039	Lekeni mne ichihendo chenu , nomlekelagha mwohighwa yumwe mne ghamatsuwa gha Ipasaka . Mwobama niwalekeleleni Imndewa wa Wayahudi ? ”
 43018040	Wakemelela , “ Bae , si yuno bae ! Twombama Baraba ! Baraba tsaang'ali yoboka iwanu . ”
 43019001	Kuya Pilato kalaghitsa Yesu yasolighwe , yapfapulighwe pfiboko .
@@ -3702,7 +3702,7 @@
 43019013	Pilato hayahulike apfi , kamghala Yesu kunze , kakala mne ichighoda cha mlamutsi hanu hamanyike ka “ Chibwalu che Ghamabwe . ” Kwa Chihebulaniya “ Gabatsa . ”
 43019014	Ikala saa sita nemisi , litsuwa lya kuiyandaa Ipasaka . Pilato kawalongela Wayahudi , “ Ayuno ano imndewa wenu ! ”
 43019015	Lekeni Wayahudi wakemelela , “ Mkome ! Mkome ! Mumuwambe mna msalaba ! ” Pilato kawaghutsa , “ Mwombama nimuwambe imndewa wenu ? ” Iwatambika wakulu wamwidika , “ Twetwe twahela imndewa yungi ila imndewa wa Roma yaliheka ! ”
-43019016	Kuya Pilato kamlapfa Yesu , kaweng'a wakamuwambe . Yesu kowambighwa mna msalaba ( Matei 27:32-44 ; Maliki 15:21-32 ; Luka 23:26-43 ) Kuya asikali wamsola Yesu .
+43019016	Kuya Pilato kamlapfa Yesu , kaweng'a wakamuwambe . Yesu kowambighwa mna msalaba . Kuya asikali wamsola Yesu .
 43019017	Naye kalawa aku kaughala msalaba wake , kughenda hanu hakemighwe Bombwe lya Litwi . Kwa Chihebulaniya hokemighwa Goligota .
 43019018	Baho wamuwamba Yesu mna msalaba , pfipfila tsawawawamba iwanu weli , yumwe ubali ungi na yungi ubali ungi , Yesu haghatighati .
 43019019	Pilato kandika chitango kachika mna msalaba . Kandika , “ Yesu wa Natsareti , Imndewa wa Wayahudi . ”
@@ -4725,7 +4725,7 @@
 44027006	Ako imkulu yula wa asikali kaipfika imeli ya Alekisandiliya iighenda Italiya , apfo katulongela tudine amwo .
 44027007	Tughendelela na ghumwanza lughalugha kwa ghamatsuwa mengi , kwa ukughaya tsatupfika habehi na Nido . Kwaapfila libeho tsaling'ali lyotughoma , tubita lubali lwe kuisi lwe Kirete habehi na Salimone .
 44027008	Kuya tubita kumwani kwa kughaya , kuya tupfika hanu hakemighwe Bandari Inoghile , habehi na kaye ya Leseya .
-44027009	Ghamatsuwa mengi tsaghabita , na litsuwa lya ukufunga ukuja tsalibita . c Ghumwanza tsaghukala ghwa mne ihatari ng'ani . Apfo Pauli kawakanya ,
+44027009	Ghamatsuwa mengi tsaghabita , na litsuwa lya ukufunga ukuja tsalibita . Ghumwanza tsaghukala ghwa mne ihatari ng'ani . Apfo Pauli kawakanya ,
 44027010	“ Walume weyangu , nakona ghumwanza ghwetu ghutsakuwa na maghayo tutsakwaghitsa imitsigho , imeli na ughima wetu pfipfila . ”
 44027011	Lekeni imkulu wa asikali kaleka kuhulikitsa ghayalongile Pauli , kawahulikitsa imkulu we imeli na imunu yane imeli ayo .
 44027012	Kwaapfila bandari ila ng'ainoghile bae kukala mne ghamatsuwa gha chipfeghetsi , iwanu wangi walamla tulawe ako tughende Foinike ka ing'adahike , na kukala ako ghamatsuwa ghose gha ichipfeghetsi . Foinike tsaikala ibandari ya Kirete iilolese lubali lwa kuchanya na lubali lwa kuisi kwa liswela litsuwa .
@@ -5105,7 +5105,7 @@
 45011032	Kwaapfila Imulungu kawatenda iwanu wose waleke kutegheletsa , ili yawonele libatsi iwanu wose .
 45011033	Utajili we Imulungu mkulu sideke na ihekima yake ng'ulu na ukumanya kwake kukulu . Yuhi iyomanya pfayolamla ? Yuhi iyomanya nzila tsake ?
 45011034	“ Yuhi yomanya chayopfikitsa Imulungu , yuhi iyodaha kumlongotsa mna ukulamla kwake ,
-45011035	Yuhi iyalongol e kumwing'a chinu , kuya Imulungu yamlihe ? ”
+45011035	Yuhi iyalongole kumwing'a chinu , kuya Imulungu yamlihe ? ”
 45011036	Kwaapfila pfinu pfose pfolawa kuna yeye , na pfabaha kubitila yeye na kwaajili ya yeye . Imulungu yatunitsighwe ghamatsuwa ghose . Ona .
 45012001	Apfo ndughu tsangu , kwaapfila Imulungu kana libatsi sideke , nomlombani ghendo mlapfe ughima wenu ka nambiko iili ngima , muwe wahenzeluka na mtende aghala ighamnoghela yeye . Ako kuko ukumtamanila Imulungu kunoghile .
 45012002	Mleke kughawinza keli aghala ighali muisi mno , Imulungu na yaghaluse mbutsi tsenu , ili mdahe kughamanya aghala ghoyobama Imulungu . Mtange chihi chinoghile na chihi ichimnoghela yeye na ichitimilike .
